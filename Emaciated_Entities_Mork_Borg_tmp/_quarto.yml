@@ -1,0 +1,25 @@
+project:
+  type: book
+
+book:
+  title: "Emaciated Entities"
+  author: "Matthew R. Gemmell"
+  date: "07/06/2025"
+  chapters:
+    - index.qmd
+    - part: "The Biter of Hands"
+      chapters:
+      - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    css: styles.scss
+  pdf:
+    documentclass: scrreprt
+
+
+

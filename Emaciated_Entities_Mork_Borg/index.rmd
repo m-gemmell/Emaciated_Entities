@@ -1,0 +1,22 @@
+# The Emaciated Entities {.unnumbered}
+
+## Contents {.unnumbered}
+
+This book covers the six Emaciated Entities and is compatible with the [MÖRK BORG TTRPG](https://morkborg.com/).
+
+It includes:
+
+- Descriptions of the six Emaciated Entities.
+- An optional player class for each Entity.
+- Powers from the Entities.
+- Creatures for each Entity.
+
+## Legal {.unnumbered}
+
+<center>
+![](./images/CompWith_MORKBORG_horiz.svg){style="width:250px"}
+</center>
+
+The Emaciated Entities is an independent production by Matthew R. Gemmell and is not affiliated with Ockult Örtmästare Games or Stockholm Kartell. It is published under the MÖRK BORG Third Party License.
+
+MÖRK BORG is copyright Ockult Örtmästare Games and Stockholm Kartell. 
