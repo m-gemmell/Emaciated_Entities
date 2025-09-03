@@ -32,7 +32,12 @@ $link-color: $sticky-dark-yellow;
 /*-- scss:rules --*/
 
 mainfont {
-  font-family: "Cabin";
+  font-family: "Cabin", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: "Cabin Sketch", sans-serif;
@@ -40,8 +45,11 @@ h1, h2, h3, h4, h5, h6 {
   font-style: normal;
 }
 
-// Centre a first level header
+// Centre a first and second level header
 .h1centre h1 {
+  text-align: center;
+}
+.h2centre h2 {
   text-align: center;
 }
 
