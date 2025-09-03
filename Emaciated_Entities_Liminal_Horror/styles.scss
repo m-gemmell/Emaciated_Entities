@@ -1,0 +1,51 @@
+/*-- scss:defaults --*/
+
+// Import fonts
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&family=Cabin:ital,wght@0,400..700;1,400..700&display=swap');
+
+// Colors
+$ibm-blue: #648fff;
+$blue: #5282FF;
+$ibm-purple: #785ef0;
+$ibm-maroon: #dc267f;
+$ibm-orange: #fe6100;
+$ibm-yellow: #ffb000;
+$code-purple: #7D12BA;
+$light-grey: #F8F9FA;
+$sticky-light-pink: #ff7eb9;
+$sticky-dark-pink: #ff65a3;
+$sticky-blue: #7afcff;
+$sticky-light-yellow: #feff9c;
+$sticky-dark-yellow: #fff740;
+$dark-grey: #252a34;
+
+
+// Base document colors
+$navbar-bg: $dark-grey;
+$navbar-hl: $sticky-dark-yellow; // highlight color when hovering over navbar links
+$footer-bg: $dark-grey; // footer
+$sidebar-hl: $sticky-dark-yellow;
+
+$link-color: $sticky-dark-yellow;
+
+
+/*-- scss:rules --*/
+
+mainfont {
+  font-family: "Cabin";
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Cabin Sketch", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+// Centre a first level header
+.h1centre h1 {
+  text-align: center;
+}
+
+.tippy-tooltip {
+  font-size: 16px;
+  padding: 3px 5px;
+}

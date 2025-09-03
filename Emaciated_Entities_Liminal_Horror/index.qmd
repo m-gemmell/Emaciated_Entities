@@ -1,0 +1,46 @@
+---
+title: "Emaciated Entities"
+---
+
+This is a website to host information on the Sticky Crawl and 7 Emaciated Entities.
+These materials are compatible with the [Liminal Horror TTRPG](https://liminalhorrorrpg.com/).
+
+## Sticky crawl
+
+[The Sticky Crawl](/sticky_crawl/sticky_crawl.qmd) is a method to create mystery locations with the following features:
+
+- Locations are represented by sticky notes with 1-4 exits (matching the sticky note sides).
+- The layout of the location is organic with random sticky notes being places as the investigators use exits.
+- The locations are not random, instead the "pool" of locations are bespoke to the mystery.
+
+On top of the rules a small example Sticky Crawl is included.
+
+## Emaciated Entities
+
+Additionally there are 7 Emaciated Entities included in these materials.
+These are once powerful entities that have been starved by the machinations of mankind. 
+Now they prey on humans who deny these entities previous purpose.
+
+The Emaciated entities included are:
+
+- [The Lighter of Kindling](/the_lighter_of_kindling/the_light_of_kindling.qmd)
+- The ___
+- [The Biter of Hands](/the_biter_of_hands/the_biter_of_hands.qmd)
+- [The Eyes of the Painted](/the_eyes_of_the_painted/the_eyes_of_the_painted.qmd)
+- [The Taker of Thoughts](/the_taker_of_thoughts/the_taker_of_thoughts.qmd)
+- [The Puller of Gilded Strings](/the_puller_of_gilded_strings/the_puller_of_gilded_strings.qmd)
+- [The Toll of Unmeaning](/the_toll_of_unmeaning/the_toll_of_unmeaning.qmd)
+
+Each deity includes:
+
+- A poem
+- Horrors of the Entity (creature stats)
+- Resonant artifacts
+- Fallouts
+- A Sticky Crawl mystery
+
+## License
+
+Emaciated Entities is an independent production by Matthew R. Gemmell and is not affiliated with Goblin Archives LLC. It is published under the [Liminal Horror Third Party License](https://liminalhorrorrpg.com/3pp/).
+
+Liminal Horror is copyright by Goblin Archives LLC.

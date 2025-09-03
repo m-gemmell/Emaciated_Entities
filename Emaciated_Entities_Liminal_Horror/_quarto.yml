@@ -1,0 +1,112 @@
+project:
+  type: website
+editor:
+  render-on-save: true
+website:
+  bread-crumbs: false
+  page-navigation: true
+  title: Emaciated Entities
+  description: Emaciated Entities for Liminal Horror
+  navbar:
+    title: Emaciated Entities
+    collapse-below: lg
+    left:
+    - text: Overview
+      href: index.qmd
+    - text: Sticky Crawl
+      href: sticky_crawl/sticky_crawl.qmd
+    - text: Kindling
+      href: the_lighter_of_kindling\the_light_of_kindling.qmd
+    - text: Hands
+      href: the_biter_of_hands\the_biter_of_hands.qmd
+    - text: Painted
+      href: the_eyes_of_the_painted\the_eyes_of_the_painted.qmd
+    - text: Thoughts
+      href: the_taker_of_thoughts\the_taker_of_thoughts.qmd
+    - text: Strings
+      href: the_puller_of_gilded_strings\the_puller_of_gilded_strings.qmd
+    - text: Unmeaning
+      href: the_toll_of_unmeaning\the_toll_of_unmeaning.qmd
+    right:
+    - icon: house-fill
+      href: https://m-gemmell.github.io/
+      aria-label: m-gemmell website
+    - icon: cup
+      href: https://ko-fi.com/waveofinspiration
+      aria-label: Ko-fi
+    - icon: github
+      href: https://github.com/m-gemmell/PRIMEVAL_DEITIES
+      aria-label: GitHub
+    - icon: bluesky
+      href: https://bsky.app/profile/m-gemmell.bsky.social
+      aria-label: m-gemmell bluesky account
+  page-footer:
+    center: |
+      [![](/images/Compatible with Liminal Horror 3 yellow.png){fig-alt="LH" height=60px}](https://liminalhorrorrpg.com/3pp/)
+  sidebar:
+  - id: Overview
+    title: Overview
+    style: floating
+    align: left
+    contents:
+    - href: index.qmd
+  - id: Sticky Crawl
+    title: Overview
+    style: floating
+    align: left
+    contents:
+    - href: sticky_crawl\sticky_crawl.qmd
+  - id: The Lighter of Kindling
+    title: Overview
+    style: floating
+    align: left
+    contents:
+    - href: the_lighter_of_kindling\the_light_of_kindling.qmd
+  - id: The Biter of Hands
+    title: Overview
+    style: floating
+    align: left
+    contents:
+    - href: the_biter_of_hands\the_biter_of_hands.qmd
+  - id: The Eyes of the Painted
+    title: Overview
+    style: floating
+    align: left
+    contents:
+    - href: the_eyes_of_the_painted\the_eyes_of_the_painted.qmd
+  - id: The Taker of Thoughts
+    title: Overview
+    style: floating
+    align: left
+    contents:
+    - href: the_taker_of_thoughts/the_taker_of_thoughts.qmd
+    - href: the_taker_of_thoughts/fallouts.qmd
+  - id: The Puller of Gilded Strings
+    title: Overview
+    style: floating
+    align: left
+    contents:
+    - href: the_puller_of_gilded_strings\the_puller_of_gilded_strings.qmd
+  - id: The Toll of Unmeaning
+    title: Overview
+    style: floating
+    align: left
+    contents:
+    - href: the_toll_of_unmeaning\the_toll_of_unmeaning.qmd
+format:
+  html:
+    fig-width: 10.2
+    fig-height: 6
+    grid:
+      sidebar-width: 200px
+      body-width: 1000px
+      margin-width: 200px
+      gutter-width: 0.75em
+    css: include/webex.css
+    include-after-body: include/webex.js
+    theme:
+      - darkly
+      - styles.scss
+    embed-resources: false
+    toc: true
+    mainfont: Cabin

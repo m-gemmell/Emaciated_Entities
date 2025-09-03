@@ -1,0 +1,86 @@
+# The Toll of Unmeaning {.h1centre}
+
+<center>
+Please read this poem of <u id='flosculations'>flosculations</u>,<br>
+Upon this <u id='kalotypography'>kalotypography</u>.<br>
+Experience <u id='apanthropinization'>apanthropinization</u>,<br>
+To inhabit its lost <u id='artigraphy'>artigraphy</u>.
+
+Displaced through <u id='summotion'>summotion</u>,<br>
+It pealed against <u id='eveniance'>eveniance</u>.<br>
+Taken by <u id='tollation'>tollation</u>,<br>
+Transported in a grand <u id='gardeviance'>gardeviance</u>.
+
+Now its voice no different to <u id='crocitations'>crocitations</u>,<br>
+Never completing its <u id='archiloquy'>archiloquy</u>.<br>
+For to all that hear its <u id='blaterations'>blaterations</u>,<br>
+They will always be deaf to its <u id='tortiloquy'>tortiloquy</u>.
+
+Yet, its form interests the <u id='campanologists'>campanologists</u>,<br>
+And they toll the bell to <u id='desarcinate'>desarcinate</u>.<br>
+So they turn into <u id='phlyarologists'>phlyarologists</u>,<br>
+And all at once are unable to <u id='obacerate'>obacerate</u>.<br>
+
+Its echoed pain only brings it <u id='amarulence'>amarulence</u>,<br>
+So they're silenced with a guillotining.<br>
+Its voice is long dead, ringing in a <u id='graviloquence'>graviloquence</u>,<br>
+And so the bell chimes, the Toll of unmeaning.
+</center>
+
+```{r, echo=FALSE}
+#Tippy tooltips
+tippy::tippy_this(elementId = "flosculations", 
+                  tooltip = "An embellishment or ornament in speech",
+                  arrow = TRUE, placement = "bottom")
+tippy::tippy_this(elementId = "kalotypography", 
+                  tooltip = "Beautiful printing",
+                  arrow = TRUE, placement = "bottom")
+tippy::tippy_this(elementId = "Apanthropinization", 
+                  tooltip = "Withdrawal from human concerns or the human world",
+                  arrow = TRUE, placement = "bottom")
+tippy::tippy_this(elementId = "artigraphy", 
+                  tooltip = "Writing /composing grammar",
+                  arrow = TRUE, placement = "bottom")
+tippy::tippy_this(elementId = "summotion", 
+                  tooltip = "Removal",
+                  arrow = TRUE, placement = "bottom")
+tippy::tippy_this(elementId = "eveniance", 
+                  tooltip = "Coming to pass",
+                  arrow = TRUE, placement = "bottom")
+tippy::tippy_this(elementId = "tollation", 
+                  tooltip = "Act of lifting",
+                  arrow = TRUE, placement = "bottom")
+tippy::tippy_this(elementId = "gardeviance", 
+                  tooltip = "Travelling trunk",
+                  arrow = TRUE, placement = "bottom")
+tippy::tippy_this(elementId = "crocitations", 
+                  tooltip = "Croaking/cawing",
+                  arrow = TRUE, placement = "bottom")
+tippy::tippy_this(elementId = "archiloquy", 
+                  tooltip = "First part of a speech",
+                  arrow = TRUE, placement = "bottom")
+tippy::tippy_this(elementId = "blaterations", 
+                  tooltip = "chatter; babbling",
+                  arrow = TRUE, placement = "bottom")
+tippy::tippy_this(elementId = "tortiloquy", 
+                  tooltip = "Crooked speech",
+                  arrow = TRUE, placement = "bottom")
+tippy::tippy_this(elementId = "campanologists", 
+                  tooltip = "Studier of bells",
+                  arrow = TRUE, placement = "bottom")
+tippy::tippy_this(elementId = "desarcinate", 
+                  tooltip = "TO unload; to unburden",
+                  arrow = TRUE, placement = "bottom")
+tippy::tippy_this(elementId = "phlyarologists", 
+                  tooltip = "One who talks nonsense",
+                  arrow = TRUE, placement = "bottom")
+tippy::tippy_this(elementId = "obacerate", 
+                  tooltip = "Stop one's mouth",
+                  arrow = TRUE, placement = "bottom")
+tippy::tippy_this(elementId = "amarulence", 
+                  tooltip = "Bitterness, spite",
+                  arrow = TRUE, placement = "bottom")
+tippy::tippy_this(elementId = "graviloquence", 
+                  tooltip = "Grave speech",
+                  arrow = TRUE, placement = "bottom")
+```

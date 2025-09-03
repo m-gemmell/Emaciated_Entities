@@ -1,0 +1,36 @@
+/*-- scss:defaults --*/
+
+// Import fonts
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&family=Cabin:ital,wght@0,400..700;1,400..700&display=swap');
+
+// Colors
+$ibm-blue: #648fff;
+$blue: #5282FF;
+$ibm-purple: #785ef0;
+$ibm-maroon: #dc267f;
+$ibm-orange: #fe6100;
+$ibm-yellow: #ffb000;
+$neof-green: #00af37;
+$neof-grey: #333e47;
+$code-purple: #7D12BA;
+$light-grey: #F8F9FA;
+
+// Base document colors
+$navbar-bg: $neof-grey;
+$navbar-hl: $neof-green; // highlight color when hovering over navbar links
+$footer-bg: $neof-grey; // footer
+$sidebar-hl: $neof-green;
+
+$link-color: $blue;
+
+//Inline code
+$code-bg: $light-grey;
+$code-color: $code-purple;
+
+/*-- scss:rules --*/
+mainfont {
+  font-family: "Cabin";
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Cabin Sketch";
+}
