@@ -15,17 +15,17 @@ website:
       href: index.qmd
     - text: Sticky Crawl
       href: sticky_crawl/sticky_crawl.qmd
-    - text: Kindling
+    - text: Lighter of Kindling
       href: the_lighter_of_kindling\the_light_of_kindling.qmd
-    - text: Hands
+    - text: Biter of Hands
       href: the_biter_of_hands\the_biter_of_hands.qmd
-    - text: Painted
+    - text: Eyes of the Painted
       href: the_eyes_of_the_painted\the_eyes_of_the_painted.qmd
-    - text: Thoughts
+    - text: Taker of Thoughts
       href: the_taker_of_thoughts\the_taker_of_thoughts.qmd
-    - text: Strings
+    - text: Puller of Gilded Strings
       href: the_puller_of_gilded_strings\the_puller_of_gilded_strings.qmd
-    - text: Unmeaning
+    - text: Toll of Unmeaning
       href: the_toll_of_unmeaning\the_toll_of_unmeaning.qmd
     right:
     - icon: house-fill
@@ -102,6 +102,7 @@ website:
       - href: the_toll_of_unmeaning\the_bell_ritual.qmd
       - href: the_toll_of_unmeaning\the_guillotined.qmd
       - href: the_toll_of_unmeaning\fallouts.qmd
+      - href: the_toll_of_unmeaning\locations.qmd
 format:
   html:
     fig-width: 10.2
