@@ -25,6 +25,7 @@ When investigators try to use an exit and there are no valid locations left in t
 |                                   | -   [The Bell Ritual](/the_toll_of_unmeaning/the_bell_ritual.qmd) must be accomplished here.                                                                                                                    |
 |                                   | -   [Rotary Phone Head](/the_toll_of_unmeaning/the_guillotined.qmd#rotary-phone-head) will not hunt here                                                                                                        |
 +-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
 : {tbl-colwidths="\[25,75\]"}
 
 ## East locations
@@ -42,6 +43,7 @@ East locations cannot directly connect to West locations. The East and West are 
 |                                             |                                                                                                                    |
 |                                             | -   Those that rest here heal 1 lost CTRL (max once). After the rest the investigator can no longer smell heather. |
 +---------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
+
 : {tbl-colwidths="\[25,75\]"}
 
 ### (2) Herbaceous Garden
@@ -52,6 +54,7 @@ East locations cannot directly connect to West locations. The East and West are 
 |                                                | -   Those who haphazardly walk through will find themselves falling asleep (STR save to avoid sleep).                                                                                                                                      |
 |                                                | -   If there are no awake investigators to watch/help the investigator will have one of their items stolen by [Rotary Phone Head](/the_toll_of_unmeaning/the_guillotined.qmd#rotary-phone-head) if they are alive and have been activated. |
 +------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
 : {tbl-colwidths="\[25,75\]"}
 
 ### (3) Iris Garden
@@ -64,6 +67,7 @@ East locations cannot directly connect to West locations. The East and West are 
 |                                          |     -   Those who failed will have their vision reversed, where their iris looks into their eye instead of out of their eye (1d4 dex damage). |
 |                                          |     -   Their vision will mostly return to normal once they leave the iris garden.                                                            |
 +------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+
 : {tbl-colwidths="\[25,75\]"}
 
 ### (4) The Park
@@ -74,6 +78,7 @@ East locations cannot directly connect to West locations. The East and West are 
 |                                       | -   For those who watch the sky they will hear the sound of a bell come from space.                                                          |
 |                                       | -   It will ring 7 times, each time a new star appears forming a constellation in the shape of a bell (1 stress).                            |
 +---------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+
 : {tbl-colwidths="\[25,75\]"}
 
 ### (5) Nursery Glade
@@ -85,6 +90,7 @@ East locations cannot directly connect to West locations. The East and West are 
 |                                            | -   It will run off screaming and leave a trail of petals.                                                                             |
 |                                            | -   If followed you will find it being strangled by [Rotary Phone Head](/the_toll_of_unmeaning/the_guillotined.qmd#rotary-phone-head). |
 +--------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------+
+
 : {tbl-colwidths="\[25,75\]"}
 
 ### (6) Oxbury House
@@ -94,6 +100,7 @@ East locations cannot directly connect to West locations. The East and West are 
 |                                           |                                                                                                                                                                                                                     |
 |                                           | -   [Gramophone Head](/the_toll_of_unmeaning/the_guillotined.qmd#gramophone-head) can be found in one of the rooms attempting to drink whiskey and smoke a cigar.                                                   |
 +-------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
 : {tbl-colwidths="\[25,75\]"}
 
 ### (7) Rare Space Garden
@@ -104,6 +111,7 @@ East locations cannot directly connect to West locations. The East and West are 
 |                                                | -   [Rotary Phone Head](/the_toll_of_unmeaning/the_guillotined.qmd) is waiting here, they will hide when investigators approach. |
 |                                                | -   From then on Rotary phone head is activated and will stalk the investigators, attempting to ambush one when they are alone.  |
 +------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+
 : {tbl-colwidths="\[25,75\]"}
 
 ### (8) Sakura Cherry Garden
@@ -115,6 +123,7 @@ East locations cannot directly connect to West locations. The East and West are 
 |                                                   | -   Once the petal human dies the petal rises back to the cherry tree to go through the cycle once more.                     |
 |                                                   | -   The first petal taken by an investigator becomes frozen in time becoming a memento with 1 stability.                     |
 +---------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+
 : {tbl-colwidths="\[25,75\]"}
 
 ### (9) Sundial Garden
@@ -122,6 +131,7 @@ East locations cannot directly connect to West locations. The East and West are 
 +---------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | ![](images/sundial_garden.png){width="500"} | A garden surrounded by large manicured yew hedges. Investigating and appreciating the griffin topped sundial is the friendly [Typewriter Head](/the_toll_of_unmeaning/the_guillotined.qmd#typewriter-head). |
 +---------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
 : {tbl-colwidths="\[25,75\]"}
 
 ### (10) Witcher’s Wood
@@ -132,19 +142,24 @@ East locations cannot directly connect to West locations. The East and West are 
 |                                            | -   Lone investigator's will be ambushed by [Rotary Phone Head](/the_toll_of_unmeaning/the_guillotined.qmd#rotary-phone-head), if alive, when they are alone here. |
 |                                            | -   Investigator's must roll a CTRL save or become separated from other investigators.                                                                             |
 +--------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
 : {tbl-colwidths="\[25,75\]"}
 
 ## Bridge
 
 Once all the Central locations have been entered at least once use the below location as the next location to add to the map.
 
-### Gilbury bridge
+### Gilbury Bridge
 
-A massive goat guards the bridge. Below it where the road once was is a deep fast flowing river that will devour any who try to cross it, the danger is immediately obvious.
++---------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/gilbury_bridge.png){width="500"} | A massive goat guards the bridge. Below it where the road once was is a deep fast flowing river that will devour any who try to cross it, the danger is immediately obvious. |
+|                                             |                                                                                                                                                                              |
+|                                             | -   The Massive goat can surprisingly speak and will demand the toll of a rotary phone to pass.                                                                              |
+|                                             | -   The E exit can only lead to/from East locations.                                                                                                                         |
+|                                             | -   The W exit can only lead to/from West locations.                                                                                                                         |
++---------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
--   The Massive goat can surprisingly speak and will demand the toll of a rotary phone to pass.
--   The E exit can only lead to/from East locations.
--   The W exit can only lead to/from West locations.
+: {tbl-colwidths="\[25,75\]"}
 
 ## West
 
@@ -158,66 +173,110 @@ East locations cannot directly connect to West locations. The East and West are 
 
 ### (1) Augustinii corner
 
-Off in the intersection of two paths [Chalkboard head](/the_toll_of_unmeaning/the_guillotined.qmd#chalkboard-head) can be found.
++------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/augustinii_corner.png){width="500"} | Off in the intersection of two paths [Chalkboard head](/the_toll_of_unmeaning/the_guillotined.qmd#chalkboard-head) can be found. |
++------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+
+: {tbl-colwidths="\[25,75\]"}
 
 ### (2) Boardwalk
 
-A curling boardwalk over a dreaded bog. Whispers of dead loved ones will speak in decipherable noises.
++----------------------------------------+----------------------------------------------------------------------------------------------------------+
+| ![](images/boardwalk.png){width="500"} | A curling boardwalk over a dreaded bog. Whispers of dead loved ones will speak in decipherable noises.   |
+|                                        |                                                                                                          |
+|                                        | -   When traversing make a CTRL save.                                                                    |
+|                                        |     -   Success: Traverse the boardwalk and they teleport to their final destination within the gardens. |
+|                                        |     -   Failure: d6 stress and go back to the start of Boardwalk.                                        |
++----------------------------------------+----------------------------------------------------------------------------------------------------------+
 
--   When traversing make a CTRL save.
-    -   Success: Traverse the boardwalk and they teleport to their final destination within the gardens.
-    -   Failure: d6 stress and go back to the start of Boardwalk.
+: {tbl-colwidths="\[25,75\]"}
 
-### (3) Bog garden
+### (3) Bog Garden
 
-The bog gardens are covered in a steam mist produced by [Steam Whistle Head]((/the_toll_of_unmeaning/the_guillotined.qmd)).
++-----------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/bog_garden.png){width="500"} | The Bog Gardens are covered in a steam mist produced by [Steam Whistle Head]((/the_toll_of_unmeaning/the_guillotined.qmd)).                                                                                    |
+|                                         |                                                                                                                                                                                                                |
+|                                         | -   It is difficult to find [Steam Whistle Head](/the_toll_of_unmeaning/the_guillotined.qmd#steam-whistle-head) as their whistles echo in the mist and the poor visibility makes navigating the bog dangerous. |
++-----------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
--   It is difficult to find [Steam Whistle Head](/the_toll_of_unmeaning/the_guillotined.qmd#steam-whistle-head) as their whistles echo in the mist and the poor visibility makes navigating the bog dangerous.
+: {tbl-colwidths="\[25,75\]"}
 
 ### (4) Domesday yew
 
-Amongst the trees and plants stands out the Domesday yew. Where once a hollowed out tree stood now stands a massive yew treant.
++-------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/domesday_yew.png){width="500"} | Amongst the trees and plants stands out the Domesday yew. Where once a hollowed out tree stood now stands a massive yew treant.      |
+|                                           |                                                                                                                                      |
+|                                           | -   The treant will talk and try to persuade people to come closer.                                                                  |
+|                                           | -   It is rooted in place but grabs anything moving within its reach, raising it to its mouth to eat.                                |
+|                                           | -   It will not chew, instead only swallowing.                                                                                       |
+|                                           | -   Soon the unlucky morsel will fall out the bottom of the treant suffering d6 damage and the treant will be satisfied momentarily. |
++-------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
 
--   The treant will talk and try to persuade people to come closer.
--   It is rooted in place but grabs anything moving within its reach, raising it to its mouth to eat.
--   It will not chew, instead only swallowing.
--   Soon the unlucky morsel will fall out the bottom of the treant suffering d6 damage and the treant will be satisfied momentarily.
+: {tbl-colwidths="\[25,75\]"}
 
-### (5) Dragonfly pond
+### (5) Dragonfly Pond
 
-Static washes through the area as [CRT TV Head](/the_toll_of_unmeaning/the_guillotined.qmd#crt-tv-head) looks over the pond. Moths buzz around their head as dragonflies fly in and out of the light hunting them.
++---------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/dragonfly_pond.png){width="500"} | Static washes through the area as [CRT TV Head](/the_toll_of_unmeaning/the_guillotined.qmd#crt-tv-head) looks over the pond. Moths buzz around their head as dragonflies fly in and out of the light hunting them. |
++---------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+: {tbl-colwidths="\[25,75\]"}
 
 ### (6) Jubilee Pond
 
-Weeping willows reflect off the mirror surface of the pond.
++-------------------------------------------+--------------------------------------------------------------------------------------------+
+| ![](images/jubilee_pond.png){width="500"} | Weeping willows reflect off the mirror surface of the pond.                                |
+|                                           |                                                                                            |
+|                                           | -   The branches of the trees sink into the water, they grab and attempt to drown the vain |
+|                                           |     -   DEX save to avoid                                                                  |
+|                                           |     -   STR save to pull friend from willow tree's grasp or an inventive idea.             |
++-------------------------------------------+--------------------------------------------------------------------------------------------+
 
--   The branches of the trees sink into the water, they grab and attempt to drown the vain
-    -   DEX save to avoid
-    -   STR save to pull friend from willow tree's grasp or an inventive idea.
+: {tbl-colwidths="\[25,75\]"}
 
-### (7) Mirror pond
+### (7) Mirror Ponds
 
-2 identical ponds lie at the end of a stream.
++-------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/mirror_ponds.png){width="500"} | 2 identical ponds lie at the end of a stream.                                                                                                                                            |
+|                                           |                                                                                                                                                                                          |
+|                                           | -   Each pond reflects the image the other pond should.                                                                                                                                  |
+|                                           | -   If [Rotary Phone Head](/the_toll_of_unmeaning/the_guillotined.qmd#rotary-phone-head) is still on the loose he will be easily spotted lurking in the trees through these reflections. |
++-------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
--   Each pond reflects the image the other pond should.
--   If [Rotary Phone Head](/the_toll_of_unmeaning/the_guillotined.qmd#rotary-phone-head) is still on the loose he will be easily spotted lurking in the trees through these reflections.
+: {tbl-colwidths="\[25,75\]"}
 
 ### (8) Nyssa collection
 
-A collection of red leafed Nyssa surround this three way intersection.
++-----------------------------------------------+----------------------------------------------------------------------------------------------+
+| ![](images/nyssa_collection.png){width="500"} | A collection of red leafed Nyssa surround this three way intersection.                       |
+|                                               |                                                                                              |
+|                                               | -   When entering the intersection a gale picks up and the leaves envelop the investigators. |
+|                                               | -   Afterwards, randomly determine which way the investigators leave.                        |
++-----------------------------------------------+----------------------------------------------------------------------------------------------+
 
--   When entering the intersection a gale picks up and the leaves envelop the investigators.
--   Afterwards, randomly determine which way the investigators leave.
+: {tbl-colwidths="\[25,75\]"}
 
-### (9) Rock garden
+### (9) Rock Garden
 
-A rock garden full of life and rocks. In the centre stands an upright log with a golden bell.
++------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/rock_garden.png){width="500"} | A rock garden full of life and rocks. In the centre stands an upright log with a golden bell.                                                        |
+|                                          |                                                                                                                                                      |
+|                                          | -   As the investigators traverse the rock garden the rocks shift and grind the trees, plants and log down into the earth.                           |
+|                                          | -   The investigators can retreat safely or attempt to grab the bell before it is swallowed by the rocks.                                            |
+|                                          | -   To grab the bell make a DEX save                                                                                                                 |
+|                                          |     -   Success = Grab Golden bell (deals d6 stress to otherworld entities/monsters and the transformed (those with 3 or more fallouts))             |
+|                                          |     -   Failure = suffer d6 damage.                                                                                                                  |
+|                                          | -   If the investigators return to this location it looks like it once did before the destruction and will remain stable, but their will be no bell. |
++------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
 
--   As the investigators traverse the rock garden the rocks shift and grind the trees, plants and log down into the earth.
--   The investigators can retreat safely or attempt to grab the bell before it is swallowed by the rocks.
--   To grab the bell make a DEX save
-    -   Success = Grab Golden bell (deals d6 stress to otherworld entities/monsters and the transformed (those with 3 or more fallouts))
-    -   Failure = suffer d6 damage.
--   If the investigators return to this location it looks like it once did before the destruction and will remain stable, but their will be no bell.
+: {tbl-colwidths="\[25,75\]"}
 
 ### (10) Train Station
+
++--------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
+| ![](images/train_station.png){width="500"} | -   Whilst driving the train can make it stop at any West location. The train restarts once investigators have jumped off. |
+|                                            |                                                                                                                            |
+|                                            | -   Jumping onto the train is dangerous due to the scalding hot steam surrounding it (d6 damage).                          |
++--------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
+
+: {tbl-colwidths="\[25,75\]"}
