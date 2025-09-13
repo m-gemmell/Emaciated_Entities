@@ -5,6 +5,8 @@ title: "Emaciated Entities"
 This is a website to host information on the Sticky Crawl and 7 Emaciated Entities.
 These materials are compatible with the [Liminal Horror TTRPG](https://liminalhorrorrpg.com/).
 
+__Note:__ This site is a work in progress with much to add and edit.
+
 ## Sticky crawl
 
 [The Sticky Crawl](/sticky_crawl/sticky_crawl.qmd) is a method to create mystery locations with the following features:

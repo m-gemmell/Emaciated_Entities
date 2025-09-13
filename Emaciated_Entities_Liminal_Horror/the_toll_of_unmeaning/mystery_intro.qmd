@@ -1,3 +1,14 @@
 # Intro
 
-The groundskeeper Izzy (Issabella) has recruited the investigators to help. Six individuals came to investigate the old bell, however something apparently went wrong as the groundskeeper heard an immense ringing and the 6 individuals were gone. Izzy will wait in the Entrance location where nothing is going on.
+WIP
+
+Something terrible has occured at Oxbury Gardens, a British garden attraction in the New Forset (South English coast).
+The groundskeeper of Izzy (Issabella) has recruited the investigators to help. Six individuals came to investigate the old bell, however something apparently went wrong as the groundskeeper heard an immense ringing and the 6 individuals were gone.
+
+The sections of this mystery are:
+
+- [Prelude](/the_toll_of_unmeaning/prelude.qmd): Narration prelude to set the scene.
+- [The Bell ritual](/the_toll_of_unmeaning/the_bell_ritual.qmd): The ritual the investigators must perform to escape the garden.
+- [The Guillotined](/the_toll_of_unmeaning/the_guillotined.qmd): The six changed individuals. The investigators must track them down, extract the ritual steps from them, and not become their prey.
+- [Fallouts](the_toll_of_unmeaning/fallouts.qmd): The mystery specific fallouts.
+- [Locations](the_toll_of_unmeaning/locations.qmd): The locations for this mystery's [sticky crawl](/sticky_crawl/sticky_crawl.qmd).

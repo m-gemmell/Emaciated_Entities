@@ -4,16 +4,6 @@
 
 To start the mystery "Issy" brings the investigators to the "The Old Bell". She will answer questions but remain at The Old Bell.
 
-## East and West locations
-
-In this mystery their are East and West locations.
-
-The investigators will start by investigating the East Locations. Once they have discovered all the East locations they will discover the Gilbury bridge that leads to the West locations.
-
-The exits of East locations cannot be used to move directly to West locations. The exits of West locations cannot be used to move directly to East locations.
-
-When investigators try to use an exit and there are no valid locations left in the pool, or the connection is invalid (i.e. a East location to a West location) they do not move normally. Instead, the Investigators move to a random valid location with an empty exit and they each suffer one stress. The 2 exits become connected.
-
 ### The Old Bell
 
 +-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -27,6 +17,16 @@ When investigators try to use an exit and there are no valid locations left in t
 +-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 : {tbl-colwidths="\[25,75\]"}
+
+## East and West locations
+
+In this mystery there are East and West locations.
+
+The investigators will start by investigating the East Locations. Once they have discovered all the East locations they will discover the Gilbury bridge that leads to the West locations.
+
+The exits of East locations cannot be used to move directly to West locations. The exits of West locations cannot be used to move directly to East locations.
+
+When investigators try to use an exit and there are no valid locations left in the pool, or the connection is invalid (i.e. a East location to a West location) they do not move normally. Instead, the Investigators move to a random valid location with an empty exit and they each suffer one stress. The 2 exits become connected.
 
 ## East locations
 
@@ -273,10 +273,12 @@ East locations cannot directly connect to West locations. The East and West are 
 
 ### (10) Train Station
 
-+--------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
-| ![](images/train_station.png){width="500"} | -   Whilst driving the train can make it stop at any West location. The train restarts once investigators have jumped off. |
-|                                            |                                                                                                                            |
-|                                            | -   Jumping onto the train is dangerous due to the scalding hot steam surrounding it (d6 damage).                          |
-+--------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
++--------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/train_station.png){width="500"} | A small train station for a small steam train. When the foot wide train arrives it spits out steam and screams a whistle of pain.            |
+|                                            |                                                                                                                                              |
+|                                            | -   Whilst driving the train, the investigator can make it stop at any West location. The train restarts once investigators have jumped off. |
+|                                            |                                                                                                                                              |
+|                                            | -   Jumping onto the train is dangerous due to the scalding hot steam surrounding it (d6 damage).                                            |
++--------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
 
 : {tbl-colwidths="\[25,75\]"}

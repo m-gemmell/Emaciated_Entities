@@ -1,60 +1,168 @@
 # Sticky Crawl
 
-The Sticky Crawl is a method to create mystery locations with the following features:
+The Sticky Crawl is a method to create mystery/adventure locations with the following features:
 
 - Locations are represented by sticky notes with 1-4 exits (matching the sticky note sides).
-- The layout of the location is organic with random sticky notes being placed as the investigators use exits.
-- The locations are not random, instead the “pool” of locations are bespoke to the mystery.
+- The layout of the locations is organic with random sticky notes being placed as the investigators use exits.
+- The locations of each investigator is tracked by a token (e.g. dice, meeples, coins etc.). 
+NPCs and monsters can also be tracked by tokens.
+Tokens are used to show which location an entity (investigator/NPC/monster) is in but not necessarily where in the location they are.
+- Each location is not randomly made, instead the “pool” of locations are bespoke to the mystery.
+
+The Sticky crawl has been designed for Liminal horror as it ties well to horrorific and liminal spaces.
+Of course it can be adapted and used for any system. 
 
 ## Purpose
 
 Why run or create a Sticky crawl instead of other methods?
-Reasons includes:
 
-- Sticky note areas are quick and interactive for the facilitator and players.
+Reasons include:
+
+- Sticky crawls are quick and interactive for the Facilitator and Players.
     - Facilitators do not need to print out a map. Instead, they draw each location on a sticky note as each location appears.
-    - Players decide which ways to go in areas, therefore partially deciding how the location spreads out.
-- Using ephemeral sticky notes intentianlly encourages an art style that is easy and quick to imitate.
+    - Players decide which exits to use and not to use, partially determining how the locations spread out.
+- Using ephemeral sticky notes intentionally encourages an art style that is easy and quick to imitate.
     - As someone who's technical art skills are low it is nice to be able to make lo-fi images with purpose.
 
 ## How to run
 
-Below is a brief summary of how to carry out a Sticky Crawl.
+Below is a brief summary of how to carry out a Sticky Crawl as the Facilitator.
 
 ### Starting location
 
 Once the investigators have entered the area set down the first location.
-This may be a specific starting location or randomly chosen from the inital pool.
+This may be a specific starting location or randomly chosen from the initial pool of locations.
+
+Below the facilitator has started with the entrance of the museum the mystery will take place in.
+There are 3 exits to other locations, the lines on the left, top, and right of the sticky note.
+Tokens are placed in the location for the three investigators; <span style="color: #ffb000;">Adam</span>, <span style="color: #648fff;">Axel</span>, and <span style="color: #dc267f;">Blaze</span>.
+
+<div class="square_image">
+  <img src="/sticky_crawl/images/example_start_note.png" width="200px"></a></p>
+</div>
 
 ### Adding new locations
 
-When a group of invstigators moves through an exit a location form a valid pool is added.
-Genrally a new location is decided by rolling a dice matching the maximum number of locations in the pool.
-If the location is not available choose the next available location in descending order (i.e. if you rolled a 4 which is not avialable choose number 3).
+When a group of investigators moves through an exit a location from a valid pool is added.
+Generally a new location is decided by rolling a dice matching the maximum number of locations in the pool.
 
-### Moving between locations
+When placing a new location:
 
-Investigators can move between locations with ortogonal adjacent exits.
-Two locations whcih are orthogonla but have 0 or only one exits are not connected.
+- Ensure the new location connects to the previous location via an exit.
+- Orient the location to keep as many exits of the new location unblocked as possible.
+
+When randonly determining a location, if the location is not available:
+
+- Choose the next available location in descending order (e.g 6 -> 5 -> 4 -> 3 -> 2 -> 1).
+- If there are none available with a lower number choose the next in ascending order.
+- If there are no locations available the investigators cannot use the exit.
+
+Below, <span style="color: #ffb000;">Adam</span> and <span style="color: #648fff;">Axel</span>  use the exit on the left.
+The facilitator has a pool of 6 locations (not including the entrance) so they roll a D6 to randomly decide which location they move to.
+
+__D6__ locations:
+
+1. Precambrian
+2. Dinosaurs
+3. Neolithic
+4. Bronze age
+5. Iron age
+6. Industrial
+
+They rolled a 2 giving them the Dinosaurs exhibit.
+
+
+<div class="square_image">
+  <img src="/sticky_crawl/images/example_dinosaur.png" width="200px"></a></p>
+  <img src="/sticky_crawl/images/example_start_note_blaze.png" width="200px"></a></p>
+</div>
+<br>
+
+At the same time <span style="color: #dc267f;">Blaze</span> decided to take the top exit. 
+The facilitator rolled a 5, the iron ages exhibit.
+Blaze's player asks for the location to bend towards the others.
+It is near the start of the mystery so the faciltator agrees.
+
+
+<div class="square_image">
+  <img src="/sticky_crawl/images/empty_square.png" width="200px" style="transform: rotate(180deg);"></a></p>
+  <img src="/sticky_crawl/images/example_iron_age_blaze.png" width="200px" style="transform: rotate(180deg);"></a></p>
+</div>
+<div class="square_image">
+  <img src="/sticky_crawl/images/example_dinosaur.png" width="200px"></a></p>
+  <img src="/sticky_crawl/images/example_start_note_empty.png" width="200px"></a></p>
+</div>
+<br> 
+
+For one last example, <span style="color: #648fff;">Axel</span> decides to use the top exit in the Dinosaurs exhibit.
+The facilitator rolls a 2, the Dinosaurs exhibit.
+Since the Dinosaurs exhibit is already in play the facilitator puts down the Precambrian exhibit instead (location 1).
+
+<div class="square_image">
+  <img src="/sticky_crawl/images/example_precambrian_axel.png" width="200px"></a></p>
+  <img src="/sticky_crawl/images/example_iron_age_blaze.png" width="200px" style="transform: rotate(180deg);"></a></p>
+</div>
+<div class="square_image">
+  <img src="/sticky_crawl/images/example_dinosaur_adam.png" width="200px"></a></p>
+  <img src="/sticky_crawl/images/example_start_note_empty.png" width="200px"></a></p>
+</div>
+<br> 
+
+
+### Moving between existing locations
+
+Investigators can move between existing locations with orthogonal adjacent exits.
+Two locations which are orthogonal but have 1 or less exits are not connected.
+
+In the below example all the location have been discovered so no more free exits can be used.
+The locations include:
+
+- The starting location, Entrance.
+- The 6 main exhibits that were in the inital pool (Dinosaurs, Precambrian, Neolithic, Bronze Age, Iron Age, and Industrial).
+- The Security room, discovered by finding the security key and using them on a free exit.
+- The Big Bang exhibit which was added to the pool of available rooms after discovering the 6 main exhibits.
+
+The locations each investigator can move into with one movement are:
+
+- <span style="color: #ffb000;">Adam</span>: The Big Bang exhibit and the Precambrian exhibit.
+- <span style="color: #648fff;">Axel</span>: The Entrance and the Bronze Age exhibit.
+- <span style="color: #dc267f;">Blaze</span>: The Brinze Age exhibit.
+
+<div class="square_image">
+  <img src="/sticky_crawl/images/example_neolithic.png" width="200px"></a></p>
+  <img src="/sticky_crawl/images/example_big_bang.png" width="200px" style="transform: rotate(90deg);"></a></p>
+  <img src="/sticky_crawl/images/example_security.png" width="200px"></a></p>
+</div>
+<div class="square_image">
+  <img src="/sticky_crawl/images/example_precambrian_empty.png" width="200px"></a></p>
+  <img src="/sticky_crawl/images/example_iron_age_empty.png" width="200px" style="transform: rotate(180deg);"></a></p>
+  <img src="/sticky_crawl/images/example_bronze.png" width="200px" style="transform: rotate(270deg);"></a></p>
+</div>
+<div class="square_image">
+  <img src="/sticky_crawl/images/example_dinosaur_empty.png" width="200px"></a></p>
+  <img src="/sticky_crawl/images/example_start_note_empty.png" width="200px"></a></p>
+  <img src="/sticky_crawl/images/example_industrial.png" width="200px" style="transform: rotate(180deg);"></a></p>
+</div>
+<br> 
 
 ## Terminology
 
-- __Area:__ This is the entire are of the mystery and is composed of all the locations.
+- __Area:__ This is the entire area of the mystery and is composed of all the locations.
 - __Location:__ A location is one sticky note representing a location separate from other locations. A location could be a room, a set of connected rooms, a building, a city,  a forest, etc. The size of each location is dependant on the size of the area with each location in one area being around the same scale.
 - __Exit:__ The exits are represented by lines on the sides of the sticky note location. 
-The allow investigators to travel between locations.
+This allow investigators to travel between locations.
 When travelling between two locations the locations must be touching each other's sides and both the sides must have an exit.
 The cinnection between two locations can be a door, a path, a road, etc.
 - __Pool:__ A pool of locations is a set of locations that can be randomly drawn from.
 A location on the table/in play is consdered not to be in the pool.
-If a location is removed from the table/play it is returned to the pool.
+If a location is removed from the table/play it is returned its pool.
 
 ## Example sticky crawls
 
-- [Why doe the bell?](/the_toll_of_unmeaning/mystery_intro.qmd)
+- [Why doe the bell?](/the_toll_of_unmeaning/mystery_intro.qmd) WIP
 
 ## Inspirations
 
 - [Carcassonne by Klaus-Jürgen Wrede](https://boardgamegeek.com/boardgame/822/carcassonne)
 - [Blue Prince by Dogubomb](https://en.wikipedia.org/wiki/Blue_Prince)
-- Sticky MOnster by John Kenn Mortensen
+- Sticky Monsters by John Kenn Mortensen

@@ -40,7 +40,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-c8b544e1eab81f7563542c0a8b71d1e9.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-aee18566f93329d4962ea1ccf8bdda1d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-71ad844f518aae70cb07908b14e03230.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -190,7 +190,7 @@ ul.task-list li input[type="checkbox"] {
   <ul class="collapse">
   <li><a href="#starting-location" id="toc-starting-location" class="nav-link" data-scroll-target="#starting-location">Starting location</a></li>
   <li><a href="#adding-new-locations" id="toc-adding-new-locations" class="nav-link" data-scroll-target="#adding-new-locations">Adding new locations</a></li>
-  <li><a href="#moving-between-locations" id="toc-moving-between-locations" class="nav-link" data-scroll-target="#moving-between-locations">Moving between locations</a></li>
+  <li><a href="#moving-between-existing-locations" id="toc-moving-between-existing-locations" class="nav-link" data-scroll-target="#moving-between-existing-locations">Moving between existing locations</a></li>
   </ul></li>
   <li><a href="#terminology" id="toc-terminology" class="nav-link" data-scroll-target="#terminology">Terminology</a></li>
   <li><a href="#example-sticky-crawls" id="toc-example-sticky-crawls" class="nav-link" data-scroll-target="#example-sticky-crawls">Example sticky crawls</a></li>
@@ -207,22 +207,25 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="sticky-crawl" class="level1">
 <h1>Sticky Crawl</h1>
-<p>The Sticky Crawl is a method to create mystery locations with the following features:</p>
+<p>The Sticky Crawl is a method to create mystery/adventure locations with the following features:</p>
 <ul>
 <li>Locations are represented by sticky notes with 1-4 exits (matching the sticky note sides).</li>
-<li>The layout of the location is organic with random sticky notes being placed as the investigators use exits.</li>
-<li>The locations are not random, instead the “pool” of locations are bespoke to the mystery.</li>
+<li>The layout of the locations is organic with random sticky notes being placed as the investigators use exits.</li>
+<li>The locations of each investigator is tracked by a token (e.g.&nbsp;dice, meeples, coins etc.). NPCs and monsters can also be tracked by tokens. Tokens are used to show which location an entity (investigator/NPC/monster) is in but not necessarily where in the location they are.</li>
+<li>Each location is not randomly made, instead the “pool” of locations are bespoke to the mystery.</li>
 </ul>
+<p>The Sticky crawl has been designed for Liminal horror as it ties well to horrorific and liminal spaces. Of course it can be adapted and used for any system.</p>
 <section id="purpose" class="level2">
 <h2 class="anchored" data-anchor-id="purpose">Purpose</h2>
-<p>Why run or create a Sticky crawl instead of other methods? Reasons includes:</p>
+<p>Why run or create a Sticky crawl instead of other methods?</p>
+<p>Reasons include:</p>
 <ul>
-<li>Sticky note areas are quick and interactive for the facilitator and players.
+<li>Sticky crawls are quick and interactive for the Facilitator and Players.
 <ul>
 <li>Facilitators do not need to print out a map. Instead, they draw each location on a sticky note as each location appears.</li>
-<li>Players decide which ways to go in areas, therefore partially deciding how the location spreads out.</li>
+<li>Players decide which exits to use and not to use, partially determining how the locations spread out.</li>
 </ul></li>
-<li>Using ephemeral sticky notes intentianlly encourages an art style that is easy and quick to imitate.
+<li>Using ephemeral sticky notes intentionally encourages an art style that is easy and quick to imitate.
 <ul>
 <li>As someone who’s technical art skills are low it is nice to be able to make lo-fi images with purpose.</li>
 </ul></li>
@@ -230,33 +233,133 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="how-to-run" class="level2">
 <h2 class="anchored" data-anchor-id="how-to-run">How to run</h2>
-<p>Below is a brief summary of how to carry out a Sticky Crawl.</p>
+<p>Below is a brief summary of how to carry out a Sticky Crawl as the Facilitator.</p>
 <section id="starting-location" class="level3">
 <h3 class="anchored" data-anchor-id="starting-location">Starting location</h3>
-<p>Once the investigators have entered the area set down the first location. This may be a specific starting location or randomly chosen from the inital pool.</p>
+<p>Once the investigators have entered the area set down the first location. This may be a specific starting location or randomly chosen from the initial pool of locations.</p>
+<p>Below the facilitator has started with the entrance of the museum the mystery will take place in. There are 3 exits to other locations, the lines on the left, top, and right of the sticky note. Tokens are placed in the location for the three investigators; <span style="color: #ffb000;">Adam</span>, <span style="color: #648fff;">Axel</span>, and <span style="color: #dc267f;">Blaze</span>.</p>
+<div class="square_image">
+<img src="../sticky_crawl/images/example_start_note.png" width="200px">
+<p></p>
+</div>
 </section>
 <section id="adding-new-locations" class="level3">
 <h3 class="anchored" data-anchor-id="adding-new-locations">Adding new locations</h3>
-<p>When a group of invstigators moves through an exit a location form a valid pool is added. Genrally a new location is decided by rolling a dice matching the maximum number of locations in the pool. If the location is not available choose the next available location in descending order (i.e.&nbsp;if you rolled a 4 which is not avialable choose number 3).</p>
+<p>When a group of investigators moves through an exit a location from a valid pool is added. Generally a new location is decided by rolling a dice matching the maximum number of locations in the pool.</p>
+<p>When placing a new location:</p>
+<ul>
+<li>Ensure the new location connects to the previous location via an exit.</li>
+<li>Orient the location to keep as many exits of the new location unblocked as possible.</li>
+</ul>
+<p>When randonly determining a location, if the location is not available:</p>
+<ul>
+<li>Choose the next available location in descending order (e.g 6 -&gt; 5 -&gt; 4 -&gt; 3 -&gt; 2 -&gt; 1).</li>
+<li>If there are none available with a lower number choose the next in ascending order.</li>
+<li>If there are no locations available the investigators cannot use the exit.</li>
+</ul>
+<p>Below, <span style="color: #ffb000;">Adam</span> and <span style="color: #648fff;">Axel</span> use the exit on the left. The facilitator has a pool of 6 locations (not including the entrance) so they roll a D6 to randomly decide which location they move to.</p>
+<p><strong>D6</strong> locations:</p>
+<ol type="1">
+<li>Precambrian</li>
+<li>Dinosaurs</li>
+<li>Neolithic</li>
+<li>Bronze age</li>
+<li>Iron age</li>
+<li>Industrial</li>
+</ol>
+<p>They rolled a 2 giving them the Dinosaurs exhibit.</p>
+<div class="square_image">
+<img src="../sticky_crawl/images/example_dinosaur.png" width="200px">
+<p></p>
+<img src="../sticky_crawl/images/example_start_note_blaze.png" width="200px">
+<p></p>
+</div>
+<p><br></p>
+<p>At the same time <span style="color: #dc267f;">Blaze</span> decided to take the top exit. The facilitator rolled a 5, the iron ages exhibit. Blaze’s player asks for the location to bend towards the others. It is near the start of the mystery so the faciltator agrees.</p>
+<div class="square_image">
+<img src="../sticky_crawl/images/empty_square.png" width="200px" style="transform: rotate(180deg);">
+<p></p>
+<img src="../sticky_crawl/images/example_iron_age_blaze.png" width="200px" style="transform: rotate(180deg);">
+<p></p>
+</div>
+<div class="square_image">
+<img src="../sticky_crawl/images/example_dinosaur.png" width="200px">
+<p></p>
+<img src="../sticky_crawl/images/example_start_note_empty.png" width="200px">
+<p></p>
+</div>
+<p><br></p>
+<p>For one last example, <span style="color: #648fff;">Axel</span> decides to use the top exit in the Dinosaurs exhibit. The facilitator rolls a 2, the Dinosaurs exhibit. Since the Dinosaurs exhibit is already in play the facilitator puts down the Precambrian exhibit instead (location 1).</p>
+<div class="square_image">
+<img src="../sticky_crawl/images/example_precambrian_axel.png" width="200px">
+<p></p>
+<img src="../sticky_crawl/images/example_iron_age_blaze.png" width="200px" style="transform: rotate(180deg);">
+<p></p>
+</div>
+<div class="square_image">
+<img src="../sticky_crawl/images/example_dinosaur_adam.png" width="200px">
+<p></p>
+<img src="../sticky_crawl/images/example_start_note_empty.png" width="200px">
+<p></p>
+</div>
+<p><br></p>
 </section>
-<section id="moving-between-locations" class="level3">
-<h3 class="anchored" data-anchor-id="moving-between-locations">Moving between locations</h3>
-<p>Investigators can move between locations with ortogonal adjacent exits. Two locations whcih are orthogonla but have 0 or only one exits are not connected.</p>
+<section id="moving-between-existing-locations" class="level3">
+<h3 class="anchored" data-anchor-id="moving-between-existing-locations">Moving between existing locations</h3>
+<p>Investigators can move between existing locations with orthogonal adjacent exits. Two locations which are orthogonal but have 1 or less exits are not connected.</p>
+<p>In the below example all the location have been discovered so no more free exits can be used. The locations include:</p>
+<ul>
+<li>The starting location, Entrance.</li>
+<li>The 6 main exhibits that were in the inital pool (Dinosaurs, Precambrian, Neolithic, Bronze Age, Iron Age, and Industrial).</li>
+<li>The Security room, discovered by finding the security key and using them on a free exit.</li>
+<li>The Big Bang exhibit which was added to the pool of available rooms after discovering the 6 main exhibits.</li>
+</ul>
+<p>The locations each investigator can move into with one movement are:</p>
+<ul>
+<li><span style="color: #ffb000;">Adam</span>: The Big Bang exhibit and the Precambrian exhibit.</li>
+<li><span style="color: #648fff;">Axel</span>: The Entrance and the Bronze Age exhibit.</li>
+<li><span style="color: #dc267f;">Blaze</span>: The Brinze Age exhibit.</li>
+</ul>
+<div class="square_image">
+<img src="../sticky_crawl/images/example_neolithic.png" width="200px">
+<p></p>
+<img src="../sticky_crawl/images/example_big_bang.png" width="200px" style="transform: rotate(90deg);">
+<p></p>
+<img src="../sticky_crawl/images/example_security.png" width="200px">
+<p></p>
+</div>
+<div class="square_image">
+<img src="../sticky_crawl/images/example_precambrian_empty.png" width="200px">
+<p></p>
+<img src="../sticky_crawl/images/example_iron_age_empty.png" width="200px" style="transform: rotate(180deg);">
+<p></p>
+<img src="../sticky_crawl/images/example_bronze.png" width="200px" style="transform: rotate(270deg);">
+<p></p>
+</div>
+<div class="square_image">
+<img src="../sticky_crawl/images/example_dinosaur_empty.png" width="200px">
+<p></p>
+<img src="../sticky_crawl/images/example_start_note_empty.png" width="200px">
+<p></p>
+<img src="../sticky_crawl/images/example_industrial.png" width="200px" style="transform: rotate(180deg);">
+<p></p>
+</div>
+<p><br></p>
 </section>
 </section>
 <section id="terminology" class="level2">
 <h2 class="anchored" data-anchor-id="terminology">Terminology</h2>
 <ul>
-<li><strong>Area:</strong> This is the entire are of the mystery and is composed of all the locations.</li>
+<li><strong>Area:</strong> This is the entire area of the mystery and is composed of all the locations.</li>
 <li><strong>Location:</strong> A location is one sticky note representing a location separate from other locations. A location could be a room, a set of connected rooms, a building, a city, a forest, etc. The size of each location is dependant on the size of the area with each location in one area being around the same scale.</li>
-<li><strong>Exit:</strong> The exits are represented by lines on the sides of the sticky note location. The allow investigators to travel between locations. When travelling between two locations the locations must be touching each other’s sides and both the sides must have an exit. The cinnection between two locations can be a door, a path, a road, etc.</li>
-<li><strong>Pool:</strong> A pool of locations is a set of locations that can be randomly drawn from. A location on the table/in play is consdered not to be in the pool. If a location is removed from the table/play it is returned to the pool.</li>
+<li><strong>Exit:</strong> The exits are represented by lines on the sides of the sticky note location. This allow investigators to travel between locations. When travelling between two locations the locations must be touching each other’s sides and both the sides must have an exit. The cinnection between two locations can be a door, a path, a road, etc.</li>
+<li><strong>Pool:</strong> A pool of locations is a set of locations that can be randomly drawn from. A location on the table/in play is consdered not to be in the pool. If a location is removed from the table/play it is returned its pool.</li>
 </ul>
 </section>
 <section id="example-sticky-crawls" class="level2">
 <h2 class="anchored" data-anchor-id="example-sticky-crawls">Example sticky crawls</h2>
 <ul>
-<li><a href="../the_toll_of_unmeaning/mystery_intro.html">Why doe the bell?</a></li>
+<li><a href="../the_toll_of_unmeaning/mystery_intro.html">Why doe the bell?</a> WIP</li>
 </ul>
 </section>
 <section id="inspirations" class="level2">
@@ -264,7 +367,7 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li><a href="https://boardgamegeek.com/boardgame/822/carcassonne">Carcassonne by Klaus-Jürgen Wrede</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Blue_Prince">Blue Prince by Dogubomb</a></li>
-<li>Sticky MOnster by John Kenn Mortensen</li>
+<li>Sticky Monsters by John Kenn Mortensen</li>
 </ul>
 
 
