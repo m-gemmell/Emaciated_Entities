@@ -7,6 +7,7 @@ website:
   page-navigation: true
   title: Emaciated Entities
   description: Emaciated Entities for Liminal Horror
+  favicon: /images/ee_favicon.png
   navbar:
     title: Emaciated Entities
     collapse-below: lg

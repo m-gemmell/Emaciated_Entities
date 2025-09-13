@@ -10,7 +10,7 @@ These materials are compatible with the [Liminal Horror TTRPG](https://liminalho
 [The Sticky Crawl](/sticky_crawl/sticky_crawl.qmd) is a method to create mystery locations with the following features:
 
 - Locations are represented by sticky notes with 1-4 exits (matching the sticky note sides).
-- The layout of the location is organic with random sticky notes being places as the investigators use exits.
+- The layout of the location is organic with random sticky notes being placed as the investigators use exits.
 - The locations are not random, instead the "pool" of locations are bespoke to the mystery.
 
 On top of the rules a small example Sticky Crawl is included.
