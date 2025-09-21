@@ -2,9 +2,33 @@
 
 Below is a D6 list of Fallouts to be used for this mystery or when forces of "The Toll of Unmeaning" are encountered.
 
-1. Town crier: You can yell a cacophony of noise dealing d6 damage in a 15ft cone in front of you.
-2. Pig latin: Your tongues twists, transfiguring to that of a pig's. Whilst talking you can decide who does and does not understand your speech. Roll 3d6, ff the total is higher than your current max STR, take the new result.
-3. Tower bell: Your heart takes on the form and noise of a deep bell. The warm sound helps keep outer forces from encroaching into your body. Gain 1d4 max CTRL.
-4. Bell fried: When you hear the word bell you become frozen in place. To move/act you must repeat the word “bell” 7 times. 
-5. Gong master: Your dominant hand turns to rubber whilst the forearm turns to wood, perfect to ring a gong/bell with. Your gong arm deals d6 damage.
-6. [A random Legacy fallout](https://liminalhorrorrpg.com/investigators/#legacy-fallout)
+If a fallout is rolled that another character has previously gained then reroll on the table.
+If the reroll is yet again a fallout another character has previously gained roll for a random [Legacy fallout](https://liminalhorrorrpg.com/investigators/#legacy-fallout) instead.
+
+## Sticky note version
+
+<div class="square_image">
+  <img src="/the_toll_of_unmeaning/images/town_crier.png" width="300px"></a></p>
+  <img src="/the_toll_of_unmeaning/images/pig_latin.png" width="300px"></a></p>
+</div>
+<div class="square_image">
+  <img src="/the_toll_of_unmeaning/images/tower_bell.png" width="300px"></a></p>
+  <img src="/the_toll_of_unmeaning/images/bell_fried.png" width="300px"></a></p>
+</div>
+<div class="square_image">
+  <img src="/the_toll_of_unmeaning/images/gong_master.png" width="300px"></a></p>
+  <img src="/the_toll_of_unmeaning/images/dullahan.png" width="300px"></a></p>
+</div>
+<br> 
+
+__Note:__ The images above are all separate images so you can save/copy each one to send to your players when they gain a fallout.
+
+## Text version
+
+1. __Town crier__: You can yell a cacophony of noise dealing damage in a 15ft cone in front of you (d6 _blast_).
+2. __Pig latin__: Your tongue twists, transfiguring to that of a pig's. Whilst talking you can decide who does and does not understand your speech. When you gain this fallout roll 3d6, if the total is higher than your current max STR, take the new result.
+3. __Tower bell__: Your heart takes on the form and noise of a deep bell. The warm sound helps keep outer forces from encroaching into your body. Gain 1d4 max CTRL (max 18).
+4. __Bell fried__: When you hear the word bell you become frozen in place. To move/act you must repeat the word “bell” 7 times. Additionally, you grow 1d3 feet in height.
+5. __Gong master__: Your dominant hand turns to rubber whilst the forearm turns to wood, perfect to ring a gong/bell with. You suffer no negative effects by striking a bell with your gong arm which can deal d6 damage.
+6. __Dullahan__: Your head suddenly hits the ground, strange considering you can see your body is standing over you with no difficulty. Like the headless horseman your head and body are separated but you are alive and able to control both.
+

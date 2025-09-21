@@ -129,24 +129,8 @@ The locations each investigator can move into with one movement are:
 - <span style="color: #dc267f;">Blaze</span>: The Brinze Age exhibit.
 
 <div class="square_image">
-  <img src="/sticky_crawl/images/example_neolithic.png" width="200px"></a></p>
-  <img src="/sticky_crawl/images/example_big_bang.png" width="200px" style="transform: rotate(90deg);"></a></p>
-  <img src="/sticky_crawl/images/example_security.png" width="200px"></a></p>
+  <img src="/sticky_crawl/images/full_map.png" width="600px"></a></p>
 </div>
-<div class="square_image">
-  <img src="/sticky_crawl/images/example_precambrian_empty.png" width="200px"></a></p>
-  <img src="/sticky_crawl/images/example_iron_age_empty.png" width="200px" style="transform: rotate(180deg);"></a></p>
-  <img src="/sticky_crawl/images/example_bronze.png" width="200px" style="transform: rotate(270deg);"></a></p>
-</div>
-<div class="square_image">
-  <img src="/sticky_crawl/images/example_dinosaur_empty.png" width="200px"></a></p>
-  <img src="/sticky_crawl/images/example_start_note_empty.png" width="200px"></a></p>
-  <img src="/sticky_crawl/images/example_industrial.png" width="200px" style="transform: rotate(180deg);"></a></p>
-</div>
-<br> 
-
-## Terminology
-
 - __Area:__ This is the entire area of the mystery and is composed of all the locations.
 - __Location:__ A location is one sticky note representing a location separate from other locations. A location could be a room, a set of connected rooms, a building, a city,  a forest, etc. The size of each location is dependant on the size of the area with each location in one area being around the same scale.
 - __Exit:__ The exits are represented by lines on the sides of the sticky note location. 
