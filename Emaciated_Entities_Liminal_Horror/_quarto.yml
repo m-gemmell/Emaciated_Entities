@@ -100,6 +100,7 @@ website:
       contents:
       - href: the_toll_of_unmeaning/mystery_intro.qmd
       - href: the_toll_of_unmeaning\prelude.qmd
+      - href: the_toll_of_unmeaning/connections.qmd
       - href: the_toll_of_unmeaning\the_bell_ritual.qmd
       - href: the_toll_of_unmeaning\the_guillotined.qmd
       - href: the_toll_of_unmeaning\fallouts.qmd

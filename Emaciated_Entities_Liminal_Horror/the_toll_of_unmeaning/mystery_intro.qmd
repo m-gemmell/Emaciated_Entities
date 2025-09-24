@@ -1,15 +1,16 @@
 # Intro
 
-WIP
-
 Something terrible has occurred at Oxbury Gardens, a British garden attraction in the New Forest (South English coast).
-The groundskeeper, Issy (Issabella), has recruited the investigators to help. 
-She let six individuals eneter the gardens after dark.
+The groundskeeper, Issy (she/her) (Issabella), has recruited the investigators to help. 
+She let six individuals enter the gardens after dark.
 They came to study the old bell, but something went wrong.
 
 After leaving the six, Issy heard an immense ringing that rattled her soul.
-She found no one at the bell and she has had an itch at her neck she can't get rid of.
-Not wanting to phone the cops because she shouldn't let people in after dark, especially for money she pocket herself, she contacts one of the investigators she knows.
+She found no one at the bell and she has an itch at her neck she can't get rid of.
+Not wanting to phone the cops because she shouldn't let people in after dark, especially for money she pockets herself, she contacts one of the investigators she knows.
+
+Once the investigators have arrived at the [Old Bell](/the_toll_of_unmeaning/locations.qmd#the-old-bell) they wil not be able to escape the gardens until they have completed [The Bell Ritual](/the_toll_of_unmeaning/the_bell_ritual.qmd).
+To complete the ritual they must find [The Guillotined](/the_toll_of_unmeaning/the_guillotined.qmd) and help them communicate to get the ritual steps.
 
 ## Sections
 
@@ -20,34 +21,4 @@ The sections of this mystery are:
 - [The Guillotined](/the_toll_of_unmeaning/the_guillotined.qmd): The six changed individuals. The investigators must track them down, extract the ritual steps from them, and not become their prey.
 - [Fallouts](/the_toll_of_unmeaning/fallouts.qmd): The mystery specific fallouts.
 - [Locations](/the_toll_of_unmeaning/locations.qmd): The locations for this mystery's [sticky crawl](/sticky_crawl/sticky_crawl.qmd).
-
-## Connections
-
-Ask your players which investigator knows Issy (the groundskeeper).
-Additionally, ask the following questions, allowing a different players to answer each separate question.
-
-- Where did Issy work as a groundskeeper before Oxbury gardens?
-- What important person did Issy let into the location after dark who subsequently died?
-- What strange event occurred in the location leading to the above death?
-- How did the investigator who has the connection with Issy solve this strange event?
-
-Optionally, the other investigators can each have one connection with one of the following individuals. Don't let the player know what they have become.
-
-- __Emile (he/him)__: A famous folk musician known for his brilliance. He has taken to angrily complaining about young people listening to brain rotting music. 
-    - Wanted to record the sound of the bell for his new album. 
-    - Now the [Gramophone head](/the_toll_of_unmeaning/the_guillotined.qmd#gramophone-head).
-- __Almon (he/him)__: An old american pensioner who served in Vietnam. They are often seen at the pub happy to swap tales with any willing to drink whiskey with him. 
-    - Came to see the bell because he thorugh it was a Bell UH-1 Iroquois (American military helicopter first used in combat operation during the Vietnam War). 
-    - Now the [Rotary phone head](/the_toll_of_unmeaning/the_guillotined.qmd#rotary-phone-head).
-- __Chris (he/him)__: An anxious analog tech hipster. Whilst not working on his history PhD at his prestigious university he is hunting for treasure at various charity shops, auctions, and car boot sales. 
-    - He is Jamie's PhD student so followed her to see the bell.
-    - Now the [Typewriter head](/the_toll_of_unmeaning/the_guillotined.qmd#typewriter-head).
-- __Julie (she/her)__: 
-    - Now the [CRT TV head](/the_toll_of_unmeaning/the_guillotined.qmd#crt-tv-head)
-- __Georgina (she/her)__
-    - Now the [Steam whistle head](/the_toll_of_unmeaning/the_guillotined.qmd#steam-whistle-head)
-- __Jamie (they/them)__: A professor of history, specifically looking at how bells were used throughout history. Ironically they are tone-deaf.
-    - Came to study the bell to try to discern its origin. Brought __Chris__ their PhD student along.
-    - Now the [Chalkboard head](/the_toll_of_unmeaning/the_guillotined.qmd#chalkboard-head)
-
 

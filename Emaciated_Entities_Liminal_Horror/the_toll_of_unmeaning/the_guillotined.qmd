@@ -8,97 +8,110 @@ Once the investigators have received The Ritual Step The Guillotined will become
 
 If one of The Guillotined dies their "head" will fall off and the investigators can use it to try to decipher the ritual step. Each head knows a different ritual step.
 
-Who were The Guillotined?
-That is up to you (the facilitator).
-They could be campanologists (bell studiers) who wanted to study the bell without knowing its paranormal nature.
-They could be well known paranormal researchers the investigators know.
-You could even ask for each player to create a NPC their investigator knows, these NPCs could then be some/all of The Guillotined.
+For more information on who The Guillotined were please see the [connections page](/the_toll_of_unmeaning/connections.qmd).
 
 ### Gramophone head
-
-Pocket watch and waistcoat attired human with the head of a gramophone. A record spins letting out a voracious cacophony, a keen ear may hear a reversed voice.<br>
-They are a hot headed individual who is angered by those who don’t listen.
 
 __STR__: 10 __DEX__: 12 __CTRL__: 6<br> 
 __HP__: 4
 
 Vinyl discus (d6)
 
--   __Special ability__: Post deciphered the gramophone will frantically speed up until it catches fire and explodes. Onlookers will be dealt d6 stress.
+- Pocket watch and waistcoat attired human with the head of a gramophone.
+- A record spins letting out a voracious cacophony, a keen ear may hear a reversed voice.
+- A hot headed individual who is angered by those who don’t listen.
+-   __Special ability__: Post deciphered the gramophone will frantically speed up until it catches fire and explodes, killing Gramophone head. Onlookers will be dealt d6 stress.
 
-Possible solutions: (1) Record the noise then reverse the recording, or (2) physically spin the record in reverse.
+Possible solutions: 
+
+1. Record the noise then reverse the recording.
+2. physically spin the record in reverse.
 
 ### Rotary phone head
-
-An old decrepit human with a rotary phone for a head, the landline connecting to the back of their neck. The phone constantly rings but the receiver only provides garbled speech. <br>
-Hide and ambush loners.
 
 __STR__: 6 __DEX__: 6 __CTRL__: 6 
 __HP__: 2
 
 Phone cable (d6)
 
+- An old decrepit human with a rotary phone for a head, the landline connecting to the back of their neck. 
+- The phone constantly rings but the receiver only provides garbled speech.
+- Hide and ambush loners.
 -   __Special ability__: Post deciphered they will rip off their phone head and dash away only to hunt the investigators when they least expect it.
 
-Possible solutions: (1) Replace old phone with newer phone, or (2) repair rotary phone.
+Possible solutions: 
+
+1. Replace old phone with newer phone.
+2. Repair rotary phone.
 
 ### Typewriter head
-
-Anxious analog tech hipster turned typewriter headed monster. Their gnashing teeth now replaced by the clattering of keys. <br>
-They have become their own passion manifest, they are friendly. 
 
 **STR**: 8 **DEX**: 10 **CTRL**: 14  <br>
 **HP**: 3
 
 Typewriter clatter (d4 stress)
 
+- Anxious analog tech hipster turned typewriter headed monster. 
+- Their gnashing teeth now replaced by the clattering of keys.
+- They have become their own passion manifest, they are friendly. 
 -   __Special ability__: Post deciphered they will amiably follow and help the investigators. Easily stressed, when they lose CTRL and fail their CTRL save , they perform their Typewriter clatter.
 
-Possible solutions: (1) Provide paper to type out its message, or (2) watch the keys and note the spelt out words.
+Possible solutions: 
+
+1. Provide paper to type out its message.
+2. Watch the keys and note the spelt out words.
 
 ### CRT TV head
-
-Once a fitness and dance instructor they are now weighed down with the head of a heavy CRT TV. Pure static is a poor substitute for the music of their soul.<br>
-Loves being the centre of attention, good boys and girls sit and watch TV.
 
 __STR__: 12 __DEX__: 14 __CTRL__: 6<br>
 __HP__: 6
 
 TV glow (d6 DEX)
 
+- Once a fitness and dance instructor they are now weighed down with the head of a heavy CRT TV. 
+- Pure static is a poor substitute for the music of their soul.
+- Loves being the centre of attention, good boys and girls sit and watch TV.
 -   __Special ability__: Post deciphered the TV will gain reception and flick rapidly through channels across the world, it will look for a reflection to watch its own face.
 
-Possible solutions: (1) Create a makeshift antenna (metal hanger, paperclips etc) and attach into the TV, or (2) percussive maintenance, reduce its HP to 0.
+Possible solutions: 
+
+1. Create a makeshift antenna (metal hanger, paperclips etc) and attach into the TV
+2. Percussive maintenance, reduce its HP to 0.
 
 ### Steam whistle head
-
-Trainspotter with the head of a steam whistle. It's whistle echoes in the fog of steam it constantly emits.<br>
-It wants to see and so tries to rid itself of its steam. It cannot do this alone.
 
 __STR__: 12 __DEX__: 6 __CTRL__: 10<br>
 HP: 6
 
 Steam blast (d6, blast)
 
+- Trainspotter with the head of a steam whistle. 
+- It's whistle echoes in the fog of steam it constantly emits.
+- It wants to see and so tries to rid itself of its steam. It cannot do this alone.
 -   __Special ability__: Post deciphered will demand for train tickets from nearby individuals. Will attack those without.
 
-Possible situations: (1) Bring onto the mini train to hear the message in the form of a train announcement, or (2) stop its production of steam so it can spot trains again.
+Possible situations: 
+
+1. Bring onto the mini train to hear the message in the form of a train announcement.
+2. Stop its production of steam so it can spot trains again.
 
 ### Chalkboard head
-
-A professor with the head of a chalkboard. 
-It constantly scratches at its chalkboard face letting out a repulsive screech.
-The black board is covered in scribbles of white chalk layered one on top of each other.<br>
-Trapped in their own thoughts they fight to regain their humanity.
 
 __STR__: 10 __DEX__: 10 __CTRL__: 10 
 __HP__: 3
 
 Nails on a chalkboard (d4 stress)
 
+- A professor with the head of a chalkboard. 
+- It constantly scratches at its chalkboard face letting out a repulsive screech.
+- The black board is covered in scribbles of white chalk layered on top of each other.
+- Trapped in their own thoughts they fight to regain their humanity.
 -   __Special ability__: Post deciphered the chalk rapidly builds up, covering their body only for them to transform into a heap of chalk powder.
 
-Possible solutions: (1) Clean the chalkboard, (2) give them a different colour of chalk to write on their face with
+Possible solutions: 
+
+1. Clean the chalkboard.
+2. Give them a different colour of chalk to write on their face with.
 
 ## The Seventh Guillotined
 
@@ -106,6 +119,6 @@ The Seventh Guillotined has the first of The Ritual Steps.
 However there is no Seventh Guillotined yet. 
 The next human (excluding The Guillotined) to lose all their CTRL becomes the seventh head.
 
-Their head becomes a bold yellow stick note that rips into seven pieces. 
+Their head becomes a sticky note that rips into seven pieces. 
 The Guillotined dies instantly by this. 
 As the facilitator, write the message on a sticky note and rip it into seven pieces for the players to put back together like a jigsaw piece. 

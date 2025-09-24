@@ -1,5 +1,7 @@
 # Locations
 
+This page contains the locations for this mystery's [Sticky Crawl](/sticky_crawl/sticky_crawl.qmd).
+
 ## Starting location
 
 To start the mystery "Issy" brings the investigators to the "The Old Bell". She will answer questions but remain at The Old Bell.
@@ -16,7 +18,7 @@ To start the mystery "Issy" brings the investigators to the "The Old Bell". She 
 |                                   | -   [Rotary Phone Head](/the_toll_of_unmeaning/the_guillotined.qmd#rotary-phone-head) will not hunt here                                                                                                        |
 +-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-: {tbl-colwidths="\[25,75\]"}
+: {tbl-colwidths="\[35,75\]"}
 
 ## East and West locations
 
@@ -44,7 +46,7 @@ East locations cannot directly connect to West locations. The East and West are 
 |                                             | -   Those that rest here heal 1 lost CTRL (max once). After the rest the investigator can no longer smell heather. |
 +---------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
 
-: {tbl-colwidths="\[25,75\]"}
+: {tbl-colwidths="\[35,75\]"}
 
 ### (2) Herbaceous Garden
 
@@ -55,7 +57,7 @@ East locations cannot directly connect to West locations. The East and West are 
 |                                                | -   If there are no awake investigators to watch/help the investigator will have one of their items stolen by [Rotary Phone Head](/the_toll_of_unmeaning/the_guillotined.qmd#rotary-phone-head) if they are alive and have been activated. |
 +------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-: {tbl-colwidths="\[25,75\]"}
+: {tbl-colwidths="\[35,75\]"}
 
 ### (3) Iris Garden
 
@@ -68,7 +70,7 @@ East locations cannot directly connect to West locations. The East and West are 
 |                                          |     -   Their vision will mostly return to normal once they leave the iris garden.                                                            |
 +------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
 
-: {tbl-colwidths="\[25,75\]"}
+: {tbl-colwidths="\[35,75\]"}
 
 ### (4) The Park
 
@@ -79,7 +81,7 @@ East locations cannot directly connect to West locations. The East and West are 
 |                                       | -   It will ring 7 times, each time a new star appears forming a constellation in the shape of a bell (1 stress).                            |
 +---------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
 
-: {tbl-colwidths="\[25,75\]"}
+: {tbl-colwidths="\[35,75\]"}
 
 ### (5) Nursery Glade
 
@@ -91,7 +93,7 @@ East locations cannot directly connect to West locations. The East and West are 
 |                                            | -   If followed you will find it being strangled by [Rotary Phone Head](/the_toll_of_unmeaning/the_guillotined.qmd#rotary-phone-head). |
 +--------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------+
 
-: {tbl-colwidths="\[25,75\]"}
+: {tbl-colwidths="\[35,75\]"}
 
 ### (6) Oxbury House
 
@@ -101,7 +103,7 @@ East locations cannot directly connect to West locations. The East and West are 
 |                                           | -   [Gramophone Head](/the_toll_of_unmeaning/the_guillotined.qmd#gramophone-head) can be found in one of the rooms attempting to drink whiskey and smoke a cigar.                                                   |
 +-------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-: {tbl-colwidths="\[25,75\]"}
+: {tbl-colwidths="\[35,75\]"}
 
 ### (7) Rare Space Garden
 
@@ -112,7 +114,7 @@ East locations cannot directly connect to West locations. The East and West are 
 |                                                | -   From then on Rotary phone head is activated and will stalk the investigators, attempting to ambush one when they are alone.  |
 +------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
 
-: {tbl-colwidths="\[25,75\]"}
+: {tbl-colwidths="\[35,75\]"}
 
 ### (8) Sakura Cherry Garden
 
@@ -124,7 +126,7 @@ East locations cannot directly connect to West locations. The East and West are 
 |                                                   | -   The first petal taken by an investigator becomes frozen in time becoming a memento with 1 stability.                     |
 +---------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
 
-: {tbl-colwidths="\[25,75\]"}
+: {tbl-colwidths="\[35,75\]"}
 
 ### (9) Sundial Garden
 
@@ -132,7 +134,7 @@ East locations cannot directly connect to West locations. The East and West are 
 | ![](images/sundial_garden.png){width="500"} | A garden surrounded by large manicured yew hedges. Investigating and appreciating the griffin topped sundial is the friendly [Typewriter Head](/the_toll_of_unmeaning/the_guillotined.qmd#typewriter-head). |
 +---------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-: {tbl-colwidths="\[25,75\]"}
+: {tbl-colwidths="\[35,75\]"}
 
 ### (10) Witcher’s Wood
 
@@ -143,7 +145,7 @@ East locations cannot directly connect to West locations. The East and West are 
 |                                            | -   Investigator's must roll a CTRL save or become separated from other investigators.                                                                             |
 +--------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-: {tbl-colwidths="\[25,75\]"}
+: {tbl-colwidths="\[35,75\]"}
 
 ## Bridge
 
@@ -159,7 +161,7 @@ Once all the Central locations have been entered at least once use the below loc
 |                                             | -   The W exit can only lead to/from West locations.                                                                                                                         |
 +---------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-: {tbl-colwidths="\[25,75\]"}
+: {tbl-colwidths="\[35,75\]"}
 
 ## West
 
@@ -177,7 +179,7 @@ East locations cannot directly connect to West locations. The East and West are 
 | ![](images/augustinii_corner.png){width="500"} | Off in the intersection of two paths [Chalkboard head](/the_toll_of_unmeaning/the_guillotined.qmd#chalkboard-head) can be found. |
 +------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
 
-: {tbl-colwidths="\[25,75\]"}
+: {tbl-colwidths="\[35,75\]"}
 
 ### (2) Boardwalk
 
@@ -189,7 +191,7 @@ East locations cannot directly connect to West locations. The East and West are 
 |                                        |     -   Failure: d6 stress and go back to the start of Boardwalk.                                        |
 +----------------------------------------+----------------------------------------------------------------------------------------------------------+
 
-: {tbl-colwidths="\[25,75\]"}
+: {tbl-colwidths="\[35,75\]"}
 
 ### (3) Bog Garden
 
@@ -199,7 +201,7 @@ East locations cannot directly connect to West locations. The East and West are 
 |                                         | -   It is difficult to find [Steam Whistle Head](/the_toll_of_unmeaning/the_guillotined.qmd#steam-whistle-head) as their whistles echo in the mist and the poor visibility makes navigating the bog dangerous. |
 +-----------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-: {tbl-colwidths="\[25,75\]"}
+: {tbl-colwidths="\[35,75\]"}
 
 ### (4) Domesday yew
 
@@ -212,7 +214,7 @@ East locations cannot directly connect to West locations. The East and West are 
 |                                           | -   Soon the unlucky morsel will fall out the bottom of the treant suffering d6 damage and the treant will be satisfied momentarily. |
 +-------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
 
-: {tbl-colwidths="\[25,75\]"}
+: {tbl-colwidths="\[35,75\]"}
 
 ### (5) Dragonfly Pond
 
@@ -220,7 +222,7 @@ East locations cannot directly connect to West locations. The East and West are 
 | ![](images/dragonfly_pond.png){width="500"} | Static washes through the area as [CRT TV Head](/the_toll_of_unmeaning/the_guillotined.qmd#crt-tv-head) looks over the pond. Moths buzz around their head as dragonflies fly in and out of the light hunting them. |
 +---------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-: {tbl-colwidths="\[25,75\]"}
+: {tbl-colwidths="\[35,75\]"}
 
 ### (6) Jubilee Pond
 
@@ -232,7 +234,7 @@ East locations cannot directly connect to West locations. The East and West are 
 |                                           |     -   STR save to pull friend from willow tree's grasp or an inventive idea.             |
 +-------------------------------------------+--------------------------------------------------------------------------------------------+
 
-: {tbl-colwidths="\[25,75\]"}
+: {tbl-colwidths="\[35,75\]"}
 
 ### (7) Mirror Ponds
 
@@ -243,7 +245,7 @@ East locations cannot directly connect to West locations. The East and West are 
 |                                           | -   If [Rotary Phone Head](/the_toll_of_unmeaning/the_guillotined.qmd#rotary-phone-head) is still on the loose he will be easily spotted lurking in the trees through these reflections. |
 +-------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-: {tbl-colwidths="\[25,75\]"}
+: {tbl-colwidths="\[35,75\]"}
 
 ### (8) Nyssa collection
 
@@ -254,7 +256,7 @@ East locations cannot directly connect to West locations. The East and West are 
 |                                               | -   Afterwards, randomly determine which way the investigators leave.                        |
 +-----------------------------------------------+----------------------------------------------------------------------------------------------+
 
-: {tbl-colwidths="\[25,75\]"}
+: {tbl-colwidths="\[35,75\]"}
 
 ### (9) Rock Garden
 
@@ -269,7 +271,7 @@ East locations cannot directly connect to West locations. The East and West are 
 |                                          | -   If the investigators return to this location it looks like it once did before the destruction and will remain stable, but their will be no bell. |
 +------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-: {tbl-colwidths="\[25,75\]"}
+: {tbl-colwidths="\[35,75\]"}
 
 ### (10) Train Station
 
@@ -281,4 +283,4 @@ East locations cannot directly connect to West locations. The East and West are 
 |                                            | -   Jumping onto the train is dangerous due to the scalding hot steam surrounding it (d6 damage).                                            |
 +--------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
 
-: {tbl-colwidths="\[25,75\]"}
+: {tbl-colwidths="\[35,75\]"}

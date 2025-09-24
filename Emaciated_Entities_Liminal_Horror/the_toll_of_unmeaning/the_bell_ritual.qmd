@@ -2,7 +2,7 @@
 
 The ritual must be completed at The Bell to escape the gardens.
 
-__Note:__ Even when completing the ritual, anyone who strikes the bell suffers 1 stress per ring (one stability does negate this).
+__Note:__ Even when completing the ritual, anyone who strikes the bell suffers 1 stress per ring (one stability negates this).
 
 To discover the 7 steps of the ritual the investigators must track down each of [The Guillotined](/the_toll_of_unmeaning/the_guillotined.qmd) and figure out how to communicate with them.
 Ensure you give the investigators the Ritual Step exactly as written below in the double quotes.

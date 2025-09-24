@@ -1,0 +1,30 @@
+# Connections
+
+Ask your players which investigator knows Issy (she/her) (the groundskeeper).
+Additionally, ask the following questions, allowing a different players to answer each separate question.
+
+- Where did Issy work as a groundskeeper before Oxbury gardens?
+- What important person did Issy let into the location after dark?
+- What strange event occurred in the location leading to the death of the important person?
+- How did the investigator who has the connection with Issy solve this strange event?
+
+Optionally, the other investigators can each have one connection with one of the following individuals. Don't let the player know what they have become.
+
+- __Emile (he/him)__: A famous folk musician known for his brilliance. He has taken to angrily complaining about young people listening to brain rotting music. 
+    - Wanted to record the sound of the bell for his new album. 
+    - Now the [Gramophone head](/the_toll_of_unmeaning/the_guillotined.qmd#gramophone-head).
+- __Almon (he/him)__: An old american pensioner who served in Vietnam. They are often seen at the pub happy to swap tales with any willing to drink whiskey with him. 
+    - Came to see the bell because he thought it was a Bell UH-1 Iroquois (American military helicopter first used in combat operations during the Vietnam War). 
+    - Now the [Rotary phone head](/the_toll_of_unmeaning/the_guillotined.qmd#rotary-phone-head).
+- __Chris (he/him)__: An anxious analog tech hipster. Whilst not working on his history PhD at his prestigious university he is hunting for treasure at various charity shops, auctions, and car boot sales. 
+    - He is __Jamie's__ PhD student and followed her to see the bell.
+    - Now the [Typewriter head](/the_toll_of_unmeaning/the_guillotined.qmd#typewriter-head).
+- __Julie (she/her)__: An influencer fitness instructor known for using lively folktronic music in her videos. Like many performers she loves attention but cares too much about how others see her.
+    - When she heard __Emile__ was going to view the bell she jumped at the opportunity to meet her hero.
+    - Now the [CRT TV head](/the_toll_of_unmeaning/the_guillotined.qmd#crt-tv-head)
+- __Georgina (she/her)__: A train spotting enthusiast she finds it hard to focus other things. She recently moved from Edinburgh to the South of England for a new start.
+    - Initially interested in the miniature train at Oxbury gardens she became strangely enamoured by the bell.
+    - Now the [Steam whistle head](/the_toll_of_unmeaning/the_guillotined.qmd#steam-whistle-head)
+- __Jamie (they/them)__: A professor of history, specifically looking at how bells were used throughout history. Ironically they are tone-deaf, much to the humour of their colleagues.
+    - Came to study the bell to try to discern its origin. Brought __Chris__ their PhD student along.
+    - Now the [Chalkboard head](/the_toll_of_unmeaning/the_guillotined.qmd#chalkboard-head)
