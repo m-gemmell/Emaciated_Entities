@@ -46,3 +46,15 @@ Each deity includes:
 Emaciated Entities is an independent production by Matthew R. Gemmell and is not affiliated with Goblin Archives LLC. It is published under the [Liminal Horror Third Party License](https://liminalhorrorrpg.com/3pp/).
 
 Liminal Horror is copyright by Goblin Archives LLC.
+
+## Human made
+
+<center>
+![](/images/5_circle_text_with_hand.png){style="width:200px; background: #fff740; border-radius: 100px; border: #fff740 solid 5px"}
+</center>
+
+This work was made by humans. No AI or Machine Generated works are included in this project. Supporting this project means you are supporting real human beings who have dreams, passions, & bills. Thank You. 
+
+You can support me on ko-fi: [https://ko-fi.com/waveofinspiration](https://ko-fi.com/waveofinspiration)
+
+Logo and statement from: [https://hinokodo.itch.io/human-made](https://hinokodo.itch.io/human-made)

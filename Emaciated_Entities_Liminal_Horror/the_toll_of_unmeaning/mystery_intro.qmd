@@ -10,13 +10,14 @@ She found no one at the bell and she has an itch at her neck she can't get rid o
 Not wanting to phone the cops because she shouldn't let people in after dark, especially for money she pockets herself, she contacts one of the investigators she knows.
 
 Once the investigators have arrived at the [Old Bell](/the_toll_of_unmeaning/locations.qmd#the-old-bell) they wil not be able to escape the gardens until they have completed [The Bell Ritual](/the_toll_of_unmeaning/the_bell_ritual.qmd).
-To complete the ritual they must find [The Guillotined](/the_toll_of_unmeaning/the_guillotined.qmd) and help them communicate to get the ritual steps.
+To complete the ritual they must find [The Guillotined](/the_toll_of_unmeaning/the_guillotined.qmd) and help them communicate to acquire the ritual steps.
 
 ## Sections
 
 The sections of this mystery are:
 
 - [Prelude](/the_toll_of_unmeaning/prelude.qmd): Narration prelude to set the scene.
+- [Connections](/the_toll_of_unmeaning/connections.qmd): Information on Issy and the humans The Guillotined used to be so the investigators can have connections to them.
 - [The Bell ritual](/the_toll_of_unmeaning/the_bell_ritual.qmd): The ritual the investigators must perform to escape the garden.
 - [The Guillotined](/the_toll_of_unmeaning/the_guillotined.qmd): The six changed individuals. The investigators must track them down, extract the ritual steps from them, and not become their prey.
 - [Fallouts](/the_toll_of_unmeaning/fallouts.qmd): The mystery specific fallouts.

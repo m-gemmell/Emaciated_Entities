@@ -97,7 +97,7 @@ Possible situations:
 
 ### Chalkboard head
 
-__STR__: 10 __DEX__: 10 __CTRL__: 10 
+__STR__: 10 __DEX__: 10 __CTRL__: 10<br> 
 __HP__: 3
 
 Nails on a chalkboard (d4 stress)
