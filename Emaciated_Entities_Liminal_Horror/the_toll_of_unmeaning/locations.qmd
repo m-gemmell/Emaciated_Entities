@@ -42,7 +42,7 @@ The investigators will start by investigating the [East locations]. Once they ha
 
 The exits of [East locations] cannot be used to move directly to [West locations] or vice versa.
 
-When investigators try to use an exit and there are no valid locations left in the pool, or the connection is invalid (i.e. an [East locations] to a [West locations]) they do not move normally. Instead, the Investigators move to a random valid location with an empty exit and they each suffer one stress. The 2 exits become connected.
+When investigators try to use an exit and there are no valid locations left in the pool, or the connection is invalid (i.e. an [East location](#east-locations) to a [West location](#west-locations)) they do not move normally. Instead, the Investigators move to a random valid location with an empty exit and they each suffer one stress. The 2 exits become connected.
 
 ## East locations
 
