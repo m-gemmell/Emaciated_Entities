@@ -2,7 +2,13 @@
 title: "Emaciated Entities"
 ---
 
-This is a website to host information on the Sticky Crawl and 7 Emaciated Entities.
+The Emaciated Entities were once powerful beings, now starved by the machinations of mankind. They prey on humans who deny these entities’ their previous purpose.
+
+Little is known about them. The most concrete information is contained within the following six poems. Their authors were never discovered. Each poem was scribed on a different type of writing medium (the back of a painting, lightning struck bark, etc.), with unique lettering substances (cephalopod ink, pink wax, etc). Their credibility has been validated due to their presence at sites designated as EALs (Entity Affected Location). Further research is advised to determine their true quantity and influence.
+
+## Purpose of this website
+
+This is a website to host information on the Sticky Crawl and 6 Emaciated Entities.
 These materials are compatible with the [Liminal Horror TTRPG](https://liminalhorrorrpg.com/).
 
 __Note:__ This site is a work in progress with much to add and edit.
@@ -19,14 +25,13 @@ On top of the rules a small example Sticky Crawl is included.
 
 ## Emaciated Entities
 
-Additionally there are 7 Emaciated Entities included in these materials.
+Additionally there are 6 Emaciated Entities included in these materials.
 These are once powerful entities that have been starved by the machinations of mankind. 
 Now they prey on humans who deny these entities previous purpose.
 
 The Emaciated entities included are:
 
-- [The Lighter of Kindling](/the_lighter_of_kindling/the_light_of_kindling.qmd)
-- The ___
+- [The Lighter of Kindling](/the_lighter_of_kindling/the_lighter_of_kindling.qmd)
 - [The Biter of Hands](/the_biter_of_hands/the_biter_of_hands.qmd)
 - [The Eyes of the Painted](/the_eyes_of_the_painted/the_eyes_of_the_painted.qmd)
 - [The Taker of Thoughts](/the_taker_of_thoughts/the_taker_of_thoughts.qmd)

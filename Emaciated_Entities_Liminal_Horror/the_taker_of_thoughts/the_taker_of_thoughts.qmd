@@ -1,4 +1,6 @@
-# The Taker of Thoughts {.h1centre}
+# Poem {.h1centre}
+
+## The Taker of Thoughts {.h2centre}
 
 <center>
 Grab its white feather,<br>

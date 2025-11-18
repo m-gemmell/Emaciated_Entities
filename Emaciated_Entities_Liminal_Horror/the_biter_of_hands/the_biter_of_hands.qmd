@@ -1,4 +1,6 @@
-# The Biter of Hands {.h1centre}
+# Poem {.h1centre}
+
+## The Biter of Hands {.h2centre}
 
 <center>
 Wax pools around its form,<br>

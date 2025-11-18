@@ -17,7 +17,7 @@ website:
     - text: Sticky Crawl
       href: sticky_crawl/sticky_crawl.qmd
     - text: Lighter of Kindling
-      href: the_lighter_of_kindling\the_light_of_kindling.qmd
+      href: the_lighter_of_kindling\the_lighter_of_kindling.qmd
     - text: Biter of Hands
       href: the_biter_of_hands\the_biter_of_hands.qmd
     - text: Eyes of the Painted
@@ -62,32 +62,42 @@ website:
     style: floating
     align: left
     contents:
-    - href: the_lighter_of_kindling\the_light_of_kindling.qmd
+    - section: "The Lighter of Kindling"
+      contents:
+      - href: the_lighter_of_kindling\the_lighter_of_kindling.qmd
   - id: The Biter of Hands
     title: Overview
     style: floating
     align: left
     contents:
-    - href: the_biter_of_hands\the_biter_of_hands.qmd
+    - section: "The Biter of Hands"
+      contents:
+      - href: the_biter_of_hands\the_biter_of_hands.qmd
   - id: The Eyes of the Painted
     title: Overview
     style: floating
     align: left
     contents:
-    - href: the_eyes_of_the_painted\the_eyes_of_the_painted.qmd
+    - section: "The Eyes of the Painted"
+      contents:
+      - href: the_eyes_of_the_painted\the_eyes_of_the_painted.qmd
   - id: The Taker of Thoughts
     title: Overview
     style: floating
     align: left
     contents:
-    - href: the_taker_of_thoughts/the_taker_of_thoughts.qmd
-    - href: the_taker_of_thoughts/fallouts.qmd
+    - section: "The Taker of Thoughts"
+      contents:
+      - href: the_taker_of_thoughts/the_taker_of_thoughts.qmd
+      - href: the_taker_of_thoughts/fallouts.qmd
   - id: The Puller of Gilded Strings
     title: Overview
     style: floating
     align: left
     contents:
-    - href: the_puller_of_gilded_strings\the_puller_of_gilded_strings.qmd
+    - section: "The Puller of Gilded Strings"
+      contents:
+      - href: the_puller_of_gilded_strings\the_puller_of_gilded_strings.qmd
   - id: The Toll of Unmeaning
     title: Overview
     style: floating
