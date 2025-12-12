@@ -1,0 +1,56 @@
+# Foie gras
+
+
+<center>
+![](images/foie_gras.png){style="width:250px"}
+</center>
+
+[Foie gras](https://en.wikipedia.org/wiki/Foie_gras) is liver of a duck or goose that has been fattened by force feeding (gavage).
+It is considered a delicacy of french cuisine.
+
+## Start
+
+> The whirring and vibration of a propeller engine on your back whilst your face braces against the wind.
+> Gentle honks can be heard over the engine as geese fly in formation behind you.
+> You watch the sun rising over the serene clouds knowing you are in for a long day.
+
+The investigators are flying ultralight aircrafts to guide Geese during their migration. 
+
+Ask each investigator how they intend to lead the geese through this long and cold flight successfully.
+Each failed investigator suffers d4 stress.
+
+Whether through failure or success the investigators are able to leave the room.
+
+## Middle
+
+> Echoes upon echoes of geese honks as an uncomfortable heat clings onto your crouched form.
+> In one hand holds a nozzle attached to a fat and corn caked machine.
+> Held by the other, the neck of a goose pinned to the ground between your legs.
+
+The investigators are farm staff that force feed geese (gavage) to produce foie gras.
+Other staff are present, demonstrating how to utilise their tools. 
+
+D3 [Self-inserts](/the_taker_of_thoughts/literary_beings.qmd#self-insert) in the form of supervisors are present.
+They will encourage any investigators unwilling to force feed their geese.
+If that does not work they will punish the investigator instead.
+
+The investigators can leave the room by leaving the farm.
+Either through a day's labour, escape, or revolt.
+
+## End
+
+> The scent of fermented grapes, leather, and truffle as red wine is poured.
+> The gentle steps of high-class wait staff is barely audible over the melody of polite conversations.
+> Looking around you see the candlelit visages of your companions around your table.
+> With a sudden flourish the [cloche](https://en.wikipedia.org/wiki/Cloche_(tableware)) before you ascends, revealing a buttery foi gras atop a hawthorn sauce flanked by gold flecked rose petals.
+
+The investigators are sitting down for a meal at a very expensive french restaurant.
+Those who partake of the foi gras gain +1 max HP (can only benefit once).
+
+All the restaurant staff and other diners are [Self-inserts](/the_taker_of_thoughts/literary_beings.qmd#self-insert).
+Some diners have their heads covered in large napkins eating [Ortolans](https://en.wikipedia.org/wiki/Ortolan_bunting) whole.
+
+The investigators can leave at any time.
+If they return they have another opportunity to eat the foi gras.
+
+If any investigator partakes of the Foie gras [The Taker of Thoughts](/the_taker_of_thoughts/literary_beings.qmd#the-taker-of-thoughts) regains its feathers.

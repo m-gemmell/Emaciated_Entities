@@ -1,0 +1,20 @@
+# Rooms
+
+There are three types of rooms in this mystery
+
+## Short stories
+
+There are 6 short story rooms.
+Each is only encountered three times, telling a short story.
+E.M. Gemovich is a staunch supporter of animal rights and so these stories tell a story of animal cruelty as a beginning, middle, and end.
+
+When a short story room is first encountered it will take the form of the start for the current run.
+The next run it is encountered it will take its "middle" form, and the next run it will its "end" form.
+The short story room is then removed from the pool.
+The letters "S M E" are at the bottom of the sticky note for these rooms to track this progression.
+
+Generally the short stories are split like so:
+
+- __Start:__ 
+
+__Note:__ A short story room remains as it was left during the same run, meaning benefits cannot be gained a second time be re-entering the room.

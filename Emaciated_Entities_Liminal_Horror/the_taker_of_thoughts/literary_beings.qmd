@@ -1,0 +1,32 @@
+# Literary beings
+
+### Self-insert
+
+__STR__: 8 __DEX__: 10 __CTRL__: 12<br>
+HP: 3
+
+Pen spear (d6)
+
+- A version of the author perfectly suited to the role and story it inhabits.
+- Head of the author,body of the character.
+- Only cares that the story continues as it should.
+- Normally only says her name in the form of sentences (Gemovich gemovich gemovich? Gemovich!).
+- __Special ability__: Can alter the story and scene by narrating it, however she suffers 1 stress per word (except "Gemovich") that she says. They cannot directly change beings that do not come from the imagination of the author (e.g. the investigators and The Taker of Thoughts).
+
+
+### The Taker of Thoughts
+
+__STR__: 14 __DEX__: 14 __CTRL__: 16<br>
+HP: 6
+
+Tentacles (d8)
+
+- A plucked goose the size of an elephant with the head of a dried squid
+
+The taker of Thoughts can gain the following attributes based on the investigator's actions.
+
+- __Feathers:__ Its goose body regains its feathers allowing it to fly.
+- __Rehydration:__ Its squid head hydrate allowing it make two attacks per turn.
+- __Fins:__ It gains a massive shark fin on its back, allowing it to fully submerge and swim in any depth of ink.
+- __Tough:__ It gains 2 armor.
+- __Horned:__ It gains a d12 horn attack.
