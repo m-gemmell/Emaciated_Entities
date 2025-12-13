@@ -97,6 +97,7 @@ website:
       - section: "Short stories"
         contents:
         - href: the_taker_of_thoughts/foie_gras.qmd
+        - href: the_taker_of_thoughts/san_nakji.qmd
       - href: the_taker_of_thoughts/literary_beings.qmd
   - id: The Puller of Gilded Strings
     title: Overview
