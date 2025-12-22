@@ -2,19 +2,19 @@
 
 There are three types of rooms in this mystery
 
-## Short stories
+When moving to an empty space roll a d6 to determine the type of room encountered:
 
-There are 6 short story rooms.
-Each is only encountered three times, telling a short story.
-E.M. Gemovich is a staunch supporter of animal rights and so these stories tell a story of animal cruelty as a beginning, middle, and end.
+-   1-3: Short story
+-   4-5: Writing rule
+-   6: Novel
 
-When a short story room is first encountered it will take the form of the start for the current run.
-The next run it is encountered it will take its "middle" form, and the next run it will its "end" form.
-The short story room is then removed from the pool.
-The letters "S M E" are at the bottom of the sticky note for these rooms to track this progression.
+Then roll to determine which room:
 
-Generally the short stories are split like so:
-
-- __Start:__ 
-
-__Note:__ A short story room remains as it was left during the same run, meaning benefits cannot be gained a second time be re-entering the room.
+| d6  | Short story (1-3) | Writing rule (4-5) | Novel (6) |
+|-----|-------------------|--------------------|-----------|
+| 1   | Foie gras         |                    |           |
+| 2   | San-nakji         |                    |           |
+| 3   | Shark fin soup    |                    |           |
+| 4   | Civet cats        |                    |           |
+| 5   | Horse             |                    |           |
+| 6   |                   |                    |           |

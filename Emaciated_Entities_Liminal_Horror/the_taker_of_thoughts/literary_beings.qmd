@@ -26,7 +26,7 @@ Tentacles (d8)
 The taker of Thoughts can gain the following attributes based on the investigator's actions.
 
 - __Feathers:__ Its goose body regains its feathers allowing it to fly.
-- __Rehydration:__ Its squid head hydrate allowing it make two attacks per turn.
+- __Rehydrated:__ Its squid head hydrate allowing it make two attacks per turn.
 - __Fins:__ It gains a massive shark fin on its back, allowing it to fully submerge and swim in any depth of ink.
 - __Tough:__ It gains 2 armor.
 - __Horned:__ It gains a d12 horn attack.
