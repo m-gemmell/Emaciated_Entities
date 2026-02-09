@@ -13,8 +13,12 @@ Generally the short stories are split like so:
 
 - __Start:__ 
 
+All the non-investigator humans in the Short story rooms are [Self-inserts](/the_taker_of_thoughts/literary_beings.qmd#self-insert).
+They all have the face of E.M. Gemovich and the only word they can say is "Gemovich".
+
 A short story room remains as it was left during the same run, meaning benefits cannot be gained a second time be re-entering the room.
-generally, teh investigators can freely pass through these rooms unless [The Taker of Thoughts](/the_taker_of_thoughts/literary_beings.qmd#the-taker-of-thoughts) is pursuing them.
+Generally, the investigators can freely pass through these rooms unless [The Taker of Thoughts](/the_taker_of_thoughts/literary_beings.qmd#the-taker-of-thoughts) is pursuing them.
+In that case they can use the room to fight or they need some method to flee.
 
 ## Foie gras
 <center>
@@ -30,12 +34,15 @@ It is considered a delicacy of french cuisine.
 > Gentle honks can be heard over the engine as geese fly in formation behind you.
 > You watch the sun rising over the serene clouds knowing you are in for a long day.
 
-The investigators are flying ultralight aircrafts to guide Geese during their migration. 
-
-Ask each investigator how they intend to lead the geese through this long and cold flight successfully.
-Each failed investigator suffers d4 stress.
-
-Whether through failure or success the investigators are able to leave the room.
+- Setting
+    - A clear sky above the american wilderness
+- Investigators
+    - Flying ultralight aircrafts
+    - Guiding migrating geese
+    - Each must state how they brave the day’s long and cold flight
+    - A relevant failed save (if required) leads to d4 stress
+- Escape
+    - Leave after their day’s flight
 
 ### Middle
 
@@ -43,15 +50,16 @@ Whether through failure or success the investigators are able to leave the room.
 > In one hand holds a nozzle attached to a fat and corn caked machine.
 > Held by the other, the neck of a goose pinned to the ground between your legs.
 
-The investigators are farm staff that force feed geese (gavage) to produce foie gras.
-Other staff are present, demonstrating how to utilise their tools. 
-
-D3 [Self-inserts](/the_taker_of_thoughts/literary_beings.qmd#self-insert) in the form of supervisors are present.
-They will encourage any investigators unwilling to force feed their geese.
-If that does not work they will punish the investigator instead.
-
-The investigators can leave the room by leaving the farm.
-Either through a day's labour, escape, or revolt.
+- Setting
+    - Large foie gras factory farm in France
+- Investigators
+    - Farm staff
+    - Force feeding geese (gavage)
+- [Self-inserts](/the_taker_of_thoughts/literary_beings.qmd#self-insert)
+    - 3 supervisors encourage and punish unwilling staff
+    - Farm staff force feeding geese
+- Escape
+    - A day’s labour, escape, or revolt
 
 ### End
 
@@ -60,77 +68,94 @@ Either through a day's labour, escape, or revolt.
 > Looking around you see the candlelit visages of your companions around your table.
 > With a sudden flourish the [cloche](https://en.wikipedia.org/wiki/Cloche_(tableware)) before you ascends, revealing a buttery foi gras atop a hawthorn sauce flanked by gold flecked rose petals.
 
-The investigators are sitting down for a meal at a very expensive french restaurant.
-Those who partake of the foi gras gain +1 max HP (can only benefit once).
-
-All the restaurant staff and other diners are [Self-inserts](/the_taker_of_thoughts/literary_beings.qmd#self-insert).
-Some diners have their heads covered in large napkins eating [Ortolans](https://en.wikipedia.org/wiki/Ortolan_bunting) whole.
-
-The investigators can leave at any time.
-If they return they have another opportunity to eat the foi gras.
-
-If any investigator partakes of the Foie gras [The Taker of Thoughts](/the_taker_of_thoughts/literary_beings.qmd#the-taker-of-thoughts) regains its feathers.
+- Setting
+    - A french 3-star michelin restaurant
+- Investigators
+    - Dining at a table together
+    - Presented with foie gras
+- Foie gras
+    - Each investigator that consumes it gains +1 max HP (subsequent servings have no effect)
+    - If any investigator eats the foie gras [The Taker of Thoughts](/the_taker_of_thoughts/literary_beings.qmd#the-taker-of-thoughts) gains its feathers feature
+- [Self-inserts](/the_taker_of_thoughts/literary_beings.qmd#self-insert)
+    - Restaurant staff
+    - Diners, some have their heads covered in large napkins eating [Ortolans](https://en.wikipedia.org/wiki/Ortolan_bunting) whole
+- Escape
+    - Leaving through the restaurant’s entrance is permitted at any time
 
 ## San-nakji
 
-[San-nakji](https://en.wikipedia.org/wiki/San-nakji) is a Korean dish normally consisting of the small octopus nakji.
+[San-nakji](https://en.wikipedia.org/wiki/San-nakji) is a Korean dish consisting of the small octopus nakji.
 Normally it is killed and cut up before consumption, sprinkled with sesame oil and toasted sesame seeds.
 Sometimes the whole octopus is eaten whole.
-Either way it is a potentially fatal choking hazard as the tentacles' neuron activate, gripping onto the throat as it is swallowed.
+Either way it is a potentially fatal choking hazard as the tentacles' neurons activate, gripping onto the throat as it is swallowed.
 
 ### Start
 
 > Swaying refracted light falls through the waters of the coastal reef.
-> The embracing coolness of the water is a delight where the air is stifling even with the sea breeze.
+> The embracing coolness of the water is a delight where the air is stifling.
 > A fish quickly swims past, tentacle writhing in its maw, a stream of blue blood in its wake.
 
-The investigators are free swimming by the coast.
-Following the blood they will find fish attacking an octopus squeezed into the rocks.
-It is protecting its eggs.
-
-The investigators can easily scare away the fish and help the octopus.
-If they do not, they suffer d4 stress witnessing the death of the octopus and consumption of its eggs.
-
-The investigators leave the room after helping the octopus or after witnessing its death.
+- Setting
+    - Calm tropical costal waters
+- Investigators
+    - Free swimming
+- Octopus
+    - Blue blood leads to octopus squeezed into rocks
+    - Protecting its eggs
+    - Being attacked by fish
+- Escape
+    - Rescue octopus or
+    - Witness its death and the consumption of its eggs (d4 stress)
 
 ### Middle
 
 > The sulphuric smell of decaying sea life slightly distracts you from the arduous task of traversing the wet sandy mud.
 > You would easily be lost in this flat and grey landscape if not for the line of wooden poles and your guides.
 > One of the fishermen stops and suddenly starts digging.
-> In about a minute she lifts a small octopus in his hand and, with E.M gemovich's face, exclaims "Gemovich!".
+> In about a minute she lifts a small octopus in her hand and, with E.M gemovich's face, exclaims "Gemovich!".
 > She gestures, your turn.
 
-The investigators are by the coats on mudflats.
-They are in big wellies with shovels (d6 damage) and are fisherman digging for Nakji (small mud dwelling octopuses).
-It is a hard task to dig for nakji in the heavy water laden mud as the octopuses try to escape.
-Ask the investigators how they plan to catch octopuses efficiently and effectively.
-If they are unsuccessful they will spend too long and the will get wet in the raising tide, possibly getting some of their gear wet.
-
-Expert fishermen [self-inserts](/the_taker_of_thoughts/literary_beings.qmd#self-insert) with shovels (d6 damage) will try to guide the investigators and ensure they do their job.
-
-The investigators leave the room after leaving the mudflats.
+- Setting
+    - Vast mudflats on the coast
+- Investigators
+    - Fishermen hunting for octopuses
+    - Attired in big wellies and waterproof overalls
+    - Each equipped with a shovel (d6)
+- [Self-inserts](/the_taker_of_thoughts/literary_beings.qmd#self-insert)
+    - 3 Expert fishermen with shovels (d6)
+    - Guide and ensure the investigators make their nakji quota
+    - Know the way out of the vast mudflats, will leave those who don't make their quota
+- Digging for nakji (octopus)
+    - Gruelling task digging through heavy water laden mud
+    - Must be quick lest the nakji escape by burrowing away
+- Escape
+    - Leave the mudflats
+    - Drown in the rising tide (d6 stress)
 
 ### End
 
 > A bustling communal food market lit by neon signs of souju, beer, and cutlery.
 > Small green bottles cover the table and your E.M. Gemovich faced neighbour pours a clear liquid into your small glass.
 > You take an apprehensive sip to taste a pleasant plum flavour.
-> A Gemovich faced diner comes with a red plastic tray with your meal.
+> A Gemovich faced diner comes with a red plastic tray.
 > Set before you is a whole squirming and living octopus.
 > Another diner takes theirs and places the head into their mouth.
-> She chews and chews as the tentacles dangle and write outside of her mouth.
+> She chews and chews as the tentacles dangle and writhe outside of her mouth.
 > Eventually she swallows and the octopus is no more.
 
-The investigators are at a korean food market.
-Those who partake of the San-nakji each roll 3d6, if the total is higher than their current max DEX, they take the new result.
-
-Everyone but the investigators are [Self-inserts](/the_taker_of_thoughts/literary_beings.qmd#self-insert) eating and drinking.
-
-The investigators can leave at any time.
-If they return they have another opportunity to eat the foi gras.
-
-If any investigator partakes of the San-nakji [The Taker of Thoughts](/the_taker_of_thoughts/literary_beings.qmd#the-taker-of-thoughts) becomes rehydrated.
+- Setting
+    - Busy Korean food market
+- Investigators
+    - Eating various street foods
+    - San-nakji is brought to your table
+- San-nakji
+    - Investigators who partake each roll 3d6, if the total is higher than their current max DEX, they take the new result (subsequent servings have no effect)
+    - If any investigator eats the San-nakji [The Taker of Thoughts](/the_taker_of_thoughts/literary_beings.qmd#the-taker-of-thoughts) gains its rehydrated feature
+- [Self-inserts](/the_taker_of_thoughts/literary_beings.qmd#self-insert)
+    - Stall owners
+    - Masses eating and drinking
+- Escape
+    - The investigators can leave the market at any time
 
 ## Shark fin soup
 
@@ -141,29 +166,99 @@ Due to the demand and price of the fin over the rest of the shark shark finning 
 
 > The waves gently crash onto the stony beach, covering the sound of the rain.
 > Strolling down the English beach you carefully watch where you step.
-> This is partly so you don't twist you ankle but mainly to keep your eyes out for eggcases.
-> A Gemovich faced citizen scientists excitedly cries Gemovich! as they find one.
+> Partly to prevent twisting your ankle but mainly to keep your eyes out for eggcases.
+> A Gemovich faced citizen scientist excitedly cries Gemovich! as they are the first to find one.
 > Opening an app they input their finding before discarding the eggcase as its occupant once did.
 > The rain & wind are taking their toll and you are looking forward to the chippy.
 
-The investigators are walking on the beach looking for empty shark and ray eggcases.
-They are citizen scientists logging their findings on an app.
-
-The investigators must each find an eggcase before the [Self-inserts](/the_taker_of_thoughts/literary_beings.qmd#self-insert) will show them the way to the chippy.
-Ask them how they accomplish this and possibly ask them to avoid 1d4 damage by a DEX roll to not fall or avoid 1d4 stress with a CTRL save to brave the elements.
-
-The investigators leave the room after they reach the chippy.
+- Setting
+    - A beech on the English coast
+    - Wet and rocky (possible 1d4 DEX damage)
+    - The weather is miserable, grey, windy, and raining (possible 1d4 stress) 
+- Investigators
+    - Citizen scientists
+    - Wearing rain ponchos and wellies.
+- [Self-inserts](/the_taker_of_thoughts/literary_beings.qmd#self-insert)
+    - Fellow citizen scientists
+    - Will show the way to the chippy after each investigator has found an eggcase and logged it
+- Escape
+    - Reach the chippy
 
 ### Middle
+
+> Artificial lights and white surfaces stained with blood and scales.
+> The smell of dead fish and swaying of the boat can easily make you spill your lunch.
+> You thought you would get fresh sea air and untarnished light as a fisherman,
+> A Gemovich faced fisher strides towards your work station.
+> Their sea legs confidently bring a shark to you.
+> Its time for a break from tuna and time for shark finning.
+
+- Setting
+    - The work floor of a fish processing vessel (factory ship)
+    - The water of the open oceans are choppy
+    - Large knives (d8) and bandsaws (d8) are available.
+- Investigators
+    - Onboard fish processors
+    - Equipped with hook sticks (d6)
+- [Self-inserts](/the_taker_of_thoughts/literary_beings.qmd#self-insert)
+    - 2 supervisors ensuring the investigators process the shark correctly
+    - Other fish processors, hook sticks (d6) and large knives (d8)
+- Escape
+    - Successfully defin the shark
+    - Thrown or jump overboard into the freezing waters (d6 stress)
 
 ### End
 
-## Violin varnish
+> Flickering candle light from hundreds of red paper lanterns,
+> A high pitched and colourful chinese opera is performed in a makeshift stage.
+> Although they wear masks you know they have the face of E.M. Gemovich as they sing the word "Gemovich" repeatedly.
+> You feel safer at your table with your fellow investigators.
+> That is until you look down into your bowl.
+> INside a brown broth floats thick connecting cartilaginous threads.
+> Shark fin soup.
+> Will you partake?
+
+- Setting
+    - Massive Chinese new year celebration
+- Investigators
+    - Sitting at a wooden table with a lazy susan covered in food.
+- [Self-inserts](/the_taker_of_thoughts/literary_beings.qmd#self-insert)
+    - Opera performers
+    - Part celebrators
+- Shark fin soup
+    - Investigators who partake each roll 3d6, if the total is higher than their current max STR, they take the new result (subsequent servings have no effect)
+    - If any investigator eats the Shark fin soup [The Taker of Thoughts](/the_taker_of_thoughts/literary_beings.qmd#the-taker-of-thoughts) gains its fins feature
+
+
+## Violin glue
+
+Hide glue is a glue made form animals, particularly horses.
+It is used for wooden stringed instruments, such as violins, as it works well with wood.
+Additionally hide glue can be removed with heat, allowing for easier repairs.
 
 ### Start
 
-[Przewalski's horse](https://en.wikipedia.org/wiki/Przewalski%27s_horse) is the only living actual wild horse (other horses are feral, i.e. tamed then escaped into the wild).
+> Tall and long wooden boxes stand upon the plains of grass.
+> The bright teal paint contrasts the saturated sky.
+> Through the holes you hear apprehensive whinnying and trotting.
+> One of the boxes opens as a Przewalski horse escapes to its native home.
+> Short and tan it looks around before eating its first mean in the steppes of Mongolia.
+> You sigh with relief as you know your conservation efforts were worth it.
+
+- Setting
+    - The grassy Steppes of of Mongolia
+    - An cloudy but dry day
+- Investigators
+    - Wildlife conservationists
+    - Releasing [Przewalski's horses](https://en.wikipedia.org/wiki/Przewalski%27s_horse) into the wild.
+- [Przewalski's horse](https://en.wikipedia.org/wiki/Przewalski%27s_horse) is the only living actual wild horse (other horses are feral, i.e. tamed then escaped into the wild)
+- [Self-inserts](/the_taker_of_thoughts/literary_beings.qmd#self-insert)
+    - Fellow conservationists
+- Escape
+    - Load the van with the horse boxes and drive away.
 
 ### Middle
+
+
 
 ### End
