@@ -1,6 +1,6 @@
 # Connections
 
-Ask your players which investigator knows Issy (she/her) (the groundskeeper).
+Ask your players which investigator knows [Issy (she/her) (the groundskeeper)](/the_toll_of_unmeaning/locations.qmd#issy).
 Additionally, ask the following questions, allowing a different players to answer each separate question.
 
 - Where did Issy work as a groundskeeper before Oxbury gardens?
@@ -8,7 +8,10 @@ Additionally, ask the following questions, allowing a different players to answe
 - What strange event occurred in the location leading to the death of the important person?
 - How did the investigator who has the connection with Issy solve this strange event?
 
-Optionally, the other investigators can each have one connection with one of the following individuals. Don't let the player know what they have become.
+## Other connections
+
+Optionally, the other investigators can each have one connection with one of the [The Guillotined](/the_toll_of_unmeaning/the_guillotined.qmd), knowing thm before their transformation. 
+Don't let the player know what they have become.
 
 - __Emile (he/him)__: A famous folk musician known for his brilliance. He has taken to angrily complaining about young people listening to brain rotting music. 
     - Wanted to record the sound of the bell for his new album. 

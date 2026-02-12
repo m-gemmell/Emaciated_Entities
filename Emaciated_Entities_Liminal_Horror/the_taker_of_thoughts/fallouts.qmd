@@ -1,10 +1,33 @@
 # Fallouts
 
-A d6 list of fallouts when investigators encounter forces related to The Taker of Thoughts.
+Below is a D6 list of Fallouts to be used for the mystery [Shred after writing](/the_taker_of_thoughts/mystery_intro.qmd) or when forces of "The Taker of Thoughts" are encountered in other sessions/mysteries.
+
+If a fallout is rolled that another character has previously gained then reroll on the table.
+If the reroll is yet again a fallout another character has previously gained roll for a random [Legacy fallout](https://liminalhorrorrpg.com/investigators/#legacy-fallout) instead.
+
+## Sticky note version
+
+<div class="square_image">
+  <img src="/the_taker_of_thoughts/images/fallout_dissociative_fugue.png" width="300px"></a></p>
+  <img src="/the_taker_of_thoughts/images/fallout_goosed.png" width="300px"></a></p>
+</div>
+<div class="square_image">
+  <img src="/the_taker_of_thoughts/images/fallout_fingerprints.png" width="300px"></a></p>
+  <img src="/the_taker_of_thoughts/images/fallout_chromatophore.png" width="300px"></a></p>
+</div>
+<div class="square_image">
+  <img src="/the_taker_of_thoughts/images/fallout_dissociative_fugue.png" width="300px"></a></p>
+  <img src="/the_taker_of_thoughts/images/fallout_nikstlitslepmur.png" width="300px"></a></p>
+</div>
+<br> 
+
+__Note:__ The images above are all separate images so you can save/copy each one to send to your players when they gain a fallout.
+
+## Text version
 
 1. __Dissociative fugue:__ You are not the person you thought you were. Choose a new name, reroll your background, and reroll all optional investigator details you have. Choose one of your ability scores, roll d4 and add it to the score (max 18).
 2. __Goosed:__ Goose feathers sprout from your body, plucking them is painful. You are an intimidating presence whilst amongst allies. Once during each round of combat you can remove one dice, after rolling, from an enemy who attacked an ally. When you are alone with no allies your HP is 0.
-3. __Fingerprint ink:__ Thick ink exudes from your fingertips. It stops once it covers your prints but is excreted once more when removed through cleaning or use of the ink. Once a mystery write with the ink to predict the future or rewrite the past, doing so comes at a cost.
-4. __Chromatophores:__ Invisible ethereal chromatophores surround your body (clothing included). With deep focus you can make these visible and control their colour.
+3. __Fingerprints:__ Thick ink exudes from your fingertips. The excretions stop whilst a film of ink covers the fingertips, like a slug's slime. Once a session write exactly 10 words with the ink to predict the future or rewrite the past, doing so comes at a cost.
+4. __Chromatophores:__ Ethereal chromatophores surround your body and worn items. Normally transparent, with deep focus you can control their colour and opacity.
 5. __Expressive writing:__ You are constantly narrating events as they occur to you, whether on paper, out loud, or in your mind. This allows you to always self-distance yourself. +1 Stability.
-6. __Rumpelstiltskin:__ You can write down the true full name of an entity. The name is expunged from all realities except from the mind of its owner. Choose one of three effects: (1) the person/entity is bound to the current place they are located for a day, (2) the entity's nature is known to you, or (3) the person/entity suffers d12 CTRL damage.
+6. __Nikstlitslepmur:__ Names have power. Say the true name of an entity to summon it, your next attack against it is enhanced. Say the true name of an entity backwards to temporarily banish it, its next attack against you is impaired. After either you can never use its name again and it knows what you did.

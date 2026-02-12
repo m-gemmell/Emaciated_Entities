@@ -1,0 +1,31 @@
+# Brit backgrounds
+
+<center>
+![](images/brit_backgrounds_sticky.png){style="width:200px"}
+</center>
+
+D20 investigator backgrounds for the Liminal Horror TTRPG.
+These are perfect for new investigators created for [Why does the bell toll?](/the_toll_of_unmeaning/mystery_intro.qmd) mystery.
+
+Designed to represent workers found in the United Kingdom (England and Wales, Scotland, and Northern Ireland) in the 2020s.
+
+1.  **Army reserve:** Combat vest (1 armor), combat knife (d6), camo paint, night vision monocular
+2.  **Band member:** Metronome, acoustic instrument, expensive mike and recorder, professional headphones
+3.  **Bar staff:** Bottle and cork opener, flask of vodka, wooden baton (d6), packet of crisps
+4.  **Bingo caller:** Mini loud speaker, bag of bingo marbles, bag of nuts, gold chain bracelets
+5.  **Cleaner:** Cleaning gloves, cloth and sponge, bleach spray, handmade birthday card from kids/niece/nephew
+6.  **Copper:** Pistol (d6), protective vest (1 armor), notepad and pen, handcuffs
+7.  **Estate agent:** Lockpick kit, torch, pictures of happy families at new homes, pepper spray
+8.  **Fitness instructor:** Skipping rope, dumbbells (d6), towel, isotonic drink
+9.  **Gardener:** Tough overalls, secateurs, trowel, gardening gloves
+10. **Holiday maker:** Tourist postcard collection, overnight bag, passport, travel pillow
+11. **Junior banker:** Expensive watch, uppers, cigarettes and fancy lighter, selfie stick
+12. **Local takeaway staff:** Kitchen knife (d6), bottle of cooking oil, pies, apron
+13. **Man with a van:** Box cutter (d6), multi-bit screwdriver, van keys, hand truck (foldable)
+14. **Museum curator:** Brass rubbing kit, lockpick kit, candle and lighter, sandwich bags
+15. **Oil rig worker:** Oil resistant armoured gloves (1 armor), life jacket, whistle, protein bar
+16. **Organised crime member:** Pistol (d6), stab proof vest (1 armor), betting slips, sunglasses
+17. **Post person:** Large messenger bag, duct tape, dog bite proof jacket (1 armor), fitness tracker
+18. **Road worker:** High vis jacket, hard hat (1 armor), strong work boots, necklace with memento (1 stability)
+19. **Snooker commentator:** Snooker cue (d6), snooker chalk cube, extra strong mints, packet of biscuits
+20. **Writer:** Handheld voice recorder, vape pen, laptop in bag, letter opener (d6)

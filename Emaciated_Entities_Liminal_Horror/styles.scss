@@ -41,7 +41,7 @@ body {
   font-weight: 500;
   font-style: normal;
   font-variation-settings:
-    "wdth" 100;
+    "width" 100;
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: "Cabin Sketch", sans-serif;
@@ -70,6 +70,6 @@ h1, h2, h3, h4, h5, h6 {
 .square_image {
   position: relative;
   display: flex;
-  flex-wrap:nowrap;
+  flex-wrap:wrap;
   justify-content: center;
 }

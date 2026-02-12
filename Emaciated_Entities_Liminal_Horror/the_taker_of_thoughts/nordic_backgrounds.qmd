@@ -1,0 +1,31 @@
+# Nordic backgrounds
+
+<center>
+![](images/nordic_backgrounds_sticky.png){style="width:200px"}
+</center>
+
+D20 investigator backgrounds for the Liminal Horror TTRPG.
+These are perfect for new investigators created for [Why does the bell toll?](/the_toll_of_unmeaning/mystery_intro.qmd) mystery.
+
+Designed to represent workers found in the Nordic countries (Denmark, Finland, Iceland, Norway, Sweden, the Faroe Islands, Greenland, and Åland) in the 2020s.
+
+1.  **Aluminium smelter staff:** Heat resistant safety long coat with gloves (1 armor), safety helmet with visor (1 armor), bolt cutters (bulky), aluminium craft wire
+2.  **Assistant nurse:** Nurse bag with medical supplies,  scalpel (d6), change of clothing, lanyard with iID
+3.  **Construction worker:** Hammer (d6), cordless drill, hardhat (1 armour), steel toe capped boots
+4.  **Crime author:** E ink writing tablet, handheld voice recorder, cold case files, snus pouches
+5.  **Cyber security intern:** Laptop,travel router, smart watch, forensic disk controller
+6.  **Deckhand:** Rigging knife & spike multitool (d6), pen and logbook, life jacket, hard hat with headlamp (1 armor)
+7.  **Drone operator:** Drone (bulky), action camera, high vis jacket, anemometer
+8.  **Flat pack store employee:** Set of hex keys, DIY toolset, box cutter (d6), 50 small pencils
+9.  **Forest worker:** Pottiputki, pole saw, ear and eye protection, DEET spray
+10. **Meat processor:** 4 meat grinder blades (d6), box of matches, curing salts, cured meats
+11. **Musician:** Acoustic instrument, metronome, tuning fork, beanie
+12. **Military reserve:** Shotgun (d6, bulky), flak jacket (1 armor), hand-portable radio, camouflage clothing
+13. **Outdoor tourist guide:** Snowmobile, bolt-action rifle (d6, bulky), polarised goggles, turmat
+14. **Picture book illustrator:** Paint with brush and palette, pencils and sketchbook, artist apron, kid’s drawings (1 stability)
+15. **Plastic brick employee:** Bag of plastic bricks, mini motor set, utility bar (d6), magnifying glasses
+16. **Public transport staff**: Minibus, wrench (d6), trolley jack (bulky), cooler bag
+17. **Sauna technician:** Bottle of paraffin oil, lineman’s pliers, multimeter, 6 pack of beer
+18. **Ski instructor:** Skis with sticks (bulky), ski jacket, folding shovel (d6), thermos with coffee, 
+19. **Street artist:** Spray cans, respirator mask, telescopic ladder (bulky), skateboard
+20. **Welder:** MIG welder (bulky), welding headshield (1 armor), welding gauntlets, welding clothing

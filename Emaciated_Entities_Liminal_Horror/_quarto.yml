@@ -90,9 +90,10 @@ website:
       contents:
       - href: the_taker_of_thoughts/the_taker_of_thoughts.qmd
       - href: the_taker_of_thoughts/fallouts.qmd
-    - section: "Mystery"
+      - href: the_taker_of_thoughts/nordic_backgrounds.qmd
+    - section: "Shred after writing"
       contents:
-      - href: the_taker_of_thoughts/mystery.qmd
+      - href: the_taker_of_thoughts/mystery_intro.qmd
       - href: the_taker_of_thoughts/rooms.qmd
       - href: the_taker_of_thoughts/short_stories.qmd
       - href: the_taker_of_thoughts/literary_beings.qmd
@@ -112,6 +113,8 @@ website:
     - section: "The Toll of Unmeaning"
       contents:
       - href: the_toll_of_unmeaning\the_toll_of_unmeaning.qmd
+      - href: the_toll_of_unmeaning\fallouts.qmd
+      - href: the_toll_of_unmeaning\brit_backgrounds.qmd
     - section: "Why does the bell toll?"
       contents:
       - href: the_toll_of_unmeaning/mystery_intro.qmd
@@ -119,7 +122,6 @@ website:
       - href: the_toll_of_unmeaning/connections.qmd
       - href: the_toll_of_unmeaning\the_bell_ritual.qmd
       - href: the_toll_of_unmeaning\the_guillotined.qmd
-      - href: the_toll_of_unmeaning\fallouts.qmd
       - href: the_toll_of_unmeaning\locations.qmd
 format:
   html:
