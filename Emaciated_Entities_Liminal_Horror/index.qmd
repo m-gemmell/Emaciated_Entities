@@ -44,6 +44,7 @@ Each deity includes:
 - Horrors of the Entity (creature stats)
 - Resonant artifacts
 - Fallouts
+- Investigator backgrounds
 - A Sticky Crawl mystery
 
 ## License
