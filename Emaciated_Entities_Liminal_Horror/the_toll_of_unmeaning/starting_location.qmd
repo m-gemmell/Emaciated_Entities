@@ -1,0 +1,27 @@
+# Starting location
+
+To start the mystery Issy brings the investigators to the ["The Old Bell" location](/the_toll_of_unmeaning/starting_location.qmd). She will answer questions but remain at The Old Bell.
+
+### The Old Bell
+
++-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/bell.png){width="500"} | An old metal bell hangs off a tree with a thick rusted chain. Below the bell are seven concentric rings like ripples in the dirt. 6 sets of footprint leading away from the bell scar the once perfect circles. |
+|                                   |                                                                                                                                                                                                                 |
+|                                   | -   The bell is a striking bell, it has no clapper and must be struck with an external instrument. Stirking it lets out a reverberating gong.                                                                   |
+|                                   | -   Striking the bell causes 2 effects:                                                                                                                                                                         |
+|                                   |     -   Those who strike the bell suffer 1 stress per ring.                                                                                                                                                     |
+|                                   |     -   The striker chooses a location (sticky note) without any investigators (if any). This location is removed and added back to the random pool.                                                            |
+|                                   | -   [The Bell Ritual](/the_toll_of_unmeaning/the_bell_ritual.qmd) must be accomplished here.                                                                                                                    |
+|                                   | -   [Rotary Phone Head](/the_toll_of_unmeaning/the_guillotined.qmd#rotary-phone-head) will not hunt here                                                                                                        |
++-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+: {tbl-colwidths="\[35,75\]"}
+
+### Issy
+
+**STR**: 10 **DEX**: 10 **CTRL**: 10<br> **HP**: 3
+
+Punch (d4)
+
+-   Chatty Irish groundskeeper
+-   Creates messes she gets others to clean up

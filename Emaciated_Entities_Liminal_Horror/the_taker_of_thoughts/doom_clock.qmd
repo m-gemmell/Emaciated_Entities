@@ -1,0 +1,36 @@
+# Doom clock
+
+The doom clock is a way to increase the tension and threat as the investigators explore the mind each run and progress through runs.
+
+Each run starts at 0 ticks and can go up to 6 ticks.
+
+## Tick tock
+
+Every time the investigators reveal a room in a run roll a d6. Add the number of revealed rooms and the run number.
+
+- __1-8__: Nothing
+- __9-14__: Add 1 tick on the doom clock
+- __15-19__: Add 2 ticks on the doom clock
+- __20+__: Add 3 ticks on the doom clock
+
+## Tick events
+
+When the tick increases the current Tick event and all previous unactivated Tick events activate.
+
+- Tick 1: Honk! The Herald Author sings!
+    - An abyssal honk is heard
+- Tick 2: Tar
+    - Cephalopod ink pools on the floor
+- Tick 3: Feather
+    - Feathers fall from the sky/ceiling
+- Tick 4: Mind the gap
+    - The investigators have a lapse in memory
+    - They move past the revealed room into a newly revealed room
+- Tick 5: Fear
+    - [The Taker of Thoughts](/the_taker_of_thoughts/literary_beings.qmd#the-taker-of-thoughts) arrives in a nearby room
+    - They will enter a room with at least one investigator in d3 rounds/actions, it is seeking them
+- Tick 6: The Mind-killer
+    - The investigators cannot escape by resetting the current run
+    - They must flee back to the warehouse room
+    - [The Taker of Thoughts](/the_taker_of_thoughts/literary_beings.qmd#the-taker-of-thoughts) knows where the investigators are
+

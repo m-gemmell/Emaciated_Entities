@@ -49,34 +49,41 @@ website:
     title: Overview
     style: floating
     align: left
+    collapse-level: 3
     contents:
     - href: index.qmd
   - id: Sticky Crawl
     title: Overview
     style: floating
     align: left
+    collapse-level: 3
     contents:
     - href: sticky_crawl\sticky_crawl.qmd
   - id: The Lighter of Kindling
     title: Overview
     style: floating
     align: left
+    collapse-level: 3
     contents:
     - section: "The Lighter of Kindling"
       contents:
       - href: the_lighter_of_kindling\the_lighter_of_kindling.qmd
+      - href: the_lighter_of_kindling/fallouts.qmd
+      - href: the_lighter_of_kindling/pictish_backgrounds.qmd
   - id: The Biter of Hands
     title: Overview
     style: floating
     align: left
+    collapse-level: 3
     contents:
     - section: "The Biter of Hands"
       contents:
-      - href: the_biter_of_hands\the_biter_of_hands.qmd
+      - href: the_biter_of_hands/the_biter_of_hands.qmd
   - id: The Eyes of the Painted
     title: Overview
     style: floating
     align: left
+    collapse-level: 3
     contents:
     - section: "The Eyes of the Painted"
       contents:
@@ -85,6 +92,7 @@ website:
     title: Overview
     style: floating
     align: left
+    collapse-level: 3
     contents:
     - section: "The Taker of Thoughts"
       contents:
@@ -94,21 +102,37 @@ website:
     - section: "Shred after writing"
       contents:
       - href: the_taker_of_thoughts/mystery_intro.qmd
+      - href: the_taker_of_thoughts/doom_clock.qmd
       - href: the_taker_of_thoughts/rooms.qmd
-      - href: the_taker_of_thoughts/short_stories.qmd
+      - section: "Short stories"
+        contents:
+        - href: the_taker_of_thoughts/short_stories.qmd
+        - href: the_taker_of_thoughts/s1_foie_gras.qmd
+        - href: the_taker_of_thoughts/s2_san-nakji.qmd
+        - href: the_taker_of_thoughts/s3_shark_fin_soup.qmd
+        - href: the_taker_of_thoughts/s4_hide_glue.qmd
+        - href: the_taker_of_thoughts/s5_kopi_luwak.qmd
+      - section: "Memoirs"
+        contents:
+        - href: the_taker_of_thoughts/memoirs.qmd
+        - href: the_taker_of_thoughts/m1_proposal.qmd
+        - href: the_taker_of_thoughts/m2_skydive.qmd
       - href: the_taker_of_thoughts/literary_beings.qmd
   - id: The Puller of Gilded Strings
     title: Overview
     style: floating
     align: left
+    collapse-level: 3
     contents:
     - section: "The Puller of Gilded Strings"
       contents:
       - href: the_puller_of_gilded_strings\the_puller_of_gilded_strings.qmd
+      - href: the_puller_of_gilded_strings/backgrounds.qmd
   - id: The Toll of Unmeaning
     title: Overview
     style: floating
     align: left
+    collapse-level: 3
     contents:
     - section: "The Toll of Unmeaning"
       contents:
@@ -122,7 +146,13 @@ website:
       - href: the_toll_of_unmeaning/connections.qmd
       - href: the_toll_of_unmeaning\the_bell_ritual.qmd
       - href: the_toll_of_unmeaning\the_guillotined.qmd
-      - href: the_toll_of_unmeaning\locations.qmd
+      - section: "Locations"
+        contents:
+        - href: the_toll_of_unmeaning\locations.qmd
+        - href: the_toll_of_unmeaning/starting_location.qmd
+        - href: the_toll_of_unmeaning/east_locations.qmd
+        - href: the_toll_of_unmeaning/bridge.qmd
+        - href: the_toll_of_unmeaning/west_locations.qmd
 format:
   html:
     fig-width: 10.2

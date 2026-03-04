@@ -1,0 +1,74 @@
+# S2: San-nakji
+
+[San-nakji](https://en.wikipedia.org/wiki/San-nakji) is a Korean dish consisting of the small octopus nakji.
+Normally it is killed and cut up before consumption, sprinkled with sesame oil and toasted sesame seeds.
+Sometimes the whole octopus is eaten whole.
+Either way it is a potentially fatal choking hazard as the tentacles' neurons activate, gripping onto the throat as it is swallowed.
+
+## Start
+
+> Swaying refracted light falls through the waters of the coastal reef.
+> The embracing coolness of the water is a delight where the air is stifling.
+> A fish quickly swims past, tentacle writhing in its maw, a stream of blue blood in its wake.
+
+- Setting
+    - Calm tropical costal waters
+- Investigators
+    - Free swimming
+- Octopus
+    - Blue blood leads to octopus squeezed into rocks
+    - Protecting its eggs
+    - Being attacked by fish
+- Escape
+    - Rescue octopus or
+    - Witness its death and the consumption of its eggs (d4 stress)
+
+## Middle
+
+> The sulphuric smell of decaying sea life slightly distracts you from the arduous task of traversing the wet sandy mud.
+> You would easily be lost in this flat and grey landscape if not for the line of wooden poles and your guides.
+> One of the fishermen stops and suddenly starts digging.
+> In about a minute she lifts a small octopus in her hand and, with E.M gemovich's face, exclaims "Gemovich!".
+> She gestures, your turn.
+
+- Setting
+    - Vast mudflats on the coast
+- Investigators
+    - Fishermen hunting for octopuses
+    - Attired in big wellies and waterproof overalls
+    - Each equipped with a shovel (d6)
+- [Self-inserts](/the_taker_of_thoughts/literary_beings.qmd#self-insert)
+    - 3 Expert fishermen with shovels (d6)
+    - Guide and ensure the investigators make their nakji quota
+    - Know the way out of the vast mudflats, will leave those who don't make their quota
+- Digging for nakji (octopus)
+    - Gruelling task digging through heavy water laden mud
+    - Must be quick lest the nakji escape by burrowing away
+- Escape
+    - Leave the mudflats
+    - Drown in the rising tide (d6 stress)
+
+## End
+
+> A bustling communal food market lit by neon signs of souju, beer, and cutlery.
+> Small green bottles cover the table and your E.M. Gemovich faced neighbour pours a clear liquid into your small glass.
+> You take an apprehensive sip to taste a pleasant plum flavour.
+> A Gemovich faced diner comes with a red plastic tray.
+> Set before you is a whole squirming and living octopus.
+> Another diner takes theirs and places the head into their mouth.
+> She chews and chews as the tentacles dangle and writhe outside of her mouth.
+> Eventually she swallows and the octopus is no more.
+
+- Setting
+    - Busy Korean food market
+- Investigators
+    - Eating various street foods
+    - San-nakji is brought to your table
+- San-nakji
+    - Investigators who partake each roll 3d6, if the total is higher than their current max DEX, they take the new result (subsequent servings have no effect)
+    - If any investigator eats the San-nakji [The Taker of Thoughts](/the_taker_of_thoughts/literary_beings.qmd#the-taker-of-thoughts) gains its rehydrated feature
+- [Self-inserts](/the_taker_of_thoughts/literary_beings.qmd#self-insert)
+    - Stall owners
+    - Masses eating and drinking
+- Escape
+    - The investigators can leave the market at any time

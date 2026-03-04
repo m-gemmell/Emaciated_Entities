@@ -1,0 +1,64 @@
+# S4: Hide glue
+
+Hide glue is a glue made form animals, particularly horses. It is used for wooden stringed instruments, such as violins, as it works well with wood. Additionally hide glue can be removed with heat, allowing for easier repairs.
+
+## Start
+
+> Tall long wooden boxes stand upon the plains of grass. The bright teal paint contrasts the saturated sky. Through the holes you hear apprehensive whinnying and trotting. One of the boxes opens as a Przewalski horse escapes to its native home. Short and tan it looks around before eating its first meal in the steppes of Mongolia. You sigh with relief as you know your conservation efforts were worth it.
+
+-   Setting
+    -   The grassy Steppes of Mongolia
+    -   A cloudy but dry day
+-   Investigators
+    -   Wildlife conservationists
+    -   Releasing [Przewalski's horses](https://en.wikipedia.org/wiki/Przewalski%27s_horse) into the wild.
+-   [Przewalski's horse](https://en.wikipedia.org/wiki/Przewalski%27s_horse) is the only living actual wild horse (other horses are feral, i.e. tamed then escaped into the wild)
+-   [Self-inserts](/the_taker_of_thoughts/literary_beings.qmd#self-insert)
+    -   Fellow conservationists
+-   Escape
+    -   Load the van with the horse boxes and drive away.
+
+## Middle
+
+> The rhythm of the bugle followed by the thrashing of hooves and cheers of the surrounding people. The horses are flogged by their tiny riders as the gallantly dressed wave tiny stubs of paper. A horse crashes to the ground pinning its rider to the ground. Some onlookers gasp as others sigh and rip up their lost bets.
+
+-   Setting
+    -   The grand national horse race in Aintree, Merseyside, England
+-   Investigators
+    -   Wearing their sunday best
+    -   In front of a red box titled "Squid pro quo" with a squid headed horse
+    -   Hear they can bet
+
+### Bets
+
+Each investigator can make one bet on one horse. Each horse can only be bet on by one investigator
+
+| Bet      | Win/1st   | Place/2nd | Show/3rd  | Other     |
+|----------|-----------|-----------|-----------|-----------|
+| 1 MAX HP | +1 MAX HP | 0         | 0         | 0         |
+| 2 MAX HP | +2 MAX HP | +1 MAX HP | 0         | -2 MAX HP |
+| 3 MAX HP | +3 MAX HP | +2 MAX HP | +1 MAX HP | -3 MAX HP |
+
+### Horse race
+
+There are 30 spaces on the track. Space one is the starting position. Space 30 indicates the finish.
+
+The horses and how many spaces they move each round are below.
+
+Once at least three horses have reached the finish line the race ends. Horses that reach the end at the same point are tied for the highest position not yet taken. If 2 horses won (first) at the same time the next horse/s to reach the finish show (third).
+
+Investigators roll for the horse they bet on. The GM rolls for the other horses.
+
+-   Finned dusk: d12
+
+-   Spangle hero: 2d6
+
+-   Comet gel: 3d4
+
+-   Hija spike: d10+1
+
+-   Frugal lunch: d8+2
+
+-   Sod exxo : d6\*2
+
+## End

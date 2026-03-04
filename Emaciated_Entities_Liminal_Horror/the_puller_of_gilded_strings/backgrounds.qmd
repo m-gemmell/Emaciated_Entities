@@ -1,0 +1,26 @@
+# Aussie, Kiwi, & Taswegian backgrounds
+
+D20 investigator backgrounds for the Liminal Horror TTRPG.
+
+Designed to represent regular and peculiar workers found in Australia, New Zealand, and Tasmania in the 2020s.
+
+- __A/C Technician:__ h
+- __Animation/VFX artist:__ C
+- __Cellar hand:__ Bottle of wine, Corkscrew, Siphon tube and hand pump, Sulphur burning for barrel sanitisation and matches
+- __Film extra:__ Facial prosthetics kit, 
+- __Fruit picker:__ h (working holiday maker)
+- __Golf Caddy:__ h
+- __Jackaroo/Jillaroo:__ Insulated cooler jug, Motorbike helmet (1 armor), Pocket knife (d6), Riding boots
+- __Lifeguard:__ K
+- __Martial arts trainer:__ 
+- __Miner:__ B
+- __Pearl Farm Diver:__ 
+- __Pilot:__ L
+- __Roadkill collector:__ 
+- __Sand artist:__
+- __Supermarket employee:__ h
+- __Surfer:__
+- __Tour guide:__ T
+- __Tradie:__ S
+- __Venom milker:__ h
+- __Zookeeper:__ f

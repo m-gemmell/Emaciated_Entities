@@ -10,11 +10,11 @@ When moving to an empty space roll a d6 to determine the type of room encountere
 
 Then roll to determine which room:
 
-| d6  | Short story (1-3) | Writing rule (4-5) | Novel (6) |
-|-----|-------------------|--------------------|-----------|
-| 1   | Foie gras         |                    |           |
-| 2   | San-nakji         |                    |           |
-| 3   | Shark fin soup    |                    |           |
-| 4   | Civet cats        |                    |           |
-| 5   | Horse             |                    |           |
-| 6   |                   |                    |           |
+| d6  | Short story (1-3)  | Writing rule (4-5) | Novel (6) |
+|-----|--------------------|--------------------|-----------|
+| 1   | [S1: Foie gras](/the_taker_of_thoughts/s1_foie_gras.qmd)      |                    |           |
+| 2   | S2: San-nakji      |                    |           |
+| 3   | S3: Shark fin soup |                    |           |
+| 4   | S5: Hide glue      |                    |           |
+| 5   | S4: Kopi luwak     |                    |           |
+| 6   |                    |                    |           |

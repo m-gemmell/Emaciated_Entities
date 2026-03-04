@@ -1,0 +1,33 @@
+# Pictish backgrounds
+
+<center>
+![](images/pict_backgrounds_sticky.png){style="width:200px"}
+</center>
+
+D20 investigator backgrounds for the Liminal Horror TTRPG.
+
+Designed to represent the people of Pictland in the late 7th century. 
+Info from [Carved in Stone: A Storyteller's guide to Pictland](https://carvedinstone.scot/) which can be used as an excellent setting guide.
+
+When creating a Pictish investigator use the normal Liminal Horror rules except your starting inventory is a satchel and travelling rations along with the equipment in your Pictish background.
+
+1. __Beekeeper:__ Dried cow dung (bee smoke), fermented honey and heather (hallucogenic), beekeeper suit, skep (wicker beehive).
+2. __Blacksmith:__ Tongs, hammers, clay, charcoal.
+3. __Entertainer:__ Flute, wooden mask, face paints, flask of fire breathing oil.
+4. __Fisher:__ Hook and line, net, knife (d6), worms.
+5. __Fletcher:__ Gut string, glue, feathers, fletching knife (d6).
+6. __Forager:__ Pestle and mortar, knife (d6), clover (soothes fevers and inflammation), sloke (aids with anaemia).
+7. __Glassworker:__ Ceramic crucible, glass rods, iron rod, wooden shaping paddles.
+8. __Healer:__ Poppy (painkiller and sleep aid), henbane (local anaesthetic when brewed), thread and needle, cloth bandages.
+9. __Herder:__ Dog, shepherd's crook (d6), knife (d6), straw hat. 
+10. __Hound:__ Padded tunic (+1 armor), parrying buckler (+1 armor), spear (d8, _bulky_), warhorn.
+11. __Hunter:__ Light crossbow (d8), animal dung, wooden bird calling whistle, snare kit.
+12. __Leatherworker:__ Neatsfoot oil, small knives (d6), stamps/punches, heavy-duty needle. 
+13. __Monk:__ Scribing tools, blessed quartzite, flask of holy water, holy text.
+14. __Noble:__ Mirror and comb, Longbow (d8, _bulky_), wineskin, horse.
+15. __Pathfinder:__ Quarterstaff (d6), flint and steel, torches, rain cloak.
+16. __Peddler:__ Cart, oxen, lumber, silver brooch.
+17. __Stonecarver:__ Chisels, hammer (d6), chalk, ogham belt.
+18. __Tanner:__ Powdered lime (calcium hydroxide), thick leather gloves (+1 armor), wooden paddle, fleshing knife (d6).
+19. __Weaver:__ Spindle, basket trap, linen threads, bundle of sticks and reeds.
+20. __Woodworker:__ Coppicing axe (d6), drawknives, hand drills, linseed oil.

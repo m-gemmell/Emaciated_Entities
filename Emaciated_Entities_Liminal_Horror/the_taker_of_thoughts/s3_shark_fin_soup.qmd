@@ -1,0 +1,71 @@
+# S3: Shark fin soup
+
+Shark fin soup is a luxury item in parts of China and Southeast Asia.
+Due to the demand and price of the fin over the rest of the shark shark finning involves cutting off the fins and discarding the rest of the shark back into the ocean.
+
+## Start
+
+> The waves gently crash onto the stony beach, covering the sound of the rain.
+> Strolling down the English beach you carefully watch where you step.
+> Partly to prevent twisting your ankle but mainly to keep your eyes out for eggcases.
+> A Gemovich faced citizen scientist excitedly cries Gemovich! as they are the first to find one.
+> Opening an app they input their finding before discarding the eggcase as its occupant once did.
+> The rain & wind are taking their toll and you are looking forward to the chippy.
+
+- Setting
+    - A beech on the English coast
+    - Wet and rocky (possible 1d4 DEX damage)
+    - The weather is miserable, grey, windy, and raining (possible 1d4 stress) 
+- Investigators
+    - Citizen scientists
+    - Wearing rain ponchos and wellies.
+- [Self-inserts](/the_taker_of_thoughts/literary_beings.qmd#self-insert)
+    - Fellow citizen scientists
+    - Will show the way to the chippy after each investigator has found an eggcase and logged it
+- Escape
+    - Reach the chippy
+
+## Middle
+
+> Artificial lights and white surfaces stained with blood and scales.
+> The smell of dead fish and swaying of the boat can easily make you spill your lunch.
+> You thought you would get fresh sea air and untarnished light as a fisherman,
+> A Gemovich faced fisher strides towards your work station.
+> Their sea legs confidently bring a shark to you.
+> Its time for a break from tuna and time for shark finning.
+
+- Setting
+    - The work floor of a fish processing vessel (factory ship)
+    - The water of the open oceans are choppy
+    - Large knives (d8) and bandsaws (d8) are available.
+- Investigators
+    - Onboard fish processors
+    - Equipped with hook sticks (d6)
+- [Self-inserts](/the_taker_of_thoughts/literary_beings.qmd#self-insert)
+    - 2 supervisors ensuring the investigators process the shark correctly
+    - Other fish processors, hook sticks (d6) and large knives (d8)
+- Escape
+    - Successfully defin the shark
+    - Thrown or jump overboard into the freezing waters (d6 stress)
+
+## End
+
+> Flickering candle light from hundreds of red paper lanterns,
+> A high pitched and colourful chinese opera is performed in a makeshift stage.
+> Although they wear masks you know they have the face of E.M. Gemovich as they sing the word "Gemovich" repeatedly.
+> You feel safer at your table with your fellow investigators.
+> That is until you look down into your bowl.
+> INside a brown broth floats thick connecting cartilaginous threads.
+> Shark fin soup.
+> Will you partake?
+
+- Setting
+    - Massive Chinese new year celebration
+- Investigators
+    - Sitting at a wooden table with a lazy susan covered in food.
+- [Self-inserts](/the_taker_of_thoughts/literary_beings.qmd#self-insert)
+    - Opera performers
+    - Part celebrators
+- Shark fin soup
+    - Investigators who partake each roll 3d6, if the total is higher than their current max STR, they take the new result (subsequent servings have no effect)
+    - If any investigator eats the Shark fin soup [The Taker of Thoughts](/the_taker_of_thoughts/literary_beings.qmd#the-taker-of-thoughts) gains its fins feature
