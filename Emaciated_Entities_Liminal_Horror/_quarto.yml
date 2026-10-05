@@ -169,3 +169,11 @@ format:
       - styles.scss
     embed-resources: false
     toc: true
+  
+#Custom callouts
+#https://github.com/coatless-quarto/custom-callout
+custom-callout:
+  yellow:
+    color: "#fff740"
+filters:
+- custom-callout

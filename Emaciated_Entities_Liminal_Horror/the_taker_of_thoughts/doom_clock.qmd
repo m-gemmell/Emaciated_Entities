@@ -6,7 +6,9 @@ Each run starts at 0 ticks and can go up to 6 ticks.
 
 ## Tick tock
 
-Every time the investigators reveal a room in a run roll a d6. Add the number of revealed rooms and the run number.
+Every time the investigators reveal a room in a run roll a d6. 
+Add the number of revealed rooms and the run number to the roll.
+Carry out the below based on the roll.
 
 - __1-8__: Nothing
 - __9-14__: Add 1 tick on the doom clock
@@ -25,7 +27,7 @@ When the tick increases the current Tick event and all previous unactivated Tick
     - Feathers fall from the sky/ceiling
 - Tick 4: Mind the gap
     - The investigators have a lapse in memory
-    - They move past the revealed room into a newly revealed room
+    - They move past the revealed room into a newly revealed room (do not roll for tick tock again)
 - Tick 5: Fear
     - [The Taker of Thoughts](/the_taker_of_thoughts/literary_beings.qmd#the-taker-of-thoughts) arrives in a nearby room
     - They will enter a room with at least one investigator in d3 rounds/actions, it is seeking them

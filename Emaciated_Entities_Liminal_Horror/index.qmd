@@ -11,7 +11,11 @@ Little is known about them. The most concrete information is contained within th
 This is a website to host information on the Sticky Crawl and 6 Emaciated Entities.
 These materials are compatible with the [Liminal Horror TTRPG](https://liminalhorrorrpg.com/).
 
-__Note:__ This site is a work in progress with much to add and edit.
+::: {.yellow icon=false}
+## WIP
+This site is a work in progress with much to add and edit.
+:::
+
 
 ## Sticky crawl
 
