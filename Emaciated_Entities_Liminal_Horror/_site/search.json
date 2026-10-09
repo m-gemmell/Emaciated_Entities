@@ -280,7 +280,7 @@
     "href": "the_taker_of_thoughts/mystery_intro.html",
     "title": "Mystery",
     "section": "",
-    "text": "Mystery\nAuthor E.M. Gemovich",
+    "text": "Author E.M. Gemovich\n\n\nIdeas written by the true author.\n\nThis is the fifth Emaciated Entity therefore only have five short stories and memories (maybe five book series + memoirs)\nInvestigators start with no background and few items, they have forgotten hwo they are from the first loop which they also don’t remember\nFive rolled for exploration\n\nMake it so when a five is rolled (short story or memoir) that an empty sticky note is placed on the map and the investigators go to the next location after that (represents them not being able to remember the location)\nWhen investigators go through this they start to remember themselves gaining their:\n\nTrue name\nBackground\nSLowly regaining items from their background\n\n\nFranchises\n\nEach series location is a pivotal event from the series\nFantasy franchise is about horrible goblins who farm and eat people (playing into the horror of eating meat)",
     "crumbs": [
       "Taker of Thoughts",
       "Shred after writing",
@@ -341,7 +341,7 @@
     "href": "the_taker_of_thoughts/doom_clock.html",
     "title": "Doom clock",
     "section": "",
-    "text": "The doom clock is a way to increase the tension and threat as the investigators explore the mind each run and progress through runs.\nEach run starts at 0 ticks and can go up to 6 ticks.\n\n\nEvery time the investigators reveal a room in a run roll a d6. Add the number of revealed rooms and the run number.\n\n1-8: Nothing\n9-14: Add 1 tick on the doom clock\n15-19: Add 2 ticks on the doom clock\n20+: Add 3 ticks on the doom clock\n\n\n\n\nWhen the tick increases the current Tick event and all previous unactivated Tick events activate.\n\nTick 1: Honk! The Herald Author sings!\n\nAn abyssal honk is heard\n\nTick 2: Tar\n\nCephalopod ink pools on the floor\n\nTick 3: Feather\n\nFeathers fall from the sky/ceiling\n\nTick 4: Mind the gap\n\nThe investigators have a lapse in memory\nThey move past the revealed room into a newly revealed room\n\nTick 5: Fear\n\nThe Taker of Thoughts arrives in a nearby room\nThey will enter a room with at least one investigator in d3 rounds/actions, it is seeking them\n\nTick 6: The Mind-killer\n\nThe investigators cannot escape by resetting the current run\nThey must flee back to the warehouse room\nThe Taker of Thoughts knows where the investigators are",
+    "text": "The doom clock is a way to increase the tension and threat as the investigators explore the mind each run and progress through runs.\nEach run starts at 0 ticks and can go up to 6 ticks.\n\n\nEvery time the investigators reveal a room in a run roll a d6. Add the number of revealed rooms and the run number to the roll. Carry out the below based on the roll.\n\n1-8: Nothing\n9-14: Add 1 tick on the doom clock\n15-19: Add 2 ticks on the doom clock\n20+: Add 3 ticks on the doom clock\n\n\n\n\nWhen the tick increases the current Tick event and all previous unactivated Tick events activate.\n\nTick 1: Honk! The Herald Author sings!\n\nAn abyssal honk is heard\n\nTick 2: Tar\n\nCephalopod ink pools on the floor\n\nTick 3: Feather\n\nFeathers fall from the sky/ceiling\n\nTick 4: Mind the gap\n\nThe investigators have a lapse in memory\nThey move past the revealed room into a newly revealed room (do not roll for tick tock again)\n\nTick 5: Fear\n\nThe Taker of Thoughts arrives in a nearby room\nThey will enter a room with at least one investigator in d3 rounds/actions, it is seeking them\n\nTick 6: The Mind-killer\n\nThe investigators cannot escape by resetting the current run\nThey must flee back to the warehouse room\nThe Taker of Thoughts knows where the investigators are",
     "crumbs": [
       "Taker of Thoughts",
       "Shred after writing",
@@ -353,7 +353,7 @@
     "href": "the_taker_of_thoughts/doom_clock.html#tick-tock",
     "title": "Doom clock",
     "section": "",
-    "text": "Every time the investigators reveal a room in a run roll a d6. Add the number of revealed rooms and the run number.\n\n1-8: Nothing\n9-14: Add 1 tick on the doom clock\n15-19: Add 2 ticks on the doom clock\n20+: Add 3 ticks on the doom clock",
+    "text": "Every time the investigators reveal a room in a run roll a d6. Add the number of revealed rooms and the run number to the roll. Carry out the below based on the roll.\n\n1-8: Nothing\n9-14: Add 1 tick on the doom clock\n15-19: Add 2 ticks on the doom clock\n20+: Add 3 ticks on the doom clock",
     "crumbs": [
       "Taker of Thoughts",
       "Shred after writing",
@@ -365,7 +365,7 @@
     "href": "the_taker_of_thoughts/doom_clock.html#tick-events",
     "title": "Doom clock",
     "section": "",
-    "text": "When the tick increases the current Tick event and all previous unactivated Tick events activate.\n\nTick 1: Honk! The Herald Author sings!\n\nAn abyssal honk is heard\n\nTick 2: Tar\n\nCephalopod ink pools on the floor\n\nTick 3: Feather\n\nFeathers fall from the sky/ceiling\n\nTick 4: Mind the gap\n\nThe investigators have a lapse in memory\nThey move past the revealed room into a newly revealed room\n\nTick 5: Fear\n\nThe Taker of Thoughts arrives in a nearby room\nThey will enter a room with at least one investigator in d3 rounds/actions, it is seeking them\n\nTick 6: The Mind-killer\n\nThe investigators cannot escape by resetting the current run\nThey must flee back to the warehouse room\nThe Taker of Thoughts knows where the investigators are",
+    "text": "When the tick increases the current Tick event and all previous unactivated Tick events activate.\n\nTick 1: Honk! The Herald Author sings!\n\nAn abyssal honk is heard\n\nTick 2: Tar\n\nCephalopod ink pools on the floor\n\nTick 3: Feather\n\nFeathers fall from the sky/ceiling\n\nTick 4: Mind the gap\n\nThe investigators have a lapse in memory\nThey move past the revealed room into a newly revealed room (do not roll for tick tock again)\n\nTick 5: Fear\n\nThe Taker of Thoughts arrives in a nearby room\nThey will enter a room with at least one investigator in d3 rounds/actions, it is seeking them\n\nTick 6: The Mind-killer\n\nThe investigators cannot escape by resetting the current run\nThey must flee back to the warehouse room\nThe Taker of Thoughts knows where the investigators are",
     "crumbs": [
       "Taker of Thoughts",
       "Shred after writing",
@@ -675,7 +675,7 @@
     "href": "the_taker_of_thoughts/m1_proposal.html",
     "title": "M1: Proposal",
     "section": "",
-    "text": "M1: Proposal\n\nOn that night Ezra took me to a lavish vegan restaurant in London. He looked magnificent in his suit. I looked so beautiful in pink and black dress, my collar on full display, it made him stumble over his words. It wasn’t till later in the evening did I realise my life would be happily bonded to his from then on.\n\n\nScene\n\nEzra and Emily sit and eat their candlelit dinner\nEzra goes to the W.C. siking himself up as he sits on a toilet\nEzra returns to the table and proposes to Emily, she says yes\n\nAltered scene\n\nWhilst sitting on the a tentacle breaks through and drags Ezra into the pipes\nHe screams as his bones shatter being forced into a hole too small for him\nEmily hears his screams and sees his body being pulled down",
+    "text": "M1: Proposal\n\nOn that night Ezra took me to a lavish vegan restaurant in London. He looked magnificent in his suit. He said I looked so beautiful in the pink and black dress he’d bought me. He was being genuine and correct of course. With my collar on full display, he stumbled over his words. It wasn’t till later in the evening did I realise my life would be happily bonded to his from then on.\n\n\nScene\n\nEzra and Emily sit and eat their candlelit dinner\nEzra goes to the W.C. psyching himself up as he sits on a toilet\nEzra returns to the table and proposes to Emily, she says yes\n\nAltered scene\n\nWhilst sitting on the toilet a tentacle breaks through and drags Ezra into the pipes\nHe screams as his bones shatter, his whole body forced into the pipes below\nEmily hears his screams, she rushes into the toilet only to see his head, hands, and feet crushed together before they descend with a crack and pop",
     "crumbs": [
       "Taker of Thoughts",
       "Shred after writing",
@@ -688,7 +688,7 @@
     "href": "the_taker_of_thoughts/memoirs.html",
     "title": "Altered memories",
     "section": "",
-    "text": "Altered memories\nE.M. Gemovich’s 7th literary venture is a memoir of her life. By writing this she is giving over her memories to The Taker of Thoughts.\nWhilst traversing her mind the investigators will come upon her treasured memories. There is one key memory to each of her book series (one for romance, one for fantasy, etc.). The Taker of thoughts is attempting to alter these into horrible memories and make her lose her loved ones in her mind.\nThe first run the investigators enter a memory they will see it play out as normal. However subsequent runs The Taker of Thoughts will attempt to ruin the memory. The investigators can try to stop this.\nIn these memories all unnamed characters are self-inserts. The investigators can take the place of any of the self-inserts when they enter a memory.",
+    "text": "Altered memories\nE.M. Gemovich’s 7th literary venture is a memoir of her life. By writing this she is giving over her memories to The Taker of Thoughts.\nWhilst traversing her mind the investigators will come upon her treasured memories. There is one key memory to each of her book series (one for romance, one for fantasy, etc.). The Taker of thoughts is attempting to alter these into horrible memories and make her lose her loved ones in her mind.\nThe first run the investigators enter a memory they will see it play out as normal. However subsequent runs The Taker of Thoughts will attempt to ruin the memory. The investigators can try to stop this.\nIn these memories all unnamed characters are self-inserts. Self-inserts are not specifically mentioned in the entries. Instead they consist of people who would reasonably at the event (e.g. waiters, sky dive instructors etc.).\nThe investigators can take the place of any of the self-inserts when they enter a memory. Encourage them to suggest self-inserts who could be present. It does not matter if they were not in the memory in previous runs of it. The player characters are able to influence the memories of E.M. Gemovich like The Taker of Thoughts (though to a lesser extent).",
     "crumbs": [
       "Taker of Thoughts",
       "Shred after writing",
@@ -1102,6 +1102,18 @@
       "Toll of Unmeaning",
       "The Toll of Unmeaning",
       "Poem"
+    ]
+  },
+  {
+    "objectID": "the_taker_of_thoughts/mystery_intro.html#ideas",
+    "href": "the_taker_of_thoughts/mystery_intro.html#ideas",
+    "title": "Mystery",
+    "section": "",
+    "text": "Ideas written by the true author.\n\nThis is the fifth Emaciated Entity therefore only have five short stories and memories (maybe five book series + memoirs)\nInvestigators start with no background and few items, they have forgotten hwo they are from the first loop which they also don’t remember\nFive rolled for exploration\n\nMake it so when a five is rolled (short story or memoir) that an empty sticky note is placed on the map and the investigators go to the next location after that (represents them not being able to remember the location)\nWhen investigators go through this they start to remember themselves gaining their:\n\nTrue name\nBackground\nSLowly regaining items from their background\n\n\nFranchises\n\nEach series location is a pivotal event from the series\nFantasy franchise is about horrible goblins who farm and eat people (playing into the horror of eating meat)",
+    "crumbs": [
+      "Taker of Thoughts",
+      "Shred after writing",
+      "Mystery"
     ]
   }
 ]

@@ -1,3 +1,20 @@
 # Mystery
 
 Author E.M. Gemovich
+
+
+## Ideas
+
+Ideas written by the true author.
+
+- This is the fifth Emaciated Entity therefore only have five short stories and memories (maybe five book series + memoirs)
+- Investigators start with no background and few items, they have forgotten hwo they are from the first loop which they also don't remember
+- Five rolled for exploration
+    - Make it so when a five is rolled (short story or memoir) that an empty sticky note is placed on the map and the investigators go to the next location after that (represents them not being able to remember the location)
+    - When investigators go through this they start to remember themselves gaining their:
+        - True name
+        - Background
+        - SLowly regaining items from their background
+- Franchises
+    - Each series location is a pivotal event from the series
+    - Fantasy franchise is about horrible goblins who farm and eat people (playing into the horror of eating meat)
