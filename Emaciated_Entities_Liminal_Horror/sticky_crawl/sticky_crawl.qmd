@@ -126,24 +126,27 @@ The locations each investigator can move into with one movement are:
 
 - <span style="color: #ffb000;">Adam</span>: The Big Bang exhibit and the Precambrian exhibit.
 - <span style="color: #648fff;">Axel</span>: The Entrance and the Bronze Age exhibit.
-- <span style="color: #dc267f;">Blaze</span>: The Brinze Age exhibit.
+- <span style="color: #dc267f;">Blaze</span>: The Bronze Age exhibit.
 
 <div class="square_image">
   <img src="/sticky_crawl/images/full_map.png" width="600px"></a></p>
 </div>
+
+## Terminology
+
 - __Area:__ This is the entire area of the mystery and is composed of all the locations.
 - __Location:__ A location is one sticky note representing a location separate from other locations. A location could be a room, a set of connected rooms, a building, a city,  a forest, etc. The size of each location is dependant on the size of the area with each location in one area being around the same scale.
 - __Exit:__ The exits are represented by lines on the sides of the sticky note location. 
 This allow investigators to travel between locations.
 When travelling between two locations the locations must be touching each other's sides and both the sides must have an exit.
-The cinnection between two locations can be a door, a path, a road, etc.
+The connection between two locations can be a door, a path, a road, etc.
 - __Pool:__ A pool of locations is a set of locations that can be randomly drawn from.
-A location on the table/in play is consdered not to be in the pool.
+A location on the table/in play is considered not to be in the pool.
 If a location is removed from the table/play it is returned its pool.
 
 ## Example sticky crawls
 
-- [Why doe the bell?](/the_toll_of_unmeaning/mystery_intro.qmd) WIP
+- [Why does the bell?](/the_toll_of_unmeaning/mystery_intro.qmd) WIP
 
 ## Inspirations
 

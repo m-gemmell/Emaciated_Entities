@@ -1,0 +1,3 @@
+# Overview
+![](images/taker_of_thoughts_symbol.png){style="width:300px" fig-align="center"}
+

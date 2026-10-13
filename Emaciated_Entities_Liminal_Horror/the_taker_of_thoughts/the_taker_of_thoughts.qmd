@@ -1,30 +1,44 @@
-# Poem {.h1centre}
+# Poem
+
+![](images/taker_of_thoughts_symbol.png){style="width:300px" fig-align="center"}
+
+The below poem was found within a printed book of poetry by a Caroline Gurnsey.
+Caroline Gurnsey was found dead of dehydration at a writing desk in a forgotten house.
+
+She was surrounded by other printed books of her, all with valid but unused ISBN ids.
+Seemingly a prolific writer yet no one remembers her.
+
+A copy of her book "Reclamations and forfeits" was open on the below poem.
+The last stanza, not in the original print, was written with quill and ink.
+Many other copies were strewn across the flow, open on the poem with the last stanza manually added too.
 
 ## The Taker of Thoughts {.h2centre}
 
 <center>
-Grab its white feather,<br>
-Write with its thick ink.<br>
-Surrender your words till you're not but leather,<br>
-Then with empty brain you can let your head sink.
-
-Lay it atop a down pillow,<br>
-And descend to the abyss.<br>
-Every thought weighs a kilo,<br>
-so write them down as a list.
-
-Body of a plucked goose,<br>
-Head of a dried squid.<br>
-Our success is just a ruse,<br>
-For it'll win with its black liquid.
-
-For to enchant others the payment’s your mind,<br>
-To be replaced with its inkened blots.<br>
-So be content with your fate assigned,<br>
-Decided upon by the taker of thoughts.
-
-Who wrote this poem?<br>
-It's in my hand.<br>
-Did it come from my dome?<br>
-I don't understand.
+> Grab its white feather,<br>
+> Write with its thick ink.<br>
+> Surrender your words till you're not but leather,<br>
+> Then with empty brain you can let your head sink.
+>
+> Lay it atop a down pillow,<br>
+> And descend to the abyss.<br>
+> Every thought weighs a kilo,<br>
+> so write them down as a list.
+>
+> Body of a plucked goose,<br>
+> Head of a dried squid.<br>
+> Our success is just a ruse,<br>
+> For it'll win with its black liquid.
+>
+> For to enchant others the payment’s your mind,<br>
+> To be replaced with its inkened blots.<br>
+> So be content with your fate assigned,<br>
+> Decided upon by the taker of thoughts.
+>
+::: {.tot}
+> Who wrote this poem?<br>
+> It's in my hand.<br>
+> Did it come from my dome?<br>
+> I don't understand.
+:::
 </center>

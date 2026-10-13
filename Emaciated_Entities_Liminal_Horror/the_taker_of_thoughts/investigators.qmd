@@ -1,0 +1,24 @@
+# Investigators
+
+This mystery is intended to be run with completely new investigators.
+The mystery starts with the investigators having shredded their recent memories.
+They do not not why they are here and their memories of the last year is incredibly fuzzy.
+
+New investigators start with the following:
+
+1. A value of 10 for each attribute: STRENGTH, DEXTERITY, and CONTROL
+2. A HP value of 1
+3. A smartphone
+4. No background or archetype
+5. No name
+6. A random item from the below table
+
+## Random starting item
+
+Note to MG: Add one item that woudld fit for each of E.M> Gemovich's book series.
+
+
+## Reclaiming memories
+
+Investigators will reclaim their memories as they 
+

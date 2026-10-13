@@ -1,0 +1,166 @@
+# Memory lapse
+
+A memory lapse appears every fifth room of each run.
+It is represented by an empty sticky note with 2 exits (one connecting to previous location, other is GM's choice) on the game table.
+
+This represents a location where the investigators can not remember anything about the location or what they did in the location.
+
+::: {.yellow icon=false}
+## Doom clock
+Ensure to carry out a [Tick tock](/the_taker_of_thoughts/doom_clock.qmd#tick-tock) when the memory lapse room appears and when the next/sixth room appears.
+In other words rolla d6 twice and add the relevant amount of Doom clock ticks when the investigators move from location 4->5->6.
+:::
+
+However, each investigator gains a reclamation in the first 5 memory lapses, starting with the first, then the second, etc.
+From the sixth memory lapse onwards they gain a random forfeit.
+
+
+
+
+## First lapse
+
+__Background__
+
+Each investigator rolls for a random [Nordic background](/the_taker_of_thoughts/nordic_backgrounds.qmd).
+They gain the background and its items.
+
+
+## Second lapse
+
+__Name__
+
+Each investigator remembers their name.
+They can choose or you can use some sort of nordic random name generator.
+
+Additionally, they reroll their maximum STRENGTH attribute.
+This is their new maximum and current STRENGTH.
+
+## Third lapse
+
+__Bond__
+
+Each investigator rerolls their CONTROL attribute.
+This is their new maximum and current CONTROL.
+
+Each investigator rolls a d6 to gain on eof the following bonds:
+
+1. You worked for Goose book publishing house, publisher of E.M. Gemovich's books. How did you interact with E.M. Gemovich?
+2. Which celebrity from one of the tv/movie adaptations of E.M. Gemovich's books are you friends with? How do you know them?
+3. Which of the other investigators do you know? What is their relation to you?
+4. You have an identical twin. What is their name?
+5. You've encountered the horror responsible for all this before. Who did they take from you that only you remember?
+6. You're a writer and friend of E.M. Gemovich. Which of Gemovich's book series did you co-author?
+
+## Fourth lapse
+
+__Mind over matter__
+
+Each investigator rerolls their DEXTERITY attribute.
+This is their new maximum and current DEXTERITY.
+
+Each investigator receives a random (roll d6) fallout from the below list.
+
+1. __Flashback:__ Once per run you may ret con your last action. This can be in the form of rerolling an attack roll/attribute save, or doing something completely different.
+2. __Imaginary friend:__ Your character's childhood friend comes to life, describe them. They are friendly to you and played by the GM. They cannot exist outside the mind of E.M. Gemovich. Roll d6 for the HP and 3d6 for each of their attributes. The GM will give them one item/ability.
+3. __Object permanence:__ Once per run you may summon any item you have previously seen/currently seeing in E.M. Gemovich's mind. It returns to where it belongs at the end of the current run.
+4. __Journey technique:__ Once per run you may choose the next room/location to appear from the available short story & memoir locations.
+5. __Trauma activate anterograde amnesia:__ You struggle to remember horrific events. Gain 1 stability.
+6. __Being E.M. Gemovich:__ Once per run you can disguise yourself as a "self-insert". Your head will have the appearance of E.M. Gemovich's and you will speak with her voice. The guise drops if: you, the player, say a word that is not "Gemovich" (other than describing your actions to the GM), do something obvious that a "self insert" wouldn't do, or when the current run ends.
+
+These Fallouts only work in this mystery and can be removed if the investigator escapes and survives.
+
+## Fifth lapse
+
+__Secrets__
+
+Each investigator rolls a d6 to gain one of the secrets that are on the below expandable/secret boxes.
+
+::: {.callout-tip icon=false collapse="true"}
+## One
+__Blank:__ You don't actually remember anything about yourself. You just made up your current memories and convinced yourself they were real. You know they are a fiction now. Will killing The Taker of Thoughts return your true memories? Or are you a byproduct of its feeding?
+
+Write the following on a note a pass it to the GM:
+
+- Player name
+- Your character's name
+- "Blank"
+- "Blank"
+
+
+Make a secret CONTROL save and tell the GM whether you fail or pass. You'll receive a fallout on a fail.
+:::
+
+::: {.callout-tip icon=false collapse="true"}
+## Two
+__Literary being:__ You are a fictional character of E.M. Gemovich.  You want E.M. Gemovich to survive and you want The taker of Thoughts gone from her mind.
+
+What series are you from and what character are you? Write the following on a note and pass it to the GM:
+
+- Player name
+- Your character's name before this realisation
+- "Literary being"
+- The franchise your character is from and their name & role in the series
+
+Make a secret fake CONTROL save. No matter the results say you passed the save.
+:::
+
+
+::: {.callout-tip icon=false collapse="true"}
+## Three
+__Fan:__ You are an avid fan of E.M. Gemovich. Being in her mind is a dream come true. What do you wish for more? To save her so she can write more books? Or to live in her mind, in her worlds?
+
+Write the following on a note and pass it to the GM:
+
+- Player name
+- Your character's name
+- "Fan"
+- The E.M. Gemovich franchise you know the best
+
+Make a secret fake CONTROL save. No matter the results say you passed the save.
+:::
+
+::: {.callout-tip icon=false collapse="true"}
+## Four
+__Antimeme agent:__ You are an agent of an organisation that investigates the paranatural. Your department focusses on events, places, and entities that interfere with memories. You want to gather data about the Taker of Thoughts.
+
+Write the following on a note and pass it to the GM:
+
+- Player name
+- Your character's name
+- "Agent"
+
+Make a secret fake CONTROL save. No matter the results say you passed the save.
+
+When you make CONTROL saves against future memory lapses you automatically succeed.
+:::
+
+::: {.callout-tip icon=false collapse="true"}
+## Five
+__Cultist:__ You are a member of The Taker of Thoughts cult. You want it to feed. The other investigators are its food. Covertly sabotage their efforts to stop The Taker of Thoughts but try to not harm or kill.
+
+Write the following on a note and pass it to the GM:
+
+- Player name
+- Your character's name
+- "Cultist"
+
+Make a secret fake CONTROL save. 
+No matter the results say you failed the save to gain a fallout from The Taker of Thoughts.
+
+Once, and once only, you may summon The Taker of Thoughts to your location in E.M. Gemovich's mind.
+:::
+
+::: {.callout-tip icon=false collapse="true"}
+## Six
+__Vegan:__ You are a staunch vegan.
+
+Write the following on a note and pass it to the GM:
+
+- Player name
+- Your character's name
+- "Vegan"
+
+Make a secret fake CONTROL save. 
+If your character has previously ate meat meat say you failed the CONTROL save, gaining a fallout.
+If not say you passed the CONTROL save.
+:::

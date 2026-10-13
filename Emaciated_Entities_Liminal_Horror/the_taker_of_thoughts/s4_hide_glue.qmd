@@ -47,7 +47,7 @@ The horses and how many spaces they move each round are below.
 
 Once at least three horses have reached the finish line the race ends. Horses that reach the end at the same point are tied for the highest position not yet taken. If 2 horses won (first) at the same time the next horse/s to reach the finish show (third).
 
-Investigators roll for the horse they bet on. The GM rolls for the other horses.
+Investigators roll for the horse they bet on. The GM rolls for the other horses. Rolls are carried out simultaneously.
 
 -   Finned dusk: d12
 

@@ -1,11 +1,12 @@
 /*-- scss:defaults --*/
 
 // Import fonts
-@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&family=Cabin:ital,wght@0,400..700;1,400..700&display=swap');
-
-//ditherit colour palette
-// [{"hex":"#fff740"},{"hex":"#F8F9FA"},{"hex":"#252a34"}]
-// [{"hex":"#fff740"},{"hex":"#ffffff"},{"hex":"#000000"},{"hex":"#F8F9FA"},{"hex":"#252a34"}]
+// Cabin
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap');
+// Cabin sketch
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&display=swap');
+// Nothing You COuld Do
+@import url('https://fonts.googleapis.com/css2?family=Nothing+You+Could+Do&display=swap');
 
 // Colors
 $ibm-blue: #648fff;
@@ -42,7 +43,14 @@ body {
   font-variation-settings:
     "width" 100;
 }
-h1, h2, h3, h4, h5, h6 {
+
+h1 {
+  font-family: "Cabin Sketch", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  text-align: center;
+}
+h2, h3, h4, h5, h6 {
   font-family: "Cabin Sketch", sans-serif;
   font-weight: 700;
   font-style: normal;
@@ -55,6 +63,13 @@ h1, h2, h3, h4, h5, h6 {
 .h2centre h2 {
   text-align: center;
 }
+
+// Taker of thoughts hand written font
+.tot {
+  font-family: "Nothing You Could Do";
+  font-weight: 500;
+}
+
 
 .tippy-tooltip {
   font-size: 16px;

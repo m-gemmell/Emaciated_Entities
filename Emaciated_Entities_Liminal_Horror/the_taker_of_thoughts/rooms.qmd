@@ -2,19 +2,31 @@
 
 There are three types of rooms in this mystery
 
-When moving to an empty space roll a d6 to determine the type of room encountered:
+## Determining the room
 
--   1-3: Short story
--   4-5: Writing rule
--   6: Novel
+When moving to an empty space roll a d6 and add the number of rooms present to determine the type of room encountered:
 
-Then roll to determine which room:
+- 1-5: Short story
+- 6-9: Memoir
+- 10+: Novel
 
-| d6  | Short story (1-3)  | Writing rule (4-5) | Novel (6) |
-|-----|--------------------|--------------------|-----------|
-| 1   | [S1: Foie gras](/the_taker_of_thoughts/s1_foie_gras.qmd)      |                    |           |
-| 2   | S2: San-nakji      |                    |           |
-| 3   | S3: Shark fin soup |                    |           |
-| 4   | S5: Hide glue      |                    |           |
-| 5   | S4: Kopi luwak     |                    |           |
-| 6   |                    |                    |           |
+Then roll to determine the specific room:
+
+| d6 | Short story (1-4) | Memoir (5-8) | Reclamation (1st 9+) | Novel (2nd 9+) |
+|---------------|---------------|---------------|---------------|---------------|
+| 1 | [S1: Foie gras](/the_taker_of_thoughts/s1_foie_gras.qmd) |  |  |  |
+| 2 | [S2: San-nakji](/the_taker_of_thoughts/s2_san-nakji.qmd) |  |  |  |
+| 3 | S3: Shark fin soup |  |  |  |
+| 4 | S5: Hide glue |  |  |  |
+| 5 | S4: Kopi luwak |  |  |  |
+| 6 |  |  |  |  |
+
+## Fifth room
+
+Do not roll on the table for the fifth room of each run, instead a memory lapse occurs. 
+Put down an empty locations and roll for the sixth location.
+Investigators instantly move past the laps onto the sixth location.
+
+## Fixed state of mind
+
+Once a novel room appears no new rooms can appear in the current run.

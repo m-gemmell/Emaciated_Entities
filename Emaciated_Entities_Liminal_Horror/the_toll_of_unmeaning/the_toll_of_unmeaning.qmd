@@ -1,5 +1,10 @@
 # Poem {.h1centre}
 
+![](images/the_toll_of_unmeaning_symbol.png){style="width:300px" fig-align="center"}
+
+The below poem was found engraved on an old cannon found in a shipwreck.
+The history and culture of the ship is unknown with all other symbols and text present being undecipherable.
+
 ## The Toll of Unmeaning {.h2centre}
 
 <center>
@@ -37,7 +42,7 @@ tippy::tippy_this(elementId = "flosculations",
 tippy::tippy_this(elementId = "kalotypography", 
                   tooltip = "Beautiful printing",
                   arrow = TRUE, placement = "bottom")
-tippy::tippy_this(elementId = "Apanthropinization", 
+tippy::tippy_this(elementId = "apanthropinization", 
                   tooltip = "Withdrawal from human concerns or the human world",
                   arrow = TRUE, placement = "bottom")
 tippy::tippy_this(elementId = "artigraphy", 
@@ -71,7 +76,7 @@ tippy::tippy_this(elementId = "campanologists",
                   tooltip = "Studier of bells",
                   arrow = TRUE, placement = "bottom")
 tippy::tippy_this(elementId = "desarcinate", 
-                  tooltip = "TO unload; to unburden",
+                  tooltip = "To unload; to unburden",
                   arrow = TRUE, placement = "bottom")
 tippy::tippy_this(elementId = "phlyarologists", 
                   tooltip = "One who talks nonsense",

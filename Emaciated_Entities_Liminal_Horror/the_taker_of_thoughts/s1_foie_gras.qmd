@@ -1,7 +1,5 @@
 # S1: Foie gras
-<center>
-![](images/foie_gras.png){style="width:250px"}
-</center>
+![](images/foie_gras.png){style="width:250px" fig-align="center"}
 
 [Foie gras](https://en.wikipedia.org/wiki/Foie_gras) is liver of a duck or goose that has been fattened by force feeding (gavage).
 It is considered a delicacy of french cuisine.

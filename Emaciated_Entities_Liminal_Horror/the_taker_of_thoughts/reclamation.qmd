@@ -1,0 +1,16 @@
+# Reclamation
+
+Reclamation rooms are represented by empty sticky notes.
+Only once reclamation room can appear per run.
+
+
+If an investigator rolls a number they have previously gained they take the nearest number instead (if ties they choose the lower or higher value).
+Once they have gained all six reclamations they instead roll for a forfeit.
+
+Once 
+
+
+## New investigators
+
+If a completely new investigator (not a [protagonist](/the_taker_of_thoughts/literary_beings.qmd#protagonists)) joins the mystery give them a new character as described in [the investigators page](/the_taker_of_thoughts/investigators.qmd).
+Then roll a number of reclamations to the number of reclamation rooms that have been previously encountered in the mystery.

@@ -111,12 +111,13 @@ website:
         - href: the_taker_of_thoughts/s2_san-nakji.qmd
         - href: the_taker_of_thoughts/s3_shark_fin_soup.qmd
         - href: the_taker_of_thoughts/s4_hide_glue.qmd
-        - href: the_taker_of_thoughts/s5_kopi_luwak.qmd
+        - href: the_taker_of_thoughts/s6_kopi_luwak.qmd
       - section: "Memoirs"
         contents:
         - href: the_taker_of_thoughts/memoirs.qmd
         - href: the_taker_of_thoughts/m1_proposal.qmd
         - href: the_taker_of_thoughts/m2_skydive.qmd
+      - href: the_taker_of_thoughts/memory lapse.qmd
       - href: the_taker_of_thoughts/literary_beings.qmd
   - id: The Puller of Gilded Strings
     title: Overview
