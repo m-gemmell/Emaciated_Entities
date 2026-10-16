@@ -7,6 +7,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&display=swap');
 // Nothing You COuld Do
 @import url('https://fonts.googleapis.com/css2?family=Nothing+You+Could+Do&display=swap');
+// Solklscreen
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap');
 
 // Colors
 $ibm-blue: #648fff;
@@ -23,6 +25,7 @@ $sticky-blue: #7afcff;
 $sticky-light-yellow: #feff9c;
 $sticky-dark-yellow: #fff740;
 $dark-grey: #252a34;
+$gold: #ffd700;
 
 
 // Base document colors
@@ -49,11 +52,13 @@ h1 {
   font-weight: 700;
   font-style: normal;
   text-align: center;
+  color:$sticky-dark-yellow;
 }
 h2, h3, h4, h5, h6 {
   font-family: "Cabin Sketch", sans-serif;
   font-weight: 700;
   font-style: normal;
+  color:$sticky-dark-yellow;
 }
 
 // Centre a first and second level header
@@ -64,11 +69,21 @@ h2, h3, h4, h5, h6 {
   text-align: center;
 }
 
+// Biter fo hands gold embroidered font
+.silkscreen-gold {
+  font-family: "Silkscreen", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color:$gold;
+}
+
 // Taker of thoughts hand written font
 .tot {
   font-family: "Nothing You Could Do";
   font-weight: 500;
 }
+
+
 
 
 .tippy-tooltip {

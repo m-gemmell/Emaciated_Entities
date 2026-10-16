@@ -4,7 +4,7 @@ The 10 east locations are included within the sticky pool at the start of this s
 
 The focus of this mystery in on the investigator's interactions with [The Guillotined](/the_toll_of_unmeaning/the_guillotined.qmd). Therefore, the descriptions of the locations are deliberately sparse. The facilitator is free to expand these in prep or during play.
 
-East locations cannot directly connect to [West locations]. The East and West are only connected by [Gilbury Bridge](/the_toll_of_unmeaning/bridge.qmd).
+East locations cannot directly connect to [West locations](/the_toll_of_unmeaning/west_locations.qmd). The East and West are only connected by [Gilbury Bridge](/the_toll_of_unmeaning/bridge.qmd).
 
 ## (1) Heather Gardens
 

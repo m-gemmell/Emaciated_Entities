@@ -1,13 +1,18 @@
 # Poem {.h1centre}
 
+The below poem was found on an emaculate silken set of overalls.
+The letters were perfectly embroidered with thread made of gold.
+
 ## The Puller of Gilded Strings {.h2centre}
 
 <center>
+
+::: {.silkscreen-gold}
 Tongue of manipulation,<br>
 Teeth of gold.<br>
 You set the stipulations,<br>
 Or at least that’s what you’re told.
-
+ 
 Moth to the fire,<br>
 Conned to impoverished.<br>
 Success to the liar,<br>
@@ -27,4 +32,6 @@ So it’ll take its thread,<br>
 To weave its wings.<br>
 Seems you were the one led,<br>
 By The Puller of Gilded Strings.
+:::
+
 </center>

@@ -25,6 +25,7 @@ HP: 5
 Tentacles (d8)
 
 - A plucked goose the size of an elephant with the head of a dried squid
+- The Taker of Thoughts can only be harmed by Novel weapons (Each novel has one special weapon that is the goal to reach)
 
 The taker of Thoughts can gain the following attributes based on the investigator's actions.
 

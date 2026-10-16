@@ -15,6 +15,15 @@ However, each investigator gains a reclamation in the first 5 memory lapses, sta
 From the sixth memory lapse onwards they gain a random forfeit.
 
 
+::: {.yellow icon=false}
+## New investigators
+If a completely new investigator (not a [protagonist](/the_taker_of_thoughts/literary_beings.qmd#protagonists)) joins the mystery give them a new character as described in [the investigators page](/the_taker_of_thoughts/investigators.qmd).
+Then they gain all the reclamations and forfeits they missed.
+:::
+
+## New investigators
+
+
 
 
 ## First lapse
@@ -164,3 +173,14 @@ Make a secret fake CONTROL save.
 If your character has previously ate meat meat say you failed the CONTROL save, gaining a fallout.
 If not say you passed the CONTROL save.
 :::
+
+## Forfeits
+
+After an investigator has gained all 5 reclamations they instead gain a random forfeit after each memory lapse instead of reclamations.
+
+1. Gear loss: Roll a d10 and lose the equipment on that space (ignore if the space does not have equipment)
+2. Lose 1 max STRENGTH
+3. Lose 1 max DEXTERITY
+4. Lose 1 max CONTROL
+5. Make a CTRL save, gaining a fallout if you fail
+6. Strike out one word, that you have written, from your character sheet using ink 

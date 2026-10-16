@@ -20,3 +20,10 @@ Encourage them to suggest [self-inserts](/the_taker_of_thoughts/literary_beings.
 It does not matter if they were not in the memory in previous runs of it.
 The player characters are able to influence the memories of E.M. Gemovich like The Taker of Thoughts (though to a lesser extent).
 
+## Ruined memory
+
+If the investigators do not stop The Taker of Thoughts form ruining the memory the following happens.
+
+- The matching Novel room is removed from the pool if it is not in the layout
+- The matching Novel room become a lapse at end of run if it is in the layout
+- The Novel item from the matching Novel room disintegrates

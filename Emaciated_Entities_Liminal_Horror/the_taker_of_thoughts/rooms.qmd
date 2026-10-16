@@ -1,6 +1,67 @@
 # Rooms
 
-There are three types of rooms in this mystery
+Investigators start in the Warehouse, outside E.M. Gemovich's mind.
+The investigators will move into her mind via the door carved in her forehead.
+
+There are five types of rooms in the mind.
+
+- Short story: 
+  - The first room after the warehouse.
+  - Leads to a memory
+  - 2 exist (straight)
+  - Becomes a lapse after 3 runs
+- Memory
+  - Leads to a lapse
+  - 2 exits straight
+  - Becomes a lapse after 1 run
+- Lapse
+  - Leads to a happy place
+  - 2 exits straight
+  - Each lapse can only give 1 reclamation/forfeit (unticked/ticked)
+- Happy place
+  - Four exits
+  - 1st new exit leads to Novel
+  - 2nd and 3rd new exits lead to 
+  - Never becomes a lapse
+
+
+- Short story
+
+## Layout of rooms
+
+The first room when entering E.M. Gemovich's mind is a random Short story.
+
+The order of rooms is:
+
+Short story -> Memory -> Lapse -> Happy place -> Novel
+
+Short stories, memories, and lapses have 2 exits that are opposite from each other (one is used to enter the location initially).
+
+Happy places have 4 exits, one on each side.
+
+Novel rooms have 1 exit (used to enter the location from a happy place).
+
+Happy places go to a novel room first but their other 2 leftover exits lead to random short story locations.
+
+Short story, Memory, and lapses
+
+## End of run
+
+At the end of run the layout/rooms remain with the following changes:
+
+Scribble out complete rooms, they become unticked lapses (retaining the number of exits they have).
+
+- Short stories are complete once their ending has occurred (3 ticks)
+- Memories are complete after the 2nd run they have been encountered (2 ticks)
+- Happy place are complete after they have been entered in 5 runs (5 ticks)
+- Novels are complete after the first run they have been entered (1 tick)
+
+
+## Short story
+
+The short story
+
+
 
 ## Determining the room
 

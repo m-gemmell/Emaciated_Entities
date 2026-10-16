@@ -45,7 +45,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-0a6b7249c26820e032cb0bd839ff02b1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-1fc8585ce0bf30e7f1f4e7589cab3205.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-fa0f801d57f9e0d02cc24546fcc655b7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -318,6 +318,18 @@ div.callout-yellow.callout-style-default .callout-icon::before, div.callout-yell
   </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="../the_taker_of_thoughts/memory lapse.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Memory lapse</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../the_taker_of_thoughts/happy_place.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Happy places</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="../the_taker_of_thoughts/literary_beings.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Literary beings</span></a>
   </div>
@@ -336,6 +348,9 @@ div.callout-yellow.callout-style-default .callout-icon::before, div.callout-yell
   <ul>
   <li><a href="#rooms" id="toc-rooms" class="nav-link active" data-scroll-target="#rooms">Rooms</a>
   <ul class="collapse">
+  <li><a href="#layout-of-rooms" id="toc-layout-of-rooms" class="nav-link" data-scroll-target="#layout-of-rooms">Layout of rooms</a></li>
+  <li><a href="#end-of-run" id="toc-end-of-run" class="nav-link" data-scroll-target="#end-of-run">End of run</a></li>
+  <li><a href="#short-story" id="toc-short-story" class="nav-link" data-scroll-target="#short-story">Short story</a></li>
   <li><a href="#determining-the-room" id="toc-determining-the-room" class="nav-link" data-scroll-target="#determining-the-room">Determining the room</a></li>
   <li><a href="#fifth-room" id="toc-fifth-room" class="nav-link" data-scroll-target="#fifth-room">Fifth room</a></li>
   <li><a href="#fixed-state-of-mind" id="toc-fixed-state-of-mind" class="nav-link" data-scroll-target="#fixed-state-of-mind">Fixed state of mind</a></li>
@@ -351,7 +366,63 @@ div.callout-yellow.callout-style-default .callout-icon::before, div.callout-yell
 
 <section id="rooms" class="level1">
 <h1>Rooms</h1>
-<p>There are three types of rooms in this mystery</p>
+<p>Investigators start in the Warehouse, outside E.M. Gemovich’s mind. The investigators will move into her mind via the door carved in her forehead.</p>
+<p>There are five types of rooms in the mind.</p>
+<ul>
+<li>Short story:
+<ul>
+<li>The first room after the warehouse.</li>
+<li>Leads to a memory</li>
+<li>2 exist (straight)</li>
+<li>Becomes a lapse after 3 runs</li>
+</ul></li>
+<li>Memory
+<ul>
+<li>Leads to a lapse</li>
+<li>2 exits straight</li>
+<li>Becomes a lapse after 1 run</li>
+</ul></li>
+<li>Lapse
+<ul>
+<li>Leads to a happy place</li>
+<li>2 exits straight</li>
+<li>Each lapse can only give 1 reclamation/forfeit (unticked/ticked)</li>
+</ul></li>
+<li>Happy place
+<ul>
+<li>Four exits</li>
+<li>1st new exit leads to Novel</li>
+<li>2nd and 3rd new exits lead to</li>
+<li>Never becomes a lapse</li>
+</ul></li>
+<li>Short story</li>
+</ul>
+<section id="layout-of-rooms" class="level2">
+<h2 class="anchored" data-anchor-id="layout-of-rooms">Layout of rooms</h2>
+<p>The first room when entering E.M. Gemovich’s mind is a random Short story.</p>
+<p>The order of rooms is:</p>
+<p>Short story -&gt; Memory -&gt; Lapse -&gt; Happy place -&gt; Novel</p>
+<p>Short stories, memories, and lapses have 2 exits that are opposite from each other (one is used to enter the location initially).</p>
+<p>Happy places have 4 exits, one on each side.</p>
+<p>Novel rooms have 1 exit (used to enter the location from a happy place).</p>
+<p>Happy places go to a novel room first but their other 2 leftover exits lead to random short story locations.</p>
+<p>Short story, Memory, and lapses</p>
+</section>
+<section id="end-of-run" class="level2">
+<h2 class="anchored" data-anchor-id="end-of-run">End of run</h2>
+<p>At the end of run the layout/rooms remain with the following changes:</p>
+<p>Scribble out complete rooms, they become unticked lapses (retaining the number of exits they have).</p>
+<ul>
+<li>Short stories are complete once their ending has occurred (3 ticks)</li>
+<li>Memories are complete after the 2nd run they have been encountered (2 ticks)</li>
+<li>Happy place are complete after they have been entered in 5 runs (5 ticks)</li>
+<li>Novels are complete after the first run they have been entered (1 tick)</li>
+</ul>
+</section>
+<section id="short-story" class="level2">
+<h2 class="anchored" data-anchor-id="short-story">Short story</h2>
+<p>The short story</p>
+</section>
 <section id="determining-the-room" class="level2">
 <h2 class="anchored" data-anchor-id="determining-the-room">Determining the room</h2>
 <p>When moving to an empty space roll a d6 and add the number of rooms present to determine the type of room encountered:</p>
@@ -419,7 +490,7 @@ div.callout-yellow.callout-style-default .callout-icon::before, div.callout-yell
 </section>
 <section id="fifth-room" class="level2">
 <h2 class="anchored" data-anchor-id="fifth-room">Fifth room</h2>
-<p>Do not roll on the table for the fifth room of each run, instead a lapse of memory occurs. Put down an empty locations and roll for the sixth location. Investigators instantly move past the laps onto the sixth location.</p>
+<p>Do not roll on the table for the fifth room of each run, instead a memory lapse occurs. Put down an empty locations and roll for the sixth location. Investigators instantly move past the laps onto the sixth location.</p>
 </section>
 <section id="fixed-state-of-mind" class="level2">
 <h2 class="anchored" data-anchor-id="fixed-state-of-mind">Fixed state of mind</h2>

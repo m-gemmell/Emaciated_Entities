@@ -118,6 +118,7 @@ website:
         - href: the_taker_of_thoughts/m1_proposal.qmd
         - href: the_taker_of_thoughts/m2_skydive.qmd
       - href: the_taker_of_thoughts/memory lapse.qmd
+      - href: the_taker_of_thoughts\happy_place.qmd
       - href: the_taker_of_thoughts/literary_beings.qmd
   - id: The Puller of Gilded Strings
     title: Overview
@@ -158,11 +159,17 @@ format:
   html:
     fig-width: 10.2
     fig-height: 6
+###Page size
     grid:
+####Width of sidebar
       sidebar-width: 200px
-      body-width: 1000px
-      margin-width: 200px
-      gutter-width: 0.75em
+####Max width of main page
+      body-width: 1200px
+####Width of empty margin at right of toc
+#### needed to give room for long headers
+      margin-width: 150px
+####Space separating body from sidebar and toc  
+      gutter-width: 10px
     css: include/webex.css
     include-after-body: include/webex.js
     theme:

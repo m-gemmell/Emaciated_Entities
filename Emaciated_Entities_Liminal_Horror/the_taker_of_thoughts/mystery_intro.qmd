@@ -3,18 +3,66 @@
 Author E.M. Gemovich
 
 
+## Aims
+
+The investigators want to rid E.M. Gemovich's mind of The Taker of Thoughts.
+The Taker of Thoughts wants to ruin her memories
+
 ## Ideas
 
 Ideas written by the true author.
 
+- AT end of run
+  - All STR and DEX of investigators and all npcs restored to max
+  - CTRL is not restored
+- Warehouse (starting location)
+  - Location with E.M. Gemovich
+  - On hear forehead is a jagged door carved into her skin. The scars ooze ink. A goose quill tipped in blood is gripped in her writing hand.
+- Sticky crawl
+  - The locations remain from run to run unless they are completed, at which case they are removed at end of run.
+  - Each location only has 2 exits except happy places which have 4 and stories which only have 1
+  - Set order of rooms based on distance from warehouse (outside E.M Gemovich's mind)
+  - 1 short story
+  - 2 Memoir
+  - 3 Happy place
+- Happy place
+  - Calm places that have four exits (one on each side)
 - This is the fifth Emaciated Entity therefore only have five short stories and memories (maybe five book series + memoirs)
 - Investigators start with no background and few items, they have forgotten hwo they are from the first loop which they also don't remember
-- Five rolled for exploration
-    - Make it so when a five is rolled (short story or memoir) that an empty sticky note is placed on the map and the investigators go to the next location after that (represents them not being able to remember the location)
-    - When investigators go through this they start to remember themselves gaining their:
-        - True name
-        - Background
-        - SLowly regaining items from their background
 - Franchises
     - Each series location is a pivotal event from the series
-    - Fantasy franchise is about horrible goblins who farm and eat people (playing into the horror of eating meat)
+    - Each franchise has a number of entries equal to its number
+    - Each franchise is inspired by the 7 endless
+    - 
+    - Number 1: Destiny - Memoirs (these are here memories)
+    - Number 2: Death - Crime thriller
+      - Rip off seven
+    - Number 3: Dream - Fantasy franchise is about horrible goblins who farm and eat people (playing into the horror of eating meat)
+      - Rip off Daughter's war
+    - Number 4: Destruction - Action
+      - Cool car chase in the underdark with obsidian lava taloes
+    - Number 5: Desire - Romance
+    - Number 6: Despair - Horror
+      - Rip off antimemetic division maybe
+    - NUmber 7: Delight/Delrium - Hope punk
+      - rip off tea & robot
+- Memories
+    - Each of the 6 memories is the inspiration for one of her franchises but also a pivotal moment with a bond
+    - Death/Crime thriller memory
+      - Crime film binge watch with sister after sister's messy breakup
+      - Movies: Five, Silence of the geese, girl with the cephalapod tattoo, The forgotten, mementos
+    - Fantasy
+      - Editor becomes vegan and encouragers Gemovich to write her animal cruelty short stories
+    - Action
+      - Skydive
+    - Romance
+      - engagement
+    - Horror
+      - The last conversation with her mother before her mother forgets her due to alzhemiers's
+    - Hope punk
+      - Tea & hiking at Fjords with her father
+      - Look for cool robot statues at hiking spots in nordic countries
+- Cultist secret
+  - Make 5 spells for the TAKER of thoughts
+  - The cultist randomly gets one
+  - I will have to look up spell rules for Liminal horror
