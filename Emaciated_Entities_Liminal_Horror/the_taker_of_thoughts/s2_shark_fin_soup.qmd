@@ -1,16 +1,18 @@
 # S2: Shark fin soup
 
 Shark fin soup is a luxury item in parts of China and Southeast Asia.
-Due to the demand and price of the fin over the rest of the shark shark finning involves cutting off the fins and discarding the rest of the shark back into the ocean.
+The demand and price of the fin is much larger than the rest of the shark.
+Due to this shark finning is carried out which involves cutting off the fins and discarding the rest of the shark, regularly alive, back into the ocean.
 
 ## Start
 
-> The waves gently crash onto the stony beach, covering the sound of the rain.
-> Strolling down the English beach you carefully watch where you step.
-> Partly to prevent twisting your ankle but mainly to keep your eyes out for eggcases.
-> A Gemovich faced citizen scientist excitedly cries Gemovich! as they are the first to find one.
+> The waves gently crash onto the stony beach, disrupting the sound of the rain.
+> Strolling down the English beach you carefully watch your step.
+> This is partly due to the treacherous rocky terrain but primarily it is for you mission.
+> To find the eggcases of sharks.
+> A Gemovich faced citizen scientist excitedly cries "Gemovich!" as they are the first to find one.
 > Opening an app they input their finding before discarding the eggcase as its occupant once did.
-> The rain & wind are taking their toll and you are looking forward to the chippy.
+> The rain & wind are taking their toll and you are looking forward to a warm meal at the chippy.
 
 - Setting
     - A beech on the English coast
@@ -27,12 +29,12 @@ Due to the demand and price of the fin over the rest of the shark shark finning 
 
 ## Middle
 
-> Artificial lights and white surfaces stained with blood and scales.
-> The smell of dead fish and swaying of the boat can easily make you spill your lunch.
-> You thought you would get fresh sea air and untarnished light as a fisherman,
+> Bone white surfaces stained with blood and scales lit by flickering tubular lights.
+> The acrid smell of dead fish and the swaying of the boat can easily make you lose your lunch.
+> You thought you would get fresh sea air and untarnished light, but you aren't paid to think.
 > A Gemovich faced fisher strides towards your work station.
-> Their sea legs confidently bring a shark to you.
-> Its time for a break from tuna and time for shark finning.
+> They deposit a writhing shark upon it.
+> Its time for a break from tuna to perform some shark finning.
 
 - Setting
     - The work floor of a fish processing vessel (factory ship)
@@ -50,13 +52,14 @@ Due to the demand and price of the fin over the rest of the shark shark finning 
 
 ## End
 
-> Flickering candle light from hundreds of red paper lanterns,
-> A high pitched and colourful chinese opera is performed in a makeshift stage.
-> Although they wear masks you know they have the face of E.M. Gemovich as they sing the word "Gemovich" repeatedly.
+> Flickering candle light from hundreds of red paper lanterns.
+> A high pitched and colourful chinese opera is performed on a makeshift stage.
+> Although the singers wear masks you know they have the face of E.M. Gemovich as they shrill the word "Gemovich" repeatedly.
 > You feel safer at your table with your fellow investigators.
 > That is until you look down into your bowl.
-> INside a brown broth floats thick connecting cartilaginous threads.
-> Shark fin soup.
+> Inside a brown broth floats thick connecting cartilaginous threads.
+> Its aroma is of ginger, mushrooms, and wine.
+> You know the Shark fin soup will be delicious.
 > Will you partake?
 
 - Setting

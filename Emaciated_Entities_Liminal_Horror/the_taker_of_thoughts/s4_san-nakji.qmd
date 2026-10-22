@@ -2,13 +2,13 @@
 
 [San-nakji](https://en.wikipedia.org/wiki/San-nakji) is a Korean dish consisting of the small octopus nakji.
 Normally it is killed and cut up before consumption, sprinkled with sesame oil and toasted sesame seeds.
-Sometimes the whole octopus is eaten whole.
+Sometimes the octopus is eaten whole.
 Either way it is a potentially fatal choking hazard as the tentacles' neurons activate, gripping onto the throat as it is swallowed.
 
 ## Start
 
 > Swaying refracted light falls through the waters of the coastal reef.
-> The embracing coolness of the water is a delight where the air is stifling.
+> The embracing coolness of the water is a delight where the air above is stifling.
 > A fish quickly swims past, tentacle writhing in its maw, a stream of blue blood in its wake.
 
 - Setting
@@ -16,7 +16,7 @@ Either way it is a potentially fatal choking hazard as the tentacles' neurons ac
 - Investigators
     - Free swimming
 - Octopus
-    - Blue blood leads to octopus squeezed into rocks
+    - Blue blood leads to an octopus squeezed into rocks
     - Protecting its eggs
     - Being attacked by fish
 - Escape
@@ -56,8 +56,10 @@ Either way it is a potentially fatal choking hazard as the tentacles' neurons ac
 > A Gemovich faced diner comes with a red plastic tray.
 > Set before you is a whole squirming and living octopus.
 > Another diner takes theirs and places the head into their mouth.
-> She chews and chews as the tentacles dangle and writhe outside of her mouth.
+> She chews and chews and chews and chews and chews as the tentacles dangle and writhe around her lips and chin.
 > Eventually she swallows and the octopus is no more.
+> It is a delicacy, a delicious morsel worth the effort and risk.
+> Will you partake?
 
 - Setting
     - Busy Korean food market

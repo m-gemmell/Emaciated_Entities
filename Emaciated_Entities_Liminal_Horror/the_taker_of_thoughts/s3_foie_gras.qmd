@@ -1,4 +1,4 @@
-# S2: Foie gras
+# S3: Foie gras
 ![](images/foie_gras.png){style="width:250px" fig-align="center"}
 
 [Foie gras](https://en.wikipedia.org/wiki/Foie_gras) is liver of a duck or goose that has been fattened by force feeding (gavage).
@@ -7,7 +7,7 @@ It is considered a delicacy of french cuisine.
 ## Start
 
 > The whirring and vibration of a propeller engine on your back whilst your face braces against the wind.
-> Gentle honks can be heard over the engine as geese fly in formation behind you.
+> Gentle honks can be heard over the mechanical cacophony as geese fly in formation behind you.
 > You watch the sun rising over the serene clouds knowing you are in for a long day.
 
 - Setting
@@ -23,7 +23,7 @@ It is considered a delicacy of french cuisine.
 ## Middle
 
 > Echoes upon echoes of geese honks as an uncomfortable heat clings onto your crouched form.
-> In one hand holds a nozzle attached to a fat and corn caked machine.
+> In one hand holds a nozzle attached to a machine caked in fat and corn.
 > Held by the other, the neck of a goose pinned to the ground between your legs.
 
 - Setting
@@ -39,10 +39,13 @@ It is considered a delicacy of french cuisine.
 
 ## End
 
-> The scent of fermented grapes, leather, and truffle as red wine is poured.
-> The gentle steps of high-class wait staff is barely audible over the melody of polite conversations.
-> Looking around you see the candlelit visages of your companions around your table.
-> With a sudden flourish the [cloche](https://en.wikipedia.org/wiki/Cloche_(tableware)) before you ascends, revealing a buttery foi gras atop a hawthorn sauce flanked by gold flecked rose petals.
+> The gentle aroma of fermented grapes, leather, and truffle as red wine is poured.
+> The practiced steps of wait staff, barely audible over the melody of polite conversations.
+> You sit around an elegant table with your companions, their visages lit by candlelight.
+> With a sudden flourish the [cloche](https://en.wikipedia.org/wiki/Cloche_(tableware)) before you ascends, revealing a buttery foie gras.
+> It perches atop a hawthorn sauce flanked by gold flecked rose petals.
+> It is a thing beauty, it would be a shame to eat if its consumption wasn't so enticing.
+> Will you partake?
 
 - Setting
     - A french 3-star michelin restaurant

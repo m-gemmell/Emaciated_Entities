@@ -116,10 +116,23 @@ website:
       - section: "Memoirs"
         contents:
         - href: the_taker_of_thoughts/memoirs.qmd
-        - href: the_taker_of_thoughts/m1_proposal.qmd
-        - href: the_taker_of_thoughts/m2_skydive.qmd
+        - href: the_taker_of_thoughts/m1_film_binge.qmd
+        - href: the_taker_of_thoughts/m2_editor_support.qmd
+        - href: the_taker_of_thoughts/m3_skydive.qmd
+        - href: the_taker_of_thoughts\m4_proposal.qmd
+        - href: the_taker_of_thoughts\m5_mothers_lucidity.qmd
+        - href: the_taker_of_thoughts\m6_hike_and_tea.qmd
       - href: the_taker_of_thoughts/memory lapse.qmd
       - href: the_taker_of_thoughts/happy_place.qmd
+      - section: "Novels"
+        contents:
+        - href: the_taker_of_thoughts\novels.qmd
+        - href: the_taker_of_thoughts\n1_death.qmd
+        - href: the_taker_of_thoughts\n2_dream.qmd
+        - href: the_taker_of_thoughts\n3_destruction.qmd
+        - href: the_taker_of_thoughts\n4_desire.qmd
+        - href: the_taker_of_thoughts\n5_despair.qmd
+        - href: the_taker_of_thoughts\n6_delirium.qmd
       - href: the_taker_of_thoughts/literary_beings.qmd
   - id: The Puller of Gilded Strings
     title: Overview
