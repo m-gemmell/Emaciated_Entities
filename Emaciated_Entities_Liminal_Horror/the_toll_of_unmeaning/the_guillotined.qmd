@@ -4,28 +4,12 @@ Each of The Guillotined wants to speak but they have been made undecipherable vi
 
 The investigators need to help each of The Guillotined communicate to gather the different steps of [The Ritual](/the_toll_of_unmeaning/the_bell_ritual.qmd) to appease The Bell. 
 Suggestions of solutions are included in each stat block but of course other suitable solutions the players think of can and should work. 
-Once the investigators have received The Ritual Step The Guillotined will become undecipherable once more.
+Once the investigators have received The Ritual Step The Guillotined will become undecipherable once more, or worse.
 
-If one of The Guillotined dies their "head" will fall off and the investigators can use it to try to decipher the ritual step. Each head knows a different ritual step.
+If one of The Guillotined dies their "head" will fall off and the investigators can use it to try to decipher the ritual step. 
+Each head knows a different ritual step.
 
 For more information on who The Guillotined were please see the [connections page](/the_toll_of_unmeaning/connections.qmd).
-
-### Gramophone head
-
-__STR__: 10 __DEX__: 12 __CTRL__: 6<br> 
-__HP__: 4
-
-Vinyl discus (d6)
-
-- Pocket watch and waistcoat attired human with the head of a gramophone.
-- A record spins letting out a voracious cacophony, a keen ear may hear a reversed voice.
-- A hot headed individual who is angered by those who don’t listen.
--   __Special ability__: Post deciphered the gramophone will frantically speed up until it catches fire and explodes, killing Gramophone head. Onlookers will be dealt d6 stress.
-
-Possible solutions: 
-
-1. Record the noise then reverse the recording.
-2. physically spin the record in reverse.
 
 ### Rotary phone head
 
@@ -51,32 +35,32 @@ Possible solutions:
 
 Typewriter clatter (d4 stress)
 
-- Anxious analog tech hipster turned typewriter headed monster. 
+- Anxious analog tech hipster turned typewriter headed abomination. 
 - Their gnashing teeth now replaced by the clattering of keys.
 - They have become their own passion manifest, they are friendly. 
--   __Special ability__: Post deciphered they will amiably follow and help the investigators. Easily stressed, when they lose CTRL and fail their CTRL save , they perform their Typewriter clatter.
+-   __Special ability__: Post deciphered they will amiably follow and help the investigators. Easily stressed, when they lose CTRL and fail their CTRL save, they perform their Typewriter clatter.
 
 Possible solutions: 
 
 1. Provide paper to type out its message.
 2. Watch the keys and note the spelt out words.
 
-### CRT TV head
+### Gramophone head
 
-__STR__: 12 __DEX__: 14 __CTRL__: 6<br>
-__HP__: 6
+__STR__: 10 __DEX__: 12 __CTRL__: 6<br> 
+__HP__: 4
 
-TV glow (d6 DEX)
+Vinyl discus (d6)
 
-- Once a fitness and dance instructor they are now weighed down with the head of a heavy CRT TV. 
-- Pure static is a poor substitute for the music of their soul.
-- Loves being the centre of attention, good boys and girls sit and watch TV.
--   __Special ability__: Post deciphered the TV will gain reception and flick rapidly through channels across the world, it will look for a reflection to watch its own face.
+- Pocket watch and waistcoat attired human with the head of a gramophone.
+- A record spins letting out a voracious cacophony, a keen ear may hear a reversed voice.
+- A hot headed individual who is angered by those who don’t listen.
+-   __Special ability__: Post deciphered the gramophone will frantically speed up until it catches fire and explodes, killing Gramophone head. Onlookers will be dealt d6 stress.
 
 Possible solutions: 
 
-1. Create a makeshift antenna (metal hanger, paperclips etc) and attach into the TV
-2. Percussive maintenance, reduce its HP to 0.
+1. Record the noise then reverse the recording.
+2. Physically spin the record in reverse.
 
 ### Steam whistle head
 
@@ -86,7 +70,7 @@ HP: 6
 Steam blast (d6, blast)
 
 - Trainspotter with the head of a steam whistle. 
-- It's whistle echoes in the fog of steam it constantly emits.
+- Its whistle echoes in the fog of steam it constantly emits.
 - It wants to see and so tries to rid itself of its steam. It cannot do this alone.
 -   __Special ability__: Post deciphered will demand for train tickets from nearby individuals. Will attack those without.
 
@@ -113,12 +97,30 @@ Possible solutions:
 1. Clean the chalkboard.
 2. Give them a different colour of chalk to write on their face with.
 
+### CRT TV head
+
+__STR__: 12 __DEX__: 14 __CTRL__: 6<br>
+__HP__: 6
+
+TV glow (d6 DEX)
+
+- Once a fitness and dance instructor they are now weighed down with the head of a heavy CRT TV. 
+- Pure static is a poor substitute for the music of their soul.
+- Loves being the centre of attention, good boys and girls sit and watch TV.
+-   __Special ability__: Post deciphered the TV will gain reception and flick rapidly through channels across the world, it will look for a reflection to watch its own face.
+
+Possible solutions: 
+
+1. Create a makeshift antenna (metal hanger, paperclips etc) and attach onto the TV.
+2. Percussive maintenance, reduce its STR stat by any amount.
+
 ## The Seventh Guillotined
 
 The Seventh Guillotined has the first of The Ritual Steps. 
 However there is no Seventh Guillotined yet. 
 The next human (excluding The Guillotined) to lose all their CTRL becomes the seventh head.
 
-Their head becomes a sticky note that rips into seven pieces. 
-The Guillotined dies instantly by this. 
-As the facilitator, write the message on a sticky note and rip it into seven pieces for the players to put back together like a jigsaw piece. 
+Their head becomes a sticky note with the first ritual step written on it that rips into seven pieces. 
+The Guillotined dies instantly by this.
+
+As the facilitator, write the ritual step on a sticky note and rip it into seven pieces for the players to put back together like a jigsaw piece. 

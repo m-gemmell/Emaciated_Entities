@@ -23,5 +23,5 @@ To start the mystery Issy brings the investigators to the ["The Old Bell" locati
 
 Punch (d4)
 
--   Chatty Irish groundskeeper
--   Creates messes she gets others to clean up
+-   Chatty Irish groundskeeper.
+-   Creates messes she gets others to clean up.

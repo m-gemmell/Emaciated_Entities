@@ -7,31 +7,31 @@ __Note:__ Even when completing the ritual, anyone who strikes the bell suffers 1
 To discover the 7 steps of the ritual the investigators must track down each of [The Guillotined](/the_toll_of_unmeaning/the_guillotined.qmd) and figure out how to communicate with them.
 Ensure you give the investigators the Ritual Step exactly as written below in the double quotes.
 
-> “The first step is for everyone to chant bell in unison seven times”
+> “The first step is for everyone to chant bell in unison seven times.”
 >
 > -- <cite>[The Seventh Guillotined](/the_toll_of_unmeaning/the_guillotined.qmd#the-seventh-guillotined)</cite>
 
-> “The second step is for everyone to touch the ground seven times”
+> “The second step is for everyone to touch the ground seven times.”
 >
 > -- <cite>[CRT TV Head](/the_toll_of_unmeaning/the_guillotined.qmd#crt-tv-head)</cite>
 
-> “The third step is to lay seven flowers below the bell”
+> “The third step is to lay seven flowers below the bell.”
 >
 > -- <cite>[Rotary Phone Head](/the_toll_of_unmeaning/the_guillotined.qmd#rotary-phone-head)</cite>
 
-> “The fourth step is to play a heptatonic scale”
+> “The fourth step is to play a heptatonic scale.”
 >
 > -- <cite>[Gramophone Head](/the_toll_of_unmeaning/the_guillotined.qmd#gramophone-head)</cite>
 
 Hepatatonic scale: Musical scale with seven notes within an octave.
 
-> “The fifth step is to recite a heptasylabillic poem”
+> “The fifth step is to recite a heptasylabillic poem.”
 >
 > -- <cite>[Typewriter Head](/the_toll_of_unmeaning/the_guillotined.qmd#typewriter-head)</cite>
 
 Heptasylabillic poem: each line of verse has seven syllables.
 
-> “The sixth step is to draw 7 concentric rings below the bell”
+> “The sixth step is to draw 7 concentric rings below the bell.”
 >
 > -- <cite>[Chalkboard head](/the_toll_of_unmeaning/the_guillotined.qmd#chalkboard-head)</cite>
 

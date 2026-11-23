@@ -4,19 +4,21 @@ This page contains the locations for this mystery's [Sticky Crawl](/sticky_crawl
 
 ## The bell tolls for thee
 
-The bell rings out every 7 movements, i.e. any time the investigations move from one location to another. All humans in the gardens (the investigators and Issy) can hear this and suffer stress. The first ring is 1 stress and the next are +1 stress of the previous ring (1, 2, 3, 4, etc.).
+The bell rings out every 7 movements, i.e. any time the investigations move from one location to another. All humans in the gardens (the investigators and Issy) hear this and suffer stress. The first ring is 1 stress and the next are +1 stress of the previous ring (1, 2, 3, 4, etc.).
+
+[The Guillotined](/the_toll_of_unmeaning/the_guillotined.qmd) are immune to this stress damage.
 
 ## Start
 
-The investigators start at [the Old Bell](/the_toll_of_unmeaning/starting_location.qmd)
+The investigators start at [the Old Bell](/the_toll_of_unmeaning/starting_location.qmd).
 
 ## East and West locations
 
 In this mystery there are East and West locations.
 
-The investigators will start by investigating the [East locations](/the_toll_of_unmeaning/east_locations.qmd). Once they have discovered all the [East locations] they will discover the [Gilbury Bridge](/the_toll_of_unmeaning/bridge.qmd) that leads to the [West locations](/the_toll_of_unmeaning/west_locations.qmd).
+The investigators will start by investigating the [East locations](/the_toll_of_unmeaning/east_locations.qmd). Once they have discovered all the [East locations](/the_toll_of_unmeaning/east_locations.qmd) they will discover the [Gilbury Bridge](/the_toll_of_unmeaning/bridge.qmd) that leads to the [West locations](/the_toll_of_unmeaning/west_locations.qmd).
 
-The exits of [East locations] cannot be used to move directly to [West locations] or vice versa.
+The exits of [East locations](/the_toll_of_unmeaning/east_locations.qmd) cannot be used to move directly to [West locations] or vice versa.
 
 When investigators try to use an exit and there are no valid locations left in the pool, or the connection is invalid (i.e. an [East location](/the_toll_of_unmeaning/east_locations.qmd) to a [West location](/the_toll_of_unmeaning/west_locations.qmd)) they do not move normally. Instead, the Investigators move to a random valid location with an empty exit and they each suffer one stress. The 2 exits become connected.
 

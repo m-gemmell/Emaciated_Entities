@@ -3,7 +3,7 @@
 Below is a D6 list of Fallouts to be used for the mystery [Why does the bell toll?](/the_toll_of_unmeaning/mystery_intro.qmd) or when forces of "The Toll of Unmeaning" are encountered in other sessions/mysteries.
 
 If a fallout is rolled that another character has previously gained then reroll on the table.
-If the reroll is yet again a fallout another character has previously gained roll for a random [Legacy fallout](https://liminalhorrorrpg.com/investigators/#legacy-fallout) instead.
+If the reroll is yet again a fallout another character has previously gained roll for a random [General fallout](https://liminalhorrorrpg.com/stress-fallout/#general-fallout) instead.
 
 ## Sticky note version
 
@@ -21,7 +21,10 @@ If the reroll is yet again a fallout another character has previously gained rol
 </div>
 <br> 
 
-__Note:__ The images above are all separate images so you can save/copy each one to send to your players when they gain a fallout.
+::: {.yellow icon=false}
+## Copy images
+The images above are all separate images so you can save/copy each one to send to your players when they gain a fallout.
+:::
 
 ## Text version
 
