@@ -1,8 +1,6 @@
 # Pictish backgrounds
 
-<center>
-![](images/pict_backgrounds_sticky.png){style="width:200px"}
-</center>
+![](images/pict_backgrounds_sticky.png){style="width:200px" fig-align="center"}
 
 D20 investigator backgrounds for the Liminal Horror TTRPG.
 

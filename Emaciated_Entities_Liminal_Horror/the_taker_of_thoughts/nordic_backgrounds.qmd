@@ -1,8 +1,5 @@
 # Nordic backgrounds
-
-<center>
-![](images/nordic_backgrounds_sticky.png){style="width:200px"}
-</center>
+![](images/nordic_backgrounds_sticky.png){style="width:200px" fig-align="center"}
 
 D20 investigator backgrounds for the Liminal Horror TTRPG.
 These are perfect for new investigators created for [Why does the bell toll?](/the_toll_of_unmeaning/mystery_intro.qmd) mystery.

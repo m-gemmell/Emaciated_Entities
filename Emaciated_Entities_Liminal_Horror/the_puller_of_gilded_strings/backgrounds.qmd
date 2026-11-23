@@ -1,26 +1,29 @@
 # Aussie, Kiwi, & Taswegian backgrounds
 
+![](images/aus_kiwi_taswegian_background_note.png){style="width:200px" fig-align="center"}
+
 D20 investigator backgrounds for the Liminal Horror TTRPG.
 
 Designed to represent regular and peculiar workers found in Australia, New Zealand, and Tasmania in the 2020s.
 
-- __A/C Technician:__ h
-- __Animation/VFX artist:__ C
-- __Cellar hand:__ Bottle of wine, Corkscrew, Siphon tube and hand pump, Sulphur burning for barrel sanitisation and matches
-- __Film extra:__ Facial prosthetics kit, 
-- __Fruit picker:__ h (working holiday maker)
-- __Golf Caddy:__ h
-- __Jackaroo/Jillaroo:__ Insulated cooler jug, Motorbike helmet (1 armor), Pocket knife (d6), Riding boots
-- __Lifeguard:__ K
-- __Martial arts trainer:__ 
-- __Miner:__ B
-- __Pearl Farm Diver:__ 
-- __Pilot:__ L
-- __Roadkill collector:__ 
-- __Sand artist:__
-- __Supermarket employee:__ h
-- __Surfer:__
-- __Tour guide:__ T
-- __Tradie:__ S
-- __Venom milker:__ h
-- __Zookeeper:__ f
+
+1. **A/C Technician:** Gas detector, Inspection camera, Temperature probes, Wrench (d6)
+2. **Animation/VFX Artist:** 3D camera, Drawing tablet, Laptop, Mocap suit
+3. **Cellar hand:** Bottle of wine, Corkscrew, Siphon tube and hand pump, Sulphur burner for barrel sanitisation and matches
+4. **Film Extra:** Campervan keys, Chainmail (1 armor), Facial prosthetics kit, Power bank
+5. **Fruit Picker:** Fruit snipper (d6), Picking bag, Telescopic fruit picker, Hat and SPF 50
+6. **Golf Caddie:** Loaded cooler, Electrolyte tablets, 24 Golf balls and tees, Golf club (d6)
+7. **Jackaroo/Jillaroo:** Insulated jug, Motorbike helmet (1 armor), Pocket knife (d6), Riding boots
+8. **Lifeguard:** First aid kit, Rescue tube, Resuscitation kit, Whistle
+9. **Martial Arts Trainer:** Gym sanitiser and cloth, Judo gi, Katana (d8, *quick*), Medals
+10. **Miner:** Grease gun, Mining drill (d6), Miner’s helmet with headlamp (1 armor), Respirator
+11. **Nature Guide:** Camp stove, First aid kit, Satellite phone, Tent and sleeping bag
+12. **Pearl Farm Diver:** Breakaway zip ties, Golden pearl (1 stability), Pearl extraction and nucleation kit (Shell opener, tweezers, scissors, scalpel etc.), Powerhead (d8, **complex**)
+13. **Pilot:** Sunglasses, Flare gun (d6, burning), Single engine propellor aircraft keys, Torch
+14. **Roadkill Collector:** Bug spray, Nitrile gloves, Machete (d6), Trashbags and duct tape
+15. **Sand Artist:** Bucket, Shovel (d6), Sculpting tools, Spray bottle
+16. **Supermarket Employee:** Biscuits, Hard hat (1 armor), Multitool, Utility knife (d6)
+17. **Surfer:** Shell necklace (1 stability), Surfboard, Wax, Wetsuit
+18. **Tradie:** Drill (d6), Reciprocating saw (d6), Tool box with tools, Work gloves (1 armor)
+19. **Venom Milker:** Anti-venom, Glass jars and parafilm, Kevlar gloves and face shield, Snake gaiters (1 armor)
+20. **Zookeeper:** Knife (d6), Thermal camera, Walkie talkie pair, Whistle
