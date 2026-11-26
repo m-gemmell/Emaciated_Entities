@@ -4,20 +4,12 @@ Once all the East locations have been entered at least once use the below locati
 
 ## Gilbury Bridge {.h2centre}
 
-```{=html}
-<style>
-.add-space{
-padding-right: 2%;
-}
-</style>
-```
-
-::::: columns
-::: {.column .add-space width="34%"}
+<div class="grid-container">
+<div class="g-col">
 ![](images/gilbury_bridge.png)
-:::
 
-::: {.column width="64%"}
+</div>
+<div class="g-col">
 A stone walking bridge is guarded by a massive goat. Below it where a road once was is a deep fast flowing river that will devour any who try to cross it, the danger is immediately obvious.
 
 \- The Massive goat (Massive Billy Goat Gruff) can surprisingly speak and will demand the toll of a rotary phone to pass.
@@ -25,8 +17,8 @@ A stone walking bridge is guarded by a massive goat. Below it where a road once 
 \- The E exit can only lead to/from East locations.
 
 \- The W exit can only lead to/from West locations.
-:::
-:::::
+</div>
+</div>
 
 ### Massive Billy Goat Gruff
 

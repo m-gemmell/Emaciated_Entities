@@ -4,72 +4,62 @@ The train line goes through this area. The train is constantly on the move, only
 
 The 10 west locations can only be accessed through the [Gilbury Bridge](/the_toll_of_unmeaning/bridge.qmd) location and other West locations. East locations cannot directly connect to West locations.
 
+
 ## (1) Augustinii corner {.h2centre}
 
-```{=html}
-<style>
-.add-space{
-padding-right: 2%;
-}
-</style>
-```
-
-::::: columns
-::: {.column .add-space width="34%"}
+<div class="grid-container">
+<div class="g-col">
 ![](images/augustinii_corner.png)
-:::
-
-::: {.column width="64%"}
+</div>
+<div class="g-col">
 An intersection of 2 paths, a part of the gardens forgotten by visitors and staff alike. The vegetation encroaches onto the paths leading to 2 dead ends. [Chalkboard head](/the_toll_of_unmeaning/the_guillotined.qmd#chalkboard-head) crouches here, failing to gather his thoughts through the sound of his scraping chalkboard.
-:::
-:::::
+</div>
+</div>
 
 ## (2) Boardwalk {.h2centre}
 
-::::: columns
-::: {.column .add-space width="34%"}
+<div class="grid-container">
+<div class="g-col">
 ![](images/boardwalk.png)
-:::
-
-::: {.column width="64%"}
+</div>
+<div class="g-col">
 A curling boardwalk over a dreaded bog. Whispers of dead loved ones will speak in decipherable noises.
 
 - When traversing make a CTRL save.
   - Success: Traverse the boardwalk and they teleport to their final destination within the gardens.
   - Failure: d4 stress or go back to the start of the Boardwalk.
-:::
-:::::
+</div>
+</div>
 
 ## (3) Bog Garden {.h2centre}
 
-::::: columns
-::: {.column .add-space width="34%"}
+<div class="grid-container">
+<div class="g-col">
 ![](images/bog_garden.png)
-:::
-
-::: {.column width="64%"}
+</div>
+<div class="g-col">
 The Bog Gardens are obscured in a steam mist produced by [Steam Whistle Head]((/the_toll_of_unmeaning/the_guillotined.qmd)).
 
 - It is difficult to find [Steam Whistle Head](/the_toll_of_unmeaning/the_guillotined.qmd#steam-whistle-head) as their whistle echoes in the mist and the poor visibility makes navigating the bog dangerous.
-:::
-:::::
+</div>
+</div>
 
 ## (4) Domesday yew {.h2centre}
 
-::::: columns
-::: {.column .add-space width="34%"}
+<div class="grid-container">
+<div class="g-col">
 ![](images/domesday_yew.png){width="500"}
-:::
 
-::: {.column width="64%"}
+</div>
+<div class="g-col">
 Amongst the trees and foliage stands out the Domesday yew. Where once a gnarled and hollow tree stood now stands a massive yew treant.
 
 - The treant will talk and try to persuade people to come closer.
 - It is rooted in place but grabs anything moving within its reach, raising it to its mouth to eat.
 - It will not chew, instead only swallowing.
 - Soon the unlucky morsel will fall out the bottom of the treant suffering d6 damage and the treant will be satisfied momentarily.
-:::
-:::::
+</div>
+</div>
 
 ### Yew treant
 
@@ -83,68 +73,66 @@ Consume (d6) Pummel (d8 + d8)
 
 ## (5) Dragonfly Pond {.h2centre}
 
-::::: columns
-::: {.column .add-space width="34%"}
+<div class="grid-container">
+<div class="g-col">
 ![](images/dragonfly_pond.png)
-:::
 
-::: {.column width="64%"}
+</div>
+<div class="g-col">
 Static washes through the area as [CRT TV Head](/the_toll_of_unmeaning/the_guillotined.qmd#crt-tv-head) looks over the pond. Moths buzz around their head as dragonflies fly in and out of the light hunting them.
-:::
-:::::
+</div>
+</div>
 
 ## (6) Jubilee Pond {.h2centre}
 
-::::: columns
-::: {.column .add-space width="34%"}
+<div class="grid-container">
+<div class="g-col">
 ![](images/jubilee_pond.png)
-:::
 
-::: {.column width="64%"}
+</div>
+<div class="g-col">
 Weeping willows reflect off the still surface of the pond. The long dangling branches sway in in the absence wind.
 
 - The branches of the trees sink into the water, they grab and attempt to drown the vain.
-:::
-:::::
+</div>
+</div>
 
 ## (7) Mirror Ponds {.h2centre}
 
-::::: columns
-::: {.column .add-space width="34%"}
+<div class="grid-container">
+<div class="g-col">
 ![](images/mirror_ponds.png)
-:::
-
-::: {.column width="64%"}
+</div>
+<div class="g-col">
 2 identical ponds lie at the end of a stream.
 
 - Each pond reflects the image the other pond should.
 - If [Rotary Phone Head](/the_toll_of_unmeaning/the_guillotined.qmd#rotary-phone-head) is still on the loose he will be easily spotted lurking in the trees through these reflections.
-:::
-:::::
+</div>
+</div>
 
 ## (8) Nyssa collection {.h2centre}
 
-::::: columns
-::: {.column .add-space width="34%"}
+<div class="grid-container">
+<div class="g-col">
 ![](images/nyssa_collection.png)
-:::
-
-::: {.column width="64%"}
+</div>
+<div class="g-col">
 A collection of red leafed Nyssa trees surround this three way intersection.
 
 - When entering the intersection a gale picks up and the leaves envelop the investigators.
 - Afterwards, randomly determine which way the investigators leave.
-:::
-:::::
+</div>
+</div>
 
 ## (9) Rock Garden {.h2centre}
 
-::::: columns
-::: {.column .add-space width="34%"}
+<div class="grid-container">
+<div class="g-col">
 ![](images/rock_garden.png)
-:::
 
-::: {.column width="64%"}
+</div>
+<div class="g-col">
 A garden full of life and rocks. In the centre stands an upright log with a golden bell.
 
 - As the investigators traverse the rock garden the rocks shift and grind the trees, plants and log down into the earth.
@@ -153,21 +141,21 @@ A garden full of life and rocks. In the centre stands an upright log with a gold
   - Success = Grab Golden bell (deals d6 stress to otherworld entities/monsters and the transformed, those with 3 or more fallouts)
   - Failure = suffer d6 damage.
 - If the investigators return to this location it looks like it once did before the destruction and will remain stable, but their will be no bell.
-:::
-:::::
+</div>
+</div>
 
 ## (10) Train Station {.h2centre}
 
-::::: columns
-::: {.column .add-space width="34%"}
+<div class="grid-container">
+<div class="g-col">
 ![](images/train_station.png)
-:::
 
-::: {.column width="64%"}
+</div>
+<div class="g-col">
 A small train station for a small steam train. When the foot wide train arrives it spits out steam and screams a whistle of pain.
 
 - Whilst driving the train, the investigator can make it stop at any West location. The train restarts once investigators have jumped off.
 
 - Jumping onto the train from other locations is dangerous due to the scalding hot steam surrounding it.
-:::
-:::::
+</div>
+</div>

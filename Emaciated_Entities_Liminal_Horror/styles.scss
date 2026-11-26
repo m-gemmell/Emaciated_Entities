@@ -103,3 +103,17 @@ h2, h3, h4, h5, h6 {
   flex-wrap:wrap;
   justify-content: center;
 }
+
+
+.grid-container {
+  display: grid;
+  /* Stacked (wrapped) by default on narrow screens */
+  grid-template-columns: 1fr;
+  gap: 10px;
+}
+
+@media (min-width: 600px) {
+  .grid-container {
+    grid-template-columns: 2fr 3fr;
+  }
+}
