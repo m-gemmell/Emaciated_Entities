@@ -114,16 +114,32 @@ It only becomes louder and more disorienting as it reverberates within its maze 
 </div>
 <div class="g-col">
 Clean geometric flat stones lead a path through this highly manicured garden.
+This tranquillity belies the strangeness of the flora that call this haven home. 
 
-
-A lovely space for individuals with dementia to relax in the gardens.
-
-- Posters describe the award winning garden and how it benefits individuals diagnosed with rare dementias.
+- Various posters describe the award winning garden and how it benefits individuals diagnosed with rare dementias.
 - [Rotary Phone Head](/the_toll_of_unmeaning/the_guillotined.qmd) sits on a bench waiting in the shadows. With a rustle they will quickly hide when investigators approach.
-  - From then on Rotary phone head is activated and will stalk the investigators, attempting to ambush any isolated investigators.
-  - The bench he sits on is dedicated to his wife Cherry.
+  - From then on Rotary phone head is activated and will stalk the investigators, attempting to ambush any isolated investigators at other locations.
+  - The bench is dedicated to his wife Cherry.
 </div>
 </div>
+
+The strange bizarre looking plants include:
+
+- [Buddha's hand](https://en.wikipedia.org/wiki/Buddha%27s_hand)
+  - A citron tree with thick rinded lemon-like fruit that split into a multitude of tentacles.
+- [Darwin's slippers](https://en.wikipedia.org/wiki/Calceolaria_uniflora)
+  - A low rock bound plant with flowers that look like happy little aliens.
+- [Doll's eyes](https://en.wikipedia.org/wiki/Actaea_pachypoda)
+  - An ornamental plant with long magenta stems. Perpendicular growths are capped with pure white berries containing a watching black dot.
+  - All parts are toxic. Berries contain cardiac toxins that can lead to cardiac arrest and death.
+- [Jackal food](https://en.wikipedia.org/wiki/Hydnora_africana)
+  - A maw of three pointed jaws reaches for the sky from the dirt. Its skin is like dried out bark, yet its insides are the textures and colours of tongue. The mouth like appearance is made complete by teeth of dry white fibres.
+- [Red bugloss](https://en.wikipedia.org/wiki/Echium_wildpretii)
+  - A towering tapering plant of thin long succulent leaves transitioning to a beautiful full covering of small sunset red flowers.
+- [Tropical pitcher plant](https://en.wikipedia.org/wiki/Nepenthes)
+  - A thin waxy tendril descends before sharply bending up as it turns to a vein covered pitcher. A lid casts a shadow over a lipped opening.
+- [Venus flytrap](https://en.wikipedia.org/wiki/Venus_flytrap)
+  - Multiple shoots burst greedily from the ground, each topped with a taco like head crowned with lashes of its own flesh.
 
 ## (8) Sakura Cherry Garden {.h2centre}
 
@@ -133,13 +149,18 @@ A lovely space for individuals with dementia to relax in the gardens.
 
 </div>
 <div class="g-col">
-A solemn location where cherry blossom petals slowly but constantly fall.
+A solemn location where cherry blossom petals slowly but constantly fall and rise.
+Moonlight showcases the lives and deaths of petal homunculi, falling petal to playful child to burdened parent to withered elder to rising petal before the cycle begins anew.
 
-- As each petal hits the ground it becomes a miniature petal origami human which goes through an entire life through the period of a minute.
+- As each petal hits the ground it becomes a miniature petal origami human which goes through an entire life within the period of a minute.
 - Once the petal human dies it rises back up to the cherry tree as a seemingly normal petal only to go through the cycle once more.
-- The first petal taken by an investigator becomes frozen in time. It is now a memento with 1 stability. Further petals shrivel and lies still with all its potential taken.
+- The first petal taken by an investigator becomes frozen in time becoming a **Frozen petal**. Further petals shrivel and lie still with all its potential taken.
 </div>
 </div>
+
+### Frozen petal
+
+Provides 1 stability whilst in a character's inventory. If the character reaches 0 STR the **Frozen petal** disintegrates and the character does not die, instead healing to a total of 1 STR.
 
 ## (9) Sundial Garden {.h2centre}
 
@@ -149,7 +170,16 @@ A solemn location where cherry blossom petals slowly but constantly fall.
 
 </div>
 <div class="g-col">
-A garden surrounded by large manicured yew hedges. Investigating and appreciating the griffin topped sundial is the friendly [Typewriter Head](/the_toll_of_unmeaning/the_guillotined.qmd#typewriter-head).
+A garden surrounded by large manicured yew hedges. 
+Plant beds lay bare and trampled.
+Dirt flows down the four grassy ramps to the central griffin topped sundial.
+It is surrounded by a wreath of flowers and nettles.
+
+With rashy dirt-caked hands a calm figure appreciates the scene.
+It wears a waistcoat and shirt over its lithe torso and a typewriter above it. 
+
+- Here stands the friendly, and currently relaxed, [Typewriter Head](/the_toll_of_unmeaning/the_guillotined.qmd#typewriter-head).
+- The sharp shadow across the sundial shows it to be 7 o'clock. It is unclear where the light comes from.
 </div>
 </div>
 
@@ -161,9 +191,9 @@ A garden surrounded by large manicured yew hedges. Investigating and appreciatin
 
 </div>
 <div class="g-col">
-A once peaceful wood has become overgrown with thick razor sharp brambles. Walking the path to its side the sounds of crumbling trees can be heard from within.
+A wood overgrown with thick razor sharp brambles. As you walk the crunching gravel path the sounds of crumbling trees can be heard from within.
 
-- Lone investigators will be ambushed by [Rotary Phone Head](/the_toll_of_unmeaning/the_guillotined.qmd#rotary-phone-head), if alive, when they are alone here.
+- Lone investigators will be ambushed by [Rotary Phone Head](/the_toll_of_unmeaning/the_guillotined.qmd#rotary-phone-head), if activated and alive.
 - Investigators must roll a CTRL save or become separated from other investigators.
 </div>
 </div>

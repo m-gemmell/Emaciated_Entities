@@ -112,8 +112,30 @@ h2, h3, h4, h5, h6 {
   gap: 10px;
 }
 
+.grid-container-two-equal {
+  display: grid;
+  /* Stacked (wrapped) by default on narrow screens */
+  grid-template-columns: 1fr;
+  gap: 10px;
+}
+
+.grid-container-three-equal {
+  display: grid;
+  /* Stacked (wrapped) by default on narrow screens */
+  grid-template-columns: 1fr;
+  gap: 10px;
+}
+
+
+
 @media (min-width: 600px) {
   .grid-container {
     grid-template-columns: 2fr 3fr;
+  }
+  .grid-container-two-equal {
+    grid-template-columns: 0.325fr 0.325fr;
+  }
+  .grid-container-three-equal {
+    grid-template-columns: 0.325fr 0.325fr 0.325fr;
   }
 }
