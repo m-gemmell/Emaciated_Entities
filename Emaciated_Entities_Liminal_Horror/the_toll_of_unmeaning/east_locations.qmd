@@ -2,7 +2,7 @@
 
 The 10 east locations are included within the sticky pool at the start of this [sticky crawl](/sticky_crawl/sticky_crawl.qmd).
 
-The focus of this mystery in on the investigator's interactions with [The Guillotined](/the_toll_of_unmeaning/the_guillotined.qmd). Therefore, the descriptions of the locations are deliberately sparse. The facilitator is free to expand these in prep or during play.
+The focus of this mystery is on the investigator's interactions with [The Guillotined](/the_toll_of_unmeaning/the_guillotined.qmd). Therefore, the descriptions of the locations are deliberately sparse. The facilitator is free to expand these in prep or during play.
 
 East locations cannot directly connect to [West locations](/the_toll_of_unmeaning/west_locations.qmd). The East and West are only connected by [Gilbury Bridge](/the_toll_of_unmeaning/bridge.qmd).
 
@@ -14,7 +14,8 @@ East locations cannot directly connect to [West locations](/the_toll_of_unmeanin
 
 </div>
 <div class="g-col">
-The smell of heather envelopes the area giving a homely vibe.
+Vibrant purple shrubs lie still in the calm.
+An enveloping aroma of heather creates a homely vibe.
 
 - Those that rest here heal 1 CTRL (max once). After the rest the investigator can no longer smell any and all heather.
 </div>
@@ -31,7 +32,7 @@ The smell of heather envelopes the area giving a homely vibe.
 Where there was once herbs, now poppies of red, purple, yellow, and white have conquered the land. The poppies move together as if they share the same dream.
 
 - Those who haphazardly walk through will find themselves falling asleep (STR save to avoid sleep).
-- If there are no awake investigators to watch/help the investigator will have one of their items stolen by [Rotary Phone Head](/the_toll_of_unmeaning/the_guillotined.qmd#rotary-phone-head) if they are alive and have been activated.
+- Each and every unattended sleeping investigator will have one of their items stolen by [Rotary Phone Head](/the_toll_of_unmeaning/the_guillotined.qmd#rotary-phone-head) (if alive and activated).
 </div>
 </div>
 
@@ -43,11 +44,12 @@ Where there was once herbs, now poppies of red, purple, yellow, and white have c
 
 </div>
 <div class="g-col">
-A large cluster of dark purple irises surrounded by irises of yellow, orange and red forms a perfectly circle garden.
+A perfect circular garden of irises.
+In the centre the flowers are an all consuming black, made darker by the encircling yellow, orange, and red.
 
 - Slowly the irses will turn to follow the investigators.
-- Each investigator will get the strong urge to deeply look at them. Those who do make a CTRL save.
-  - Those who failed will have their vision reversed. Their iris will look into their eye instead of outwards (1d4 dex damage).
+- Each investigator will get the strong urge to look at them. Those who do make a CTRL save.
+  - Those who failed will have their vision reversed. Their irises will look into their eyes instead of outwards (1d4 dex damage).
   - Vision will mostly return to normal once they leave the iris garden.
 </div>
 </div>
@@ -60,7 +62,9 @@ A large cluster of dark purple irises surrounded by irises of yellow, orange and
 
 </div>
 <div class="g-col">
-A large open space of grass with scatterings of trees. It is darker than the rest of the gardens as a pitch black sky hangs above with no sign of the moon or stars.
+A large open space of grass with scatterings of trees. 
+A darkness you've never known before descends from the sky.
+No stars, no moon, no light fills the void.
 
 - For those who watch the sky they will hear the sound of a bell come from space.
 - It will ring 7 times, each time a new star appears forming a constellation in the shape of a bell. Those who hear all seven rings suffer 1 stress.
@@ -75,11 +79,12 @@ A large open space of grass with scatterings of trees. It is darker than the res
 
 </div>
 <div class="g-col">
-Approaching the flower nursery they hear the sound of a screaming baby from its centre.
+The shrill of a screaming baby reaches out from the centre of the flower nursery.
+Its emitter shrouded by the quivering flower buds.
 
-- The source is a fox, all its fur replaced by red petals (1d4 stress).
-- It will run off screaming whilst leaving a trail of petals.
-- If followed it will be found being strangled by [Rotary Phone Head](/the_toll_of_unmeaning/the_guillotined.qmd#rotary-phone-head).
+- The source is a fox, its fur replaced by red petals (1d4 stress).
+- When approached it will run off screaming whilst leaving a trail of petals.
+- If followed it will be found being strangled by [Rotary Phone Head](/the_toll_of_unmeaning/the_guillotined.qmd#rotary-phone-head) (if alive and activated).
 </div>
 </div>
 
@@ -91,9 +96,12 @@ Approaching the flower nursery they hear the sound of a screaming baby from its 
 
 </div>
 <div class="g-col">
-A grainy cacophony loudly plays from the 13th century Manor house. It only becomes louder and more disorienting within its maze like halls where the walls are covered with portraits of individuals each head replaced by a bell.
+A grainy cacophony loudly blares out from the 13th century Manor house. 
+It only becomes louder and more disorienting as it reverberates within its maze like halls.
 
-- [Gramophone Head](/the_toll_of_unmeaning/the_guillotined.qmd#gramophone-head) can be found alone in a massive ballroom attempting to drink whiskey and smoke a cigar.
+- How do the investigators intend to traverse the large house?
+- The walls are covered with the portraits of bell-headed gentry.
+- [Gramophone Head](/the_toll_of_unmeaning/the_guillotined.qmd#gramophone-head) can be found alone in a massive ballroom attempting to drink whiskey and smoke a cigar as their gramophone lets out the horrendous dirge.
 </div>
 </div>
 
@@ -105,10 +113,15 @@ A grainy cacophony loudly plays from the 13th century Manor house. It only becom
 
 </div>
 <div class="g-col">
+Clean geometric flat stones lead a path through this highly manicured garden.
+
+
 A lovely space for individuals with dementia to relax in the gardens.
 
-- [Rotary Phone Head](/the_toll_of_unmeaning/the_guillotined.qmd) is waiting here, they will hide when investigators approach.
-- From then on Rotary phone head is activated and will stalk the investigators, attempting to ambush one when they are alone.
+- Posters describe the award winning garden and how it benefits individuals diagnosed with rare dementias.
+- [Rotary Phone Head](/the_toll_of_unmeaning/the_guillotined.qmd) sits on a bench waiting in the shadows. With a rustle they will quickly hide when investigators approach.
+  - From then on Rotary phone head is activated and will stalk the investigators, attempting to ambush any isolated investigators.
+  - The bench he sits on is dedicated to his wife Cherry.
 </div>
 </div>
 
