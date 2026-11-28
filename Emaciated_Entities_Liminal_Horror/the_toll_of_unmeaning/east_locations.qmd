@@ -97,11 +97,17 @@ Its emitter shrouded by the quivering flower buds.
 </div>
 <div class="g-col">
 A grainy cacophony loudly blares out from the 13th century Manor house. 
-It only becomes louder and more disorienting as it reverberates within its maze like halls.
+A path flanked by [Red bugloss](https://en.wikipedia.org/wiki/Echium_wildpretii) leads to its grand entrance.
+These towering tapering plants of thin long succulent leaves transition to a beautiful full covering of small sunset red flowers.
+Even now they are covered in ravenous buzzing honey bees.
 
 - How do the investigators intend to traverse the large house?
+- The cacophony only becomes louder and more disorienting as it reverberates within its maze like halls.
 - The walls are covered with the portraits of bell-headed gentry.
-- [Gramophone Head](/the_toll_of_unmeaning/the_guillotined.qmd#gramophone-head) can be found alone in a massive ballroom attempting to drink whiskey and smoke a cigar as their gramophone lets out the horrendous dirge.
+- The massive ballroom on the top floor
+  - Chandeliers dangle from the ceiling, potted [Red bugloss](https://en.wikipedia.org/wiki/Echium_wildpretii) line the walls, and massive windows overlook the gardens.
+  - [Gramophone Head](/the_toll_of_unmeaning/the_guillotined.qmd#gramophone-head) can be found alone here attempting to drink whiskey and smoke cigars as their gramophone lets out the horrendous dirge.
+- [Red bugloss](https://en.wikipedia.org/wiki/Echium_wildpretii) are valued by beekeepers for their high nectar content.
 </div>
 </div>
 
@@ -114,32 +120,23 @@ It only becomes louder and more disorienting as it reverberates within its maze 
 </div>
 <div class="g-col">
 Clean geometric flat stones lead a path through this highly manicured garden.
-This tranquillity belies the strangeness of the flora that call this haven home. 
+But this all changes in an instant as monstrous [Venus flytraps](https://en.wikipedia.org/wiki/Venus_flytrap) burst greedily from the soils, their taco like heads devouring all other plants.
+Crown of lashes and murderous actions make them the new king conquerors of this domain.
 
 - Various posters describe the award winning garden and how it benefits individuals diagnosed with rare dementias.
 - [Rotary Phone Head](/the_toll_of_unmeaning/the_guillotined.qmd) sits on a bench waiting in the shadows. With a rustle they will quickly hide when investigators approach.
   - From then on Rotary phone head is activated and will stalk the investigators, attempting to ambush any isolated investigators at other locations.
   - The bench is dedicated to his wife Cherry.
+- [Venus flytrap](https://en.wikipedia.org/wiki/Venus_flytrap)
+  - Multiple shoots burst greedily from the ground, each topped with a taco like head crowned with lashes of its own flesh.
 </div>
 </div>
 
-The strange bizarre looking plants include:
-
-- [Buddha's hand](https://en.wikipedia.org/wiki/Buddha%27s_hand)
-  - A citron tree with thick rinded lemon-like fruit that split into a multitude of tentacles.
 - [Darwin's slippers](https://en.wikipedia.org/wiki/Calceolaria_uniflora)
   - A low rock bound plant with flowers that look like happy little aliens.
 - [Doll's eyes](https://en.wikipedia.org/wiki/Actaea_pachypoda)
   - An ornamental plant with long magenta stems. Perpendicular growths are capped with pure white berries containing a watching black dot.
   - All parts are toxic. Berries contain cardiac toxins that can lead to cardiac arrest and death.
-- [Jackal food](https://en.wikipedia.org/wiki/Hydnora_africana)
-  - A maw of three pointed jaws reaches for the sky from the dirt. Its skin is like dried out bark, yet its insides are the textures and colours of tongue. The mouth like appearance is made complete by teeth of dry white fibres.
-- [Red bugloss](https://en.wikipedia.org/wiki/Echium_wildpretii)
-  - A towering tapering plant of thin long succulent leaves transitioning to a beautiful full covering of small sunset red flowers.
-- [Tropical pitcher plant](https://en.wikipedia.org/wiki/Nepenthes)
-  - A thin waxy tendril descends before sharply bending up as it turns to a vein covered pitcher. A lid casts a shadow over a lipped opening.
-- [Venus flytrap](https://en.wikipedia.org/wiki/Venus_flytrap)
-  - Multiple shoots burst greedily from the ground, each topped with a taco like head crowned with lashes of its own flesh.
 
 ## (8) Sakura Cherry Garden {.h2centre}
 
@@ -171,15 +168,19 @@ Provides 1 stability whilst in a character's inventory. If the character reaches
 </div>
 <div class="g-col">
 A garden surrounded by large manicured yew hedges. 
-Plant beds lay bare and trampled.
+Plant beds lay bare and trampled, citron trees plucked of all their fruit.
 Dirt flows down the four grassy ramps to the central griffin topped sundial.
-It is surrounded by a wreath of flowers and nettles.
+It is surrounded by a wreath of flowers, nettles, and the yellow tentacled fruit of the [Buddha's hand citron](https://en.wikipedia.org/wiki/Buddha%27s_hand).
 
-With rashy dirt-caked hands a calm figure appreciates the scene.
+With rashy fragrant dirt-caked hands a calm figure appreciates the scene.
 It wears a waistcoat and shirt over its lithe torso and a typewriter above it. 
 
 - Here stands the friendly, and currently relaxed, [Typewriter Head](/the_toll_of_unmeaning/the_guillotined.qmd#typewriter-head).
 - The sharp shadow across the sundial shows it to be 7 o'clock. It is unclear where the light comes from.
+- [Buddha's hand](https://en.wikipedia.org/wiki/Buddha%27s_hand)
+  - A citron tree with thick rinded lemon-like fruit that split into a multitude of tentacles.
+  - The fruit is fragrant, containing edible rind and pith but no pulp or juice.
+
 </div>
 </div>
 

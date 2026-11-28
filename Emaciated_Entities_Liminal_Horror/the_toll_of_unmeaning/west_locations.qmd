@@ -12,7 +12,22 @@ The 10 west locations can only be accessed through the [Gilbury Bridge](/the_tol
 ![](images/augustinii_corner.png)
 </div>
 <div class="g-col">
-An intersection of 2 paths, a part of the gardens forgotten by visitors and staff alike. The vegetation encroaches onto the paths leading to 2 dead ends. [Chalkboard head](/the_toll_of_unmeaning/the_guillotined.qmd#chalkboard-head) crouches here, failing to gather his thoughts through the sound of his scraping chalkboard.
+An intersection of 2 paths, a part of the gardens forgotten by visitors and staff alike. 
+Two dead ends are surrounded by a variety of evergreen trees.
+However, the fragrance of pine is too weak to disguise the horrible faecal smell emanating from dirt-bound fungal like maws.
+
+These so called [Jackal food](https://en.wikipedia.org/wiki/Hydnora_africana) fruits each have three pointed jaws reaching for the sky. 
+Their skin is like dried out bark, yet its insides are the textures and colours of tongue. 
+The mouth like appearance made complete by teeth of dry white fibres.
+
+Yet it is not these that are the most unpleasant sensory experience.
+Nails on a chalkboard ring out in legato.
+The soloist a crouched figure, the instruments its own head and deeply chipped fingernails.
+
+- [Chalkboard head](/the_toll_of_unmeaning/the_guillotined.qmd#chalkboard-head) frantically scratches at its own face trying to clear the chalk so it can hear its own thoughts.
+- The two dead ends lead deep into the forest.
+  - Characters who try to leave out one dead end will eventually find themselves returning via the other dead end.
+
 </div>
 </div>
 
@@ -38,9 +53,14 @@ A curling boardwalk over a dreaded bog. Whispers of dead loved ones will speak i
 ![](images/bog_garden.png)
 </div>
 <div class="g-col">
-The Bog Gardens are obscured in a steam mist produced by [Steam Whistle Head]((/the_toll_of_unmeaning/the_guillotined.qmd)).
+The Bog Gardens are obscured in a steamy mist accompanied by an echoing whistle.
+The warm humidity allows new [Tropical pitcher plants](https://en.wikipedia.org/wiki/Nepenthes) to grow.
+Their elongated mouths overflow with water and bugs that constantly drip onto the drenched ground below them.
 
-- It is difficult to find [Steam Whistle Head](/the_toll_of_unmeaning/the_guillotined.qmd#steam-whistle-head) as their whistle echoes in the mist and the poor visibility makes navigating the bog dangerous.
+- Steam/humidity produced by [Steam Whistle Head]((/the_toll_of_unmeaning/the_guillotined.qmd)).
+  - They are difficult to find as their whistle echoes in the mist and the poor visibility makes navigating the bog dangerous.
+- [Tropical pitcher plant](https://en.wikipedia.org/wiki/Nepenthes)
+  - A thin waxy tendril descends before sharply bending up as it turns to a vein covered pitcher. A lid casts a shadow over a lipped opening.
 </div>
 </div>
 
@@ -79,7 +99,15 @@ Consume (d6) Pummel (d8 + d8)
 
 </div>
 <div class="g-col">
-Static washes through the area as [CRT TV Head](/the_toll_of_unmeaning/the_guillotined.qmd#crt-tv-head) looks over the pond. Moths buzz around their head as dragonflies fly in and out of the light hunting them.
+Static washes over the area as a flickering light reveals a pond bordered by mangroves.
+Shadows of dragonflies play across the twisted interconnected trees, hunting moths attracted to the glow of a CRT TV that was once a head.
+The television topped individual sways their hands as if orchestrating the performance before them.
+
+- The light and static come from [CRT TV Head](/the_toll_of_unmeaning/the_guillotined.qmd#crt-tv-head).
+  - The moths and dragonflies dance to her music and light keeping her placated.
+  - She will want the attention and adoration of anyone she sees.
+- [Mangroves](https://en.wikipedia.org/wiki/Mangrove)
+  - Trees that live in brackish water. Their tough roots rise out of the soil and water as if many trees bend and conjoin into one.
 </div>
 </div>
 
@@ -93,9 +121,19 @@ Static washes through the area as [CRT TV Head](/the_toll_of_unmeaning/the_guill
 <div class="g-col">
 Weeping willows reflect off the still surface of the pond. The long dangling branches sway in in the absence wind.
 
-- The branches of the trees sink into the water, they grab and attempt to drown the vain.
+- The branches of the trees sink into the water reaching to all its edges.
+- The **Weeping willow branches** attempt to grab anyone who approaches the pond and drag them into the water.
+- The branches can only grab one person at a time.
 </div>
 </div>
+
+### Weeping willow branches
+
+**STR**: 7 **DEX**: 14 **CTRL** 7<br>**HP**: 3
+
+Drag (d6, *targets DEX*)
+
+- **Submerge & drown**: When the target is dealt damage directly to their DEX score they must make a DEX Save. Upon failure, the target is dragged and submerged under the water. If submerged the target drowns and dies upon failure when they fail their DEX Save due to this ability or if they reach 0 DEX.
 
 ## (7) Mirror Ponds {.h2centre}
 

@@ -33,7 +33,7 @@ Possible solutions:
 **STR**: 8 **DEX**: 10 **CTRL**: 14  <br>
 **HP**: 3
 
-Typewriter clatter (d4 stress)
+Typewriter clatter (d4 Stress)
 
 - Anxious analog tech hipster turned typewriter headed abomination. 
 - Their gnashing teeth now replaced by the clattering of keys.
@@ -67,7 +67,7 @@ Possible solutions:
 __STR__: 12 __DEX__: 6 __CTRL__: 10<br>
 HP: 6
 
-Steam blast (d6, blast)
+Steam blast (d6, *blast*)
 
 - Trainspotter with the head of a steam whistle. 
 - Its whistle echoes in the fog of steam it constantly emits.
@@ -84,7 +84,7 @@ Possible situations:
 __STR__: 10 __DEX__: 10 __CTRL__: 10<br> 
 __HP__: 3
 
-Nails on a chalkboard (d4 stress)
+Nails on a chalkboard (d4 Stress)
 
 - A professor with the head of a chalkboard. 
 - It constantly scratches at its chalkboard face letting out a repulsive screech.
@@ -102,7 +102,7 @@ Possible solutions:
 __STR__: 12 __DEX__: 14 __CTRL__: 6<br>
 __HP__: 6
 
-TV glow (d6 DEX)
+TV glow (d6, *targets DEX*)
 
 - Once a fitness and dance instructor they are now weighed down with the head of a heavy CRT TV. 
 - Pure static is a poor substitute for the music of their soul.

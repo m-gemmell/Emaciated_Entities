@@ -1,0 +1,12 @@
+# The gardens' fallouts
+
+If a character gains fallout due to one of [the guillotined](/the_toll_of_unmeaning/the_guillotined.qmd) or the bell please use [The Toll of Unmeaning fallouts](/the_toll_of_unmeaning/fallouts.qmd).
+If a character gains a fallout from the something else in the gardens please use the below set of fallouts.
+
+1. *Citrus medica var. sarcodactylis*: Each of your hands grows out from the side to accommodate new fingers whilst wrapping around to enclose the palm. Gain +2d6 new fingers and half that (rounded up) DEX (max 18).
+2. *Dionaea muscipula*: Small stiff hair like structures made of your skin and flesh sparsely cover your body. The second time you are dealt damage (STR, or DEX) by the same entity you may make a free attack against them.
+3. *Echium wildpretii*: Small sunset red flowers grow from your arms. When uncovered they attract pollinating insects due to their high nectar content.  
+4. *Hydnora africana*: Your lower jaw bone splits in two allowing you to open it wide like a snake's. You may release an enzyme from your mouth that dissolves plants (d12 damage).
+5. *Nepenthes*: Seven small red crabs live within your stomach. After you eat you can give the cast a simple command. They will emerge from large lipped orifices on your belly, attempt to complete the task, before returning to their home you.
+6. *Rhizophora mangle*: (Red mangrove)
+
